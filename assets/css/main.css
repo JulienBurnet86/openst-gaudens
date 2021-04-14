@@ -2220,7 +2220,7 @@ input, select, textarea {
 				color: inherit;
 			}
 
-		#header .button {
+		footer .button.circled {
 			display: inline-block;
 			border-radius: 100%;
 			width: 4.5em;
