@@ -1,0 +1,12 @@
+p.files {
+	text-align: center;
+	font-size: 50px;
+}
+
+nav {
+	background-color: rgba(0, 0, 0, 0.73);
+}
+
+nav::after {
+	opacity: 0.5;
+}
