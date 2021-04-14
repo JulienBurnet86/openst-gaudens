@@ -10,3 +10,9 @@ nav {
 nav::after {
 	opacity: 0.5;
 }
+
+#header .inner p.date {
+	font-size: 2em;
+	color: black;
+	font: bolder;
+}
