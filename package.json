@@ -1,0 +1,23 @@
+{
+  "name": "openst-gaudens",
+  "version": "1.0.0",
+  "description": "Website of ITF tournament of Saint-Gaudens",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulienBurnet86/openst-gaudens.git"
+  },
+  "author": "Julien BURNET",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulienBurnet86/openst-gaudens/issues"
+  },
+  "homepage": "https://github.com/JulienBurnet86/openst-gaudens#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0"
+  }
+}
