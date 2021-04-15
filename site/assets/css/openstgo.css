@@ -16,3 +16,7 @@ nav::after {
 	color: black;
 	font: bolder;
 }
+
+.center {
+	text-align: center;
+}
