@@ -78,9 +78,12 @@ rounds = [
 	[
 
 	], 
+	[
+
+	], 
 ];
 
-var titles = ['1st Round', '2nd round', 'Quarter', 'Semi', 'Finale']; //-- example titles
+var titles = ['1st Round', '2nd round', '3rd round', 'Quarter', 'Semi', 'Finale']; //-- example titles
 
 $('#singles').brackets({
     rounds: rounds, //-- JSON with matches of the each round
