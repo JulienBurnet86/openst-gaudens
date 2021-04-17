@@ -65,6 +65,70 @@ rounds = [
                 name: " ",
             },
         },
+        {
+            player1: {
+                name: " ",
+            },
+            player2: {
+                name: " ",
+            },
+        },
+        {
+            player1: {
+                name: " ",
+            },
+            player2: {
+                name: " ",
+            },
+        },
+        {
+            player1: {
+                name: " ",
+            },
+            player2: {
+                name: " ",
+            },
+        },
+        {
+            player1: {
+                name: " ",
+            },
+            player2: {
+                name: " ",
+            },
+        },
+        {
+            player1: {
+                name: " ",
+            },
+            player2: {
+                name: " ",
+            },
+        },
+        {
+            player1: {
+                name: " ",
+            },
+            player2: {
+                name: " ",
+            },
+        },
+        {
+            player1: {
+                name: " ",
+            },
+            player2: {
+                name: " ",
+            },
+        },
+        {
+            player1: {
+                name: " ",
+            },
+            player2: {
+                name: " ",
+            },
+        },
     ],
 
     [
