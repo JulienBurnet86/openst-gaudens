@@ -7,5 +7,5 @@ gulp.task('fileinclude', function() {
       prefix: '@@',
       basepath: '@file'
     }))
-    .pipe(gulp.dest('./site'));
+    .pipe(gulp.dest('../'));
 });
