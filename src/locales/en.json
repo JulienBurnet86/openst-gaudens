@@ -3,6 +3,13 @@
 		"date": "10 - 16 May 2021",
 		"name": "Open Saint-Gaudens <br/>ITF 60.000$"
 	},
+	"nav": {
+		"index": "Home",
+		"pictures": "Pictures",
+		"results": "Results",
+		"draw": "Draws & OOP",
+		"stream": "Live Video"
+	},
 	"index": {
 		"next": "Next",
 		"draw" : {
