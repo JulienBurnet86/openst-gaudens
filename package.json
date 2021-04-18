@@ -18,6 +18,7 @@
   "homepage": "https://github.com/JulienBurnet86/openst-gaudens#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-file-include": "^2.3.0"
+    "gulp-file-include": "^2.3.0",
+    "gulp-static-i18n-html": "^0.4.0"
   }
 }

@@ -1,0 +1,28 @@
+{
+	"header": {
+	  "date": "10 - 16 Mai 2021",
+	  "name": "Open Saint-Gaudens <br/>ITF 60.000$"
+	},
+	"index": {
+		"next": "Suiv.",
+		"draw" : {
+			"title" : "Tableaux et Programmes",
+			"subtitle" : "Les tableaux et programmes sont mis à jour chaque soir <br/> Dernière maj : 14/04/2021",
+			"oop": "Programmes",
+			"single": "Simples",
+			"doubles": "Doubles"
+		},
+		"president" : {
+			"title": "Le mot du président",
+			"subtitle": "L’Open Engie St-Gaudens 31 Midi-Pyrénées est un évènement majeur dans la vie sportive de notre Région.",
+			"content1": "Tournoi international de Tennis féminin de simple et de double, doté de 60.000 dollars de prix, il attribue 150 points pour le classement mondial des joueuses.",
+			"content2":"Cette manifestation est soutenue par les assemblées locales et territoriales, la fédération nationale de tennis et la Jeunesse et sports, ",
+			"content3":"sponsorisée par des acteurs économiques locaux et nationaux.",
+			"content4":"Elle donne des rencontres de grand intérêt dû à la qualité de jeu exceptionnelle dont font preuve les meilleures classées mondiales à l’A.T.P.",
+			"content5":"Ainsi, les Françaises Caroline Garcia, Pauline Parmentier qui se sont toutes deux illustrées lors de la Fed Cup 2014 , ",
+			"content6":"Feuerstein, Razzano, Aravane Rezai un temps dans le top 20 du classement mondial, ont montré leur talent sur les courts du stade Jules Ribet tout au long des 19 éditions précédentes .Par ailleurs ,peu de sites peuvent se prévaloir d’avoir accueilli des joueuses telles que Samantha Stosur (vainqueur de l’US Open en 2011, et finaliste de Roland Garros en 2010), Caroline Wozniaki (quelque temps n°1 mondiale avec 18 titres sur le circuit) ou encore Francesca Schiavone (vainqueur de Roland Garros en 2010).",
+			"content7":"En outre, l’accueil familial et les installations jugées plus que convenables confèrent à cette manifestation une réputation maintenant bien établie qui a attiré et attire toujours des joueuses du monde entier que l’on retrouve ensuite sur les tournois du grand schlem. Bien situé dans le calendrier des rencontres, il est, du 10 au 16 Mai 2021 un des tournois sur terre battue pouvant servir de préparation pour Roland Garros ; ceci devrait favoriser un tableau encore plus élevé. "
+
+		}
+	}
+}
