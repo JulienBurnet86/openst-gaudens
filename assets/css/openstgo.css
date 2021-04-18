@@ -13,8 +13,8 @@ nav::after {
 
 #header .inner p.date {
 	font-size: 2em;
-	color: black;
-	font: bolder;
+	color: white;
+	font-weight: bold;
 }
 
 .center {
