@@ -32,6 +32,9 @@
 			"single": "Simples",
 			"doubles": "Doubles"
 		},
+		"partners" : {
+			"title": "Nos partenaires"
+		},
 		"president" : {
 			"title": "Le mot du président",
 			"subtitle": "L’Open Engie St-Gaudens 31 Midi-Pyrénées est un évènement majeur dans la vie sportive de notre Région.",

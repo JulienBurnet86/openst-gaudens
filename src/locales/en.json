@@ -25,6 +25,9 @@
 	},
 	"index": {
 		"next": "Next",
+		"partners" : {
+			"title": "Our Sponsors"
+		},
 		"draw" : {
 			"title" : "Draws and OOP",
 			"subtitle" : "Draws and OOP are updated every night ! <br/> Last update : 14/04/2021",
