@@ -21,6 +21,10 @@ nav::after {
 	text-align: center;
 }
 
+.middle {
+	margin: auto;
+}
+
 img.flag {
 	
 }
