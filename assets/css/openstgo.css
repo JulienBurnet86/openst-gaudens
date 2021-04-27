@@ -17,7 +17,7 @@ nav::after {
 	font-weight: bold;
 }
 
-.center {
+.center, .center * {
 	text-align: center;
 }
 

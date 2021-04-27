@@ -21,7 +21,8 @@
 		"pictures": "Photos",
 		"results": "Resultats",
 		"draw": "Tableaux & Programmes",
-		"stream": "Vidéo en direct"
+		"stream": "Vidéo en direct",
+		"infos": "Informations"
 	},
 	"index": {
 		"next": "Suiv.",
@@ -47,5 +48,22 @@
 			"content7":"En outre, l’accueil familial et les installations jugées plus que convenables confèrent à cette manifestation une réputation maintenant bien établie qui a attiré et attire toujours des joueuses du monde entier que l’on retrouve ensuite sur les tournois du grand schlem. Bien situé dans le calendrier des rencontres, il est, du 10 au 16 Mai 2021 un des tournois sur terre battue pouvant servir de préparation pour Roland Garros ; ceci devrait favoriser un tableau encore plus élevé. "
 
 		}
+	},
+	"infos": {
+		"program_title" : "Programme sportif",
+		"program_1" : "Du Vendredi 7 au Dimanche 9 Mai",
+		"program_2" : "Arrivée des joueuses et practice",
+		"program_3" : "Dimanche 9 Mai",
+		"program_4" : "Tirage au sort des tableaux",
+		"program_5" : "Lundi 10 Mai", 
+		"program_6" : "Qualifications", 
+		"program_7" : "Du Mardi 11 au Jeudi 13 mai",
+		"program_8" : "Tableaux simple et doubles",
+		"program_9" : "Vendredi 14 mai",
+		"program_10" : "Finale doubles", 
+		"program_11" : "Samedi 15 mai",
+		"program_12" : "Demi-Finale simple", 
+		"program_13" : "Dimanche 16 mai", 
+		"program_14" : "Finale simple"
 	}
 }
