@@ -2,7 +2,8 @@ const fileinclude = require('gulp-file-include');
 const staticI18nHtml = require('gulp-static-i18n-html');
 const gulp = require('gulp')
 	watch = require('gulp-watch')
-	browserSync = require('browser-sync').create();
+	browserSync = require('browser-sync').create()
+	babel = require('gulp-babel');
 
 gulp.task('copydata', function() {
 	return gulp.src("src/**/*.json")
@@ -29,7 +30,17 @@ gulp.task('i18n', function() {
 		.pipe(gulp.dest('.'));
 });
 
-exports.default = gulp.series('copydata', 'fileinclude', 'i18n')
+gulp.task('babel', function() {
+	return gulp.src('src/components/players.jsx')
+		.pipe(babel({
+			presets: ['@babel/preset-react'],
+			plugins: ['@babel/plugin-syntax-jsx']
+		}))
+		.pipe(gulp.dest('assets/js/'))
+});
+
+
+exports.default = gulp.series('copydata', 'fileinclude', 'i18n', 'babel')
 
 gulp.task('serve', function() {
 	
