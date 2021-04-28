@@ -22,7 +22,7 @@ class EntryLists extends React.Component {
   }
 
   componentDidMount() {
-    fetch("assets/js/entryList.json").then(response => {
+    fetch("/assets/js/entryList.json").then(response => {
       return response.json();
     }).then(json => {
       return json[0].entryClassifications;
