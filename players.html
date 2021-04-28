@@ -12,6 +12,7 @@
 <link rel="stylesheet" href="assets/css/main.css">
 <link rel="stylesheet" href="assets/css/openstgo.css">
 <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
+		<link rel="stylesheet" href="assets/css/bootstrap-table.css">
 	</head>
 	<body class="no-sidebar is-preload">
 		<div id="page-wrapper">
@@ -59,39 +60,15 @@
 				<div class="wrapper style1">
 
 					<div class="container">
-						<article id="main" class="special">
-							<header>
-								<h2><a href="#">Pictures</a></h2>
-								<p>Trouvez ici les photos, en liens sur flickr, regroupées par joueuses !</p>
-							</header>
-						</article>
-						
-					</div>
-
-					<section class="carousel">
-						<div class="reel">
-							<article>
-								<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72157697077351705" title="Yana SIZIKOVA"><img src="https://live.staticflickr.com/982/42259590731_2dd666acdf_n.jpg" width="320" height="240" alt="Yana SIZIKOVA"></a>
-								<p>Yana SIZIKOVA</p>
+						<section id="players" class="container special">
+							<article id="central" class="container special">
+								<div id="entryList" class="center">
+									
+								</div>
 							</article>
-							<article>
-								<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72157691301058830" title="Viktoriya TOMOVA"><img src="https://live.staticflickr.com/958/40452501900_785b30726b_n.jpg" width="320" height="240" alt="Viktoriya TOMOVA"></a>
-								<p>Viktoriya TOMOVA</p>
-							</article>
-							<article>
-								<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72157693932160352" title="Quirine LEMOINE"><img src="https://live.staticflickr.com/909/28385441718_4bcab435c6_n.jpg" width="320" height="240" alt="Quirine LEMOINE"></a>
-								<p>Quirine LEMOINE</p>
-							</article>
-							<article>
-								<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72157696464012474" title="Priscilla HEISE"><img src="https://live.staticflickr.com/945/27388265197_86c88f9fcf_n.jpg" width="320" height="240" alt="Priscilla HEISE"></a>
-								<p>Priscilla HEISE</p>
-							</article>
-							<article>
-								<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72157696459261524" title="Arantxa RUS"><img src="https://live.staticflickr.com/962/41534524674_b9274d2275_n.jpg" width="320" height="240" alt="Arantxa RUS"></a>								
-								<p>Arantxa RUS</p>
-							</article>
-						</div>
-					</section>
+						</section>
+						<player-list>
+					</player-list></div>
 
 				</div>
 
@@ -142,7 +119,13 @@
 insights.init('zNxYVGwBJg32ZfPn');
 insights.trackPages();
 </script>
-		<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+		<!-- <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+		<script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+		<script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+		<script type="text/jsx" src="assets/js/players.js"></script> -->
+		<script src="https://unpkg.com/react@16/umd/react.production.min.js" crossorigin></script>
+		<script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js" crossorigin></script>
+		<script src="assets/js/players.js"></script>
 	</body>
 </html>

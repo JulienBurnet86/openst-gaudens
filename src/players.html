@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<!--
+	Helios by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		@@include('./parts/head.html')
+		<link rel="stylesheet" href="assets/css/bootstrap-table.css" >
+	</head>
+	<body class="no-sidebar is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+			@@include('./parts/simpleheader.html')
+
+			<!-- Main -->
+				<div class="wrapper style1">
+
+					<div class="container">
+						<section id="players" class="container special">
+							<article id="central" class="container special">
+								<div id="entryList" class="center">
+									
+								</div>
+							</article>
+						</section>
+						<player-list />
+					</div>
+
+				</div>
+
+			<!-- Footer -->
+			@@include('./parts/footer.html')
+
+		</div>
+
+		<!-- Scripts -->
+		@@include('./parts/scripts.html')
+
+		<!-- <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+		<script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+		<script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+		<script type="text/jsx" src="assets/js/players.js"></script> -->
+		<script src="https://unpkg.com/react@16/umd/react.production.min.js" crossorigin></script>
+		<script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js" crossorigin></script>
+		<script src="assets/js/players.js"></script>
+	</body>
+</html>

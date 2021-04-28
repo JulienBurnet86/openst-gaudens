@@ -22,7 +22,8 @@
 		"results": "Resultats",
 		"draw": "Tableaux & Programmes",
 		"stream": "Vidéo en direct",
-		"infos": "Informations"
+		"infos": "Informations",
+		"players": "Joueuses"
 	},
 	"index": {
 		"next": "Suiv.",
@@ -57,13 +58,11 @@
 		"program_4" : "Tirage au sort des tableaux",
 		"program_5" : "Lundi 10 Mai", 
 		"program_6" : "Qualifications", 
-		"program_7" : "Du Mardi 11 au Jeudi 13 mai",
+		"program_7" : "Du Mardi 11 au Vendredi 14 mai",
 		"program_8" : "Tableaux simple et doubles",
-		"program_9" : "Vendredi 14 mai",
-		"program_10" : "Finale doubles", 
-		"program_11" : "Samedi 15 mai",
-		"program_12" : "Demi-Finale simple", 
-		"program_13" : "Dimanche 16 mai", 
-		"program_14" : "Finale simple"
+		"program_9" : "Samedi 15 mai",
+		"program_10" : "Demi-Finale simple et finale double", 
+		"program_11" : "Dimanche 16 mai", 
+		"program_12" : "Finale simple"
 	}
 }
