@@ -44,7 +44,7 @@ class EntryLists extends React.Component {
 	}
 
 	componentDidMount() {
-		fetch("assets/js/entryList.json")
+		fetch("/assets/js/entryList.json")
 		.then(response => {
 			return response.json();
 		})
