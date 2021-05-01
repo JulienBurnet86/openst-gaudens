@@ -28,7 +28,7 @@ class EntryLists extends React.Component {
       return json[0].entryClassifications;
     }).then(lists => {
       this.setState({
-        lists: lists
+        lists: [lists[0], lists[1]]
       });
     });
   }
