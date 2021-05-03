@@ -67,6 +67,6 @@
 	},
 	"footer": {
 		"title": "Une question ?",
-		"content_1": "Pour toutes questions, vous pouvez contacter l'organisation <a href=\"mailto:openst-gaudens@gmail.com\">ici</a> "
+		"content_1": "Pour toutes questions, vous pouvez contacter l'organisation <a class='underlined' href=\"mailto:openst-gaudens@gmail.com\">ici</a> "
 	}
 }

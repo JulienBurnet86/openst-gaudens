@@ -28,3 +28,7 @@ nav::after {
 header h1 {
 	-webkit-text-stroke: 0.4px grey;
 }
+
+.underlined {
+	text-decoration: underline;
+}
