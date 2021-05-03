@@ -63,5 +63,9 @@
 		"program_10" : "Singles semi-finale & Doubles Finale", 
 		"program_11" : "Sunday 16th of may", 
 		"program_12" : "Singles Finale"
+	},
+	"footer": {
+		"title": "Any question ?",
+		"content_1": "For any question, please contact the organisation <a href=\"mailto:openst-gaudens@gmail.com\">here</a> "
 	}
 }

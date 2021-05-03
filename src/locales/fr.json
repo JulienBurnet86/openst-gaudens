@@ -64,5 +64,9 @@
 		"program_10" : "Demi-Finale simple et finale double", 
 		"program_11" : "Dimanche 16 mai", 
 		"program_12" : "Finale simple"
+	},
+	"footer": {
+		"title": "Une question ?",
+		"content_1": "Pour toutes questions, vous pouvez contacter l'organisation <a href=\"mailto:openst-gaudens@gmail.com\">ici</a> "
 	}
 }
