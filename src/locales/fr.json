@@ -9,7 +9,7 @@
 		"title" : "Trouvez ici les photos, en liens sur flickr, regroupées par joueuses !"
 	},
 	"results": {
-		"single": "Simples",
+		"title": "Tableaux",
 		"update": "Mise à jour le"
 	},
 	"header": {

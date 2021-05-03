@@ -9,7 +9,7 @@
 		"title" : "Here find pictures, hosted by @flickr, grouped by players"
 	},
 	"results": {
-		"single": "Singles",
+		"title": "Draws",
 		"update": "Last update on"
 	},
 	"header": {

@@ -32,3 +32,14 @@ header h1 {
 .underlined {
 	text-decoration: underline;
 }
+
+/* Results */
+
+.player {
+	text-align: center;
+}
+
+.score {
+	margin-left: 25%;
+	margin-top: 10%;
+}
