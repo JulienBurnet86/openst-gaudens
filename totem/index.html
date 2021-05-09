@@ -14,6 +14,9 @@
 	#mdd {
 		display: none;
 	}
+	#qds {
+		display: none;
+	}
 </style>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 <script>
@@ -38,6 +41,9 @@
 		<div class="col-8 pdfs" id="op">
 			<img class="mx-auto d-block" src="/docs/OP.jpeg"  ></img>
 		</div>
+		<div class="col-8 pdfs" id="qds">
+			<img class="mx-auto d-block" src="/docs/QDS.jpeg"></img>
+		</div>
 		<div class="col-8 pdfs" id="mds">
 			<img class="mx-auto d-block" src="/docs/MDS.jpeg"></img>
 		</div>
@@ -49,6 +55,11 @@
 				<div class="col-12">
 					<button type="button" onclick="selectPdf('op')" class="btn btn-primary btn-block"> Order Of Play </button>
 				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<button type="button" onclick="selectPdf('qds')" class="btn btn-primary btn-block"> Quali Single </button>
+				</div>					
 			</div>
 			<div class="row">
 				<div class="col-12">
