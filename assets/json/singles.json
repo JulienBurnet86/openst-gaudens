@@ -3,7 +3,7 @@
 		[
 			{
 				"player1": {
-					"name": ""
+					"name": "V. Golubic [1]"
 				},
 				"player2": {
 					"name": ""
@@ -11,7 +11,7 @@
 			},
 			{
 				"player1": {
-					"name": " "
+					"name": "I. Shinikova"
 				},
 				"player2": {
 					"name": " "
@@ -27,10 +27,90 @@
 			},
 			{
 				"player1": {
-					"name": " "
+					"name": "B. Haddad Maia"
+				},
+				"player2": {
+					"name": "C. Bucsa [8]"
+				}
+			},
+			{
+				"player1": {
+					"name": "K. Kucova [3]"
 				},
 				"player2": {
 					"name": " "
+				}
+			},
+			{
+				"player1": {
+					"name": "Elsa Jacquemot"
+				},
+				"player2": {
+					"name": " "
+				}
+			},
+			{
+				"player1": {
+					"name": "A. Dulgheru"
+				},
+				"player2": {
+					"name": "Laura-Ioana Paar"
+				}
+			},
+			{
+				"player1": {
+					"name": "Aubane Droguet"
+				},
+				"player2": {
+					"name": "Harmony Tan [6]"
+				}
+			},
+			{
+				"player1": {
+					"name": "Clara Burel [7]"
+				},
+				"player2": {
+					"name": "M. Bolkvadze"
+				}
+			},
+			{
+				"player1": {
+					"name": "E-G. Ruse"
+				},
+				"player2": {
+					"name": "M. Di Giuseppe"
+				}
+			},
+			{
+				"player1": {
+					"name": "Destanee Aiava"
+				},
+				"player2": {
+					"name": "M-G Carrasco"
+				}
+			},
+			{
+				"player1": {
+					"name": "En Shuo Liang"
+				},
+				"player2": {
+					"name": "Kurumi Nara [4]"
+				}
+			},
+			{
+				"player1": {
+					"name": "Barbara Haas [5]"
+				},
+				"player2": {
+					"name": "S. Janicijevic"
+				}
+			},
+			{
+				"player1": {
+					"name": "Oceane Babel"
+				},
+				"player2": {
+					"name": "Julia Grabher"
 				}
 			},
 			{
@@ -43,90 +123,10 @@
 			},
 			{
 				"player1": {
-					"name": " "
+					"name": "Chloe Paquet"
 				},
 				"player2": {
-					"name": " "
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
+					"name": "Oceane Dodin [2]"
 				}
 			}
 		],
