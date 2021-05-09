@@ -2,23 +2,79 @@
 <html>
 <head>
 <title>Totem Utils Visualisation</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+	button {
+		height: 100px;
+		margin-bottom: 50px;
+	}
+	#mds {
+		display: none;
+	}
+	#mdd {
+		display: none;
+	}
+</style>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script>
+	selectPdf = (id) => {
+		$(".pdfs").each((idx, pdf) => {
+			if (id === pdf.id) {
+				$(pdf).show();
+			} else {
+				$(pdf).hide();
+			}
+		})
+	}
+</script>
 </head>
 <body>
 
 <div></div>
 
-<iframe src="/docs/OP.pdf" height="1500" width="100%"></iframe>
+<hr />
+<div class="container">
+	<div class="row">
+		<div class="col-8 pdfs" id="op">
+			<iframe src="/docs/OP.pdf"  height="850px" width="100%"></iframe>
+		</div>
+		<div class="col-8 pdfs" id="mds">
+			<iframe src="/docs/MDS.pdf" height="850px" width="100%"></iframe>
+		</div>
+		<div class="col-8 pdfs" id="mdd">
+			<iframe src="/docs/MDD.pdf" height="850px" width="100%"></iframe>
+		</div>
+		<div class="col-4">
+			<div class="row">
+				<div class="col-12">
+					<button type="button" onclick="selectPdf('op')" class="btn btn-primary btn-block"> Order Of Play </button>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<button type="button" onclick="selectPdf('mds')" class="btn btn-primary btn-block"> Main Draw Single </button>
+				</div>					
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<button type="button" onclick="selectPdf('mdd')" class="btn btn-primary btn-block"> Main Draw Doubles </button>
+				</div>					
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-12">
+			<iframe height="950" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMsLW4uogNRGiiuzBvURHCPg9p8kQnnN-1KFbQZHEJ8fN7KPYMt4zVzMMcTMzibVeWH-G9OZTA-TiG/pubhtml?widget=true&amp;headers=false">
+			</iframe>
+		</div>
+	</div>
+</div>
+
 <hr />
 
-<iframe src="https://docs.google.com/spreadsheets/d/1d_dOqVseOXUES26ZSIgZbeowG5qSwG8Kyrsk8Um-QIg/edit?usp=sharing"
-height="1500" width="100%"></iframe>
-
 <hr />
 
-<iframe src="/docs/MDS.pdf" height="1500" width="100%"></iframe>
-<hr />
-
-<iframe src="/docs/MDD.pdf" height="1500" width="100%"></iframe>
+<!-- <iframe src="/docs/MDD.pdf" height="1500" width="100%"></iframe> -->
 
 </body>
 
