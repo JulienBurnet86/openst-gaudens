@@ -3,7 +3,9 @@ const staticI18nHtml = require('gulp-static-i18n-html');
 const gulp = require('gulp')
 	watch = require('gulp-watch')
 	browserSync = require('browser-sync').create()
-	babel = require('gulp-babel');
+	babel = require('gulp-babel')
+	exec = require('gulp-exec')
+	filter = require('gulp-filter');
 
 gulp.task('copydata', function() {
 	return gulp.src("src/**/*.json")
@@ -31,7 +33,7 @@ gulp.task('i18n', function() {
 });
 
 gulp.task('babel', function() {
-	return gulp.src('src/components/players.jsx')
+	return gulp.src('src/components/*.jsx')
 		.pipe(babel({
 			presets: ['@babel/preset-react'],
 			plugins: ['@babel/plugin-syntax-jsx']
@@ -39,6 +41,21 @@ gulp.task('babel', function() {
 		.pipe(gulp.dest('assets/js/'))
 });
 
+gulp.task('convert', function() {
+	var options = {
+		continueOnError: false, // default = false, true means don't emit error event
+		pipeStdout: false, // default = false, true means stdout is written to file.contents
+	  };
+	  var reportOptions = {
+		  err: true, // default = true, false means don't write err
+		  stderr: true, // default = true, false means don't write stderr
+		  stdout: true // default = true, false means don't write stdout
+	  };
+	return gulp.src('./docs/*.pdf')
+	.pipe(filter(file => !file.path.endsWith("wb.pdf")))
+    .pipe(exec(file => `convert ${file.path} ${file.path.replace("pdf", "jpeg")}`, options))
+    .pipe(exec.reporter(reportOptions));
+})
 
 exports.default = gulp.series('copydata', 'fileinclude', 'i18n', 'babel')
 
@@ -49,6 +66,6 @@ gulp.task('serve', function() {
             baseDir: "./"
         }
     });
-	gulp.watch('src/**/*.html', exports.default); 
+	gulp.watch(['src/**/*.html', 'src/**/*.json', 'src/components/*'], exports.default); 
 		
 })
