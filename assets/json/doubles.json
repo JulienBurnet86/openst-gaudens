@@ -4,66 +4,76 @@
 		[
 			{
 				"player1": {
+					"name": "Silva/Zimmerm."
+				},
+				"player2": {
+					"name": "BYE"
+				}
+			},
+			{
+				"player1": {
+					"name": "Droguet/Janic."
+				},
+				"player2": {
+					"name": "Astakova/Maka."
+				}
+			},
+			{
+				"player1": {
+					"name": "Alava/Moratel."
+				},
+				"player2": {
+					"name": "Grabher/Zheng"
+				}
+			},
+			{
+				"player1": {
+					"name": "Albie/JeanJean"
+				},
+				"player2": {
+					"name": "Jacquemot/Warg."
+				}
+			},
+			{
+				"player1": {
+					"name": "Liang/Strakhova"
+				},
+				"player2": {
+					"name": "Bolkvadze/Shin."
+				}
+			},
+			{
+				"player1": {
+					"name": "Babel/Nguyen T."
+				},
+				"player2": {
+					"name": "Morderger/Mord."
+				}
+			},
+			{
+				"player1": {
+					"name": "Andrian./Monnet"
+				},
+				"player2": {
+					"name": "Bucsa/Koval"
+				}
+			},
+			{
+				"player1": {
+					"name": "Mikulsky./Simion"
+				},
+				"player2": {
+					"name": "Cascino/Ponchet"
+				}
+			}
+		],
+		[
+			{
+				"player1": {
+					"name": "Silva/Zimmerm."
+				},
+				"player2": {
 					"name": ""
-				},
-				"player2": {
-					"name": ""
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
-				}
-			},
-			{
-				"player1": {
-					"name": " "
-				},
-				"player2": {
-					"name": " "
 				}
 			}
 		],
