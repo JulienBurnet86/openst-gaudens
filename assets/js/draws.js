@@ -2,12 +2,12 @@ class Draws extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      selected: "singles"
+      selected: "quali"
     };
   }
 
   componentDidMount() {
-    this.reload("singles");
+    this.reload("quali");
   }
 
   handleChange(e) {
@@ -21,9 +21,6 @@ class Draws extends React.Component {
     fetch("/assets/json/" + draw + ".json").then(response => {
       return response.json();
     }).then(json => {
-      var titles = ['1st Round', '2nd round', '3rd round', 'Quarter', 'Semi', 'Finale']; //-- example titles
-
-      console.log(json);
       $('#singles').brackets(json);
     });
   }
@@ -34,12 +31,12 @@ class Draws extends React.Component {
       value: this.state.selected,
       onChange: this.handleChange.bind(this)
     }, /*#__PURE__*/React.createElement("option", {
+      value: "quali"
+    }, "Qualifications"), /*#__PURE__*/React.createElement("option", {
       value: "singles"
     }, "Singles"), /*#__PURE__*/React.createElement("option", {
       value: "doubles"
-    }, "Doubles"), /*#__PURE__*/React.createElement("option", {
-      value: "quali"
-    }, "Qualifications")), /*#__PURE__*/React.createElement("section", {
+    }, "Doubles")), /*#__PURE__*/React.createElement("section", {
       id: "singles"
     }));
   }

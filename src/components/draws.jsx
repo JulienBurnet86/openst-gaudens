@@ -2,13 +2,13 @@ class Draws extends React.Component {
 	constructor(props) {
 		super(props);
 		this.state = {
-			selected: "singles"
+			selected: "quali"
 		}
 		
 	}
 
 	componentDidMount() {
-		this.reload("singles")
+		this.reload("quali")
 	}
 
 	handleChange(e) {
@@ -22,8 +22,6 @@ class Draws extends React.Component {
 			return response.json();
 		})
 		.then(json => {
-			var titles = ['1st Round', '2nd round', '3rd round', 'Quarter', 'Semi', 'Finale']; //-- example titles
-			console.log(json)
 			$('#singles').brackets(json);
 		});
 	}
@@ -31,9 +29,9 @@ class Draws extends React.Component {
 	render() {
 		return <div>
 				<select name="selected" value={this.state.selected} onChange={ this.handleChange.bind(this) } >
+					<option value="quali">Qualifications</option>
 					<option value="singles">Singles</option>
 					<option value="doubles">Doubles</option>
-					<option value="quali">Qualifications</option>
 				</select>
 				<section id="singles">
 
