@@ -75,9 +75,54 @@
 				"player2": {
 					"name": ""
 				}
+			},
+			{
+				"player1": {
+					"name": ""
+				},
+				"player2": {
+					"name": "Jacquemot/Warg.",
+					"score": "7/6 6/0"
+				}
+			},
+			{
+				"player1": {
+					"name": ""
+				},
+				"player2": {
+					"name": "Babel/Nguyen T.",
+					"score": "7/6 7/5"
+				}
+			},
+			{
+				"player1": {
+					"name": "Andrian./Monnet ",
+					"score": "6/3 3/6 10/7"
+				},
+				"player2": {
+					"name": "Cascino/Ponchet",
+					"score": "6/3 5/7 10/5"
+				}
 			}
 		],
-		[],
+		[
+			{
+				"player1": {
+					"name": ""
+				},
+				"player2": {
+					"name": ""
+				}
+			},
+			{
+				"player1": {
+					"name": ""
+				},
+				"player2": {
+					"name": ""
+				}
+			}
+		],
 		[],
 		[]
 	]
