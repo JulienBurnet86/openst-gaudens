@@ -213,7 +213,50 @@
 				}
 			}
 		],
-		[],
+		[ 
+			{
+				"player1": {
+					"name" : "K. Gerlach",
+					"score": "6/1 6/4"
+				},
+				"player2": {
+					"name" : "T. Morderger",
+					"score": "3/6 6/2 10/5"
+				}
+
+			},
+			{
+				"player1": {
+					"name": "T.Andrianjafitrimo",
+					"score": "6/3 4/6 10/8"
+					
+				},
+				"player2" : {
+					"name": "Lois Boisson",
+					"score": "6/3 1/6 10/3"
+				}
+			},
+			{
+				"player1": {
+					"name": "Anna Bonda",
+					"score": "6/0 6/2"
+				},
+				"player2" : {
+					"name": "Diane Parry",
+					"score": "7/5 6/1"
+				}
+			},
+			{
+				"player1": {
+					"name": "M. Yerolimos",
+					"score": "6/1 6/1"
+				},
+				"player2" : {
+					"name": "Alice Rame",
+					"score": "6/4 5/7 10/8"
+				}
+			}
+		],
 		[],
 		[],
 		[]
