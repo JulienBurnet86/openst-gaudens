@@ -43,3 +43,8 @@ header h1 {
 	margin-left: 25%;
 	margin-top: 10%;
 }
+
+.signature {
+	width: 100%;
+	text-align: right;
+}
