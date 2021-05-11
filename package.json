@@ -27,9 +27,11 @@
     "gulp-download": "^0.0.1",
     "gulp-download2": "^1.1.0",
     "gulp-file-include": "^2.3.0",
+    "gulp-replace": "^1.1.3",
     "gulp-serve": "^1.4.0",
     "gulp-static-i18n-html": "^0.4.0",
     "gulp-watch": "^5.0.1",
+    "moment": "^2.29.1",
     "react": "^17.0.2",
     "reactjs": "^1.0.0"
   },

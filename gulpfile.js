@@ -5,12 +5,16 @@ const gulp = require('gulp')
 	browserSync = require('browser-sync').create()
 	babel = require('gulp-babel')
 	exec = require('gulp-exec')
+	replace = require('gulp-replace')
 	filter = require('gulp-filter');
+const moment = require('moment')
 
 gulp.task('copydata', function() {
 	return gulp.src("src/**/*.json")
 	.pipe(gulp.dest("compiled"))
 })
+
+const formattedDate = moment().format('DD/MM/YY hh:mm');
 
 gulp.task('fileinclude', function() {
 
@@ -19,6 +23,7 @@ gulp.task('fileinclude', function() {
 		  prefix: '@@',
 		  basepath: '@file'
 		}))
+		.pipe(replace('$$DATE$$', formattedDate))
 		.pipe(gulp.dest('compiled'))
 });
 
