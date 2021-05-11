@@ -17,9 +17,22 @@
 	#qds {
 		display: none;
 	}
+	.row {
+		overflow: hidden;
+	}
+    #frame {
+        -ms-zoom: 0.60;
+        -moz-transform: scale(0.60);
+        -moz-transform-origin: 0 0;
+        -o-transform: scale(0.60);
+        -o-transform-origin: 0 0;
+        -webkit-transform: scale(0.60);
+        -webkit-transform-origin: 0 0;
+    }
 </style>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 <script>
+	setTimeout(() => document.location.reload(), 60000)
 	selectPdf = (id) => {
 		$(".pdfs").each((idx, pdf) => {
 			if (id === pdf.id) {
@@ -75,7 +88,7 @@
 	</div>
 	<div class="row">
 		<div class="col-12">
-			<iframe height="950" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMsLW4uogNRGiiuzBvURHCPg9p8kQnnN-1KFbQZHEJ8fN7KPYMt4zVzMMcTMzibVeWH-G9OZTA-TiG/pubhtml?widget=true&amp;headers=false">
+			<iframe id="frame" height="950" width="160%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMsLW4uogNRGiiuzBvURHCPg9p8kQnnN-1KFbQZHEJ8fN7KPYMt4zVzMMcTMzibVeWH-G9OZTA-TiG/pubhtml?widget=true&amp;headers=false">
 			</iframe>
 		</div>
 	</div>
