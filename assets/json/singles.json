@@ -6,7 +6,7 @@
 					"name": "V. Golubic [1]"
 				},
 				"player2": {
-					"name": ""
+					"name": "T. Morderger"
 				}
 			},
 			{
@@ -14,15 +14,15 @@
 					"name": "I. Shinikova"
 				},
 				"player2": {
-					"name": " "
+					"name": "L. Boisson"
 				}
 			},
 			{
 				"player1": {
-					"name": " "
+					"name": "A. Rame"
 				},
 				"player2": {
-					"name": " "
+					"name": "D. Parry"
 				}
 			},
 			{
@@ -38,7 +38,7 @@
 					"name": "K. Kucova [3]"
 				},
 				"player2": {
-					"name": " "
+					"name": "T. Andrianjafitrimo"
 				}
 			},
 			{
@@ -46,7 +46,7 @@
 					"name": "Elsa Jacquemot"
 				},
 				"player2": {
-					"name": " "
+					"name": "K. Zimmermann"
 				}
 			},
 			{
@@ -62,7 +62,7 @@
 					"name": "Aubane Droguet"
 				},
 				"player2": {
-					"name": "Harmony Tan [6]"
+					"name": "E-G. Ruse [9]"
 				}
 			},
 			{
@@ -75,7 +75,7 @@
 			},
 			{
 				"player1": {
-					"name": "E-G. Ruse"
+					"name": "M.Yerolimos"
 				},
 				"player2": {
 					"name": "M. Di Giuseppe"
@@ -115,10 +115,10 @@
 			},
 			{
 				"player1": {
-					"name": " "
+					"name": "Anna Bondar"
 				},
 				"player2": {
-					"name": " "
+					"name": "K. Gerlach"
 				}
 			},
 			{
@@ -133,12 +133,12 @@
 		[
 			{
 				"player1": {
-					"name": "",
-					"score": ""
+					"name": "V. Golubic",
+					"score": "6/4 6/4"
 				},
 				"player2": {
-					"name": "",
-					"score": ""
+					"name": "L .Boisson",
+					"score": "6/3 7/5"
 				}
 			},
 			{
@@ -153,12 +153,12 @@
 			},
 			{
 				"player1": {
-					"name": "",
-					"score": ""
+					"name": "K. Kucova",
+					"score": "6/3 6/2"
 				},
 				"player2": {
-					"name": "",
-					"score": ""
+					"name": "K. Zimmermmann",
+					"score": "7/5 6/3"
 				}
 			},
 			{
@@ -167,8 +167,8 @@
 					"score": "6/0 ret."
 				},
 				"player2": {
-					"name": "",
-					"score": ""
+					"name": "E.G. Ruse",
+					"score": "6/0 6/7 6/3"
 				}
 			},
 			{
@@ -187,28 +187,28 @@
 					"score": "6/3 6/2"
 				},
 				"player2": {
-					"name": "",
-					"score": ""
+					"name": "K. Nara",
+					"score": "6/7 6/2 7/6"
 				}
 			},
 			{
 				"player1": {
-					"name": "",
-					"score": ""
+					"name": "B. Haas",
+					"score": "7/6 6/1"
 				},
 				"player2": {
-					"name": "",
-					"score": ""
+					"name": "J. Grabher",
+					"score": "6/3 6/3"
 				}
 			},
 			{
 				"player1": {
-					"name": "",
-					"score": ""
+					"name": "Anna Bondar",
+					"score": "6/3 6/3"
 				},
 				"player2": {
-					"name": "",
-					"score": ""
+					"name": "Chloe Paquet",
+					"score": "7/5 7/5"
 				}
 			}
 		],
