@@ -58,7 +58,7 @@ gulp.task('convert', function() {
 	  };
 	return gulp.src('./docs/*.pdf')
 	.pipe(filter(file => !file.path.endsWith("wb.pdf")))
-    .pipe(exec(file => `convert ${file.path} ${file.path.replace("pdf", "jpeg")}`, options))
+    .pipe(exec(file => `convert -density 150 ${file.path} -quality 90 ${file.path.replace("pdf", "jpeg")}`, options))
     .pipe(exec.reporter(reportOptions));
 })
 
