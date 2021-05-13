@@ -1,0 +1,101 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Totem Utils Visualisation</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css" rel="stylesheet">
+<style>
+	button {
+		height: 100px;
+		margin-bottom: 50px;
+	}
+	/* #mds {
+		display: none;
+	}
+	#mdd {
+		display: none;
+	} */
+</style>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" crossorigin="anonymous"></script>
+
+<script>
+	selectPdf = (id) => {
+		$(".pdfs").each((idx, pdf) => {
+			if (id === pdf.id) {
+				$(pdf).show();
+			} else {
+				$(pdf).hide();
+			}
+		})
+	}
+</script>
+</head>
+<body>
+
+<div></div>
+
+<hr />
+<div class="container">
+	<div id="carouselPdfs" class="row carousel slide" data-ride="carousel">
+		<ol class="carousel-indicators">
+			<li data-target="#carouselPdfs" data-slide-to="0" class="active"></li>
+			<li data-target="#carouselPdfs" data-slide-to="1"></li>
+			<li data-target="#carouselPdfs" data-slide-to="2"></li>
+		</ol>
+		<div class="carousel-inner">
+			<div class="w-100 pdfs carousel-item active" id="op">
+				<img class="mx-auto d-block" src="/docs/OP.jpeg"  ></img>
+			</div>
+			<div class="w-100 pdfs carousel-item" id="mds">
+				<img class="mx-auto d-block" src="/docs/MDS.jpeg"></img>
+			</div>
+			<div class="w-100 pdfs carousel-item" id="mdd">
+				<img class="mx-auto d-block" src="/docs/MDD.jpeg"></img>
+			</div>
+		</div>
+		
+		<a class="carousel-control-prev" href="#carouselPdfs" role="button" data-slide="prev">
+			<i class="fa fa-chevron-left"></i>
+		</a>
+		<a class="carousel-control-next" href="#carouselPdfs" role="button" data-slide="next">
+			<span class="fa fa-chevron-right"></span>
+		</a>
+	
+		<!-- <div class="col-4">
+			<div class="row">
+				<div class="col-12">
+					<button type="button" onclick="selectPdf('op')" class="btn btn-primary btn-block"> Order Of Play </button>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<button type="button" onclick="selectPdf('mds')" class="btn btn-primary btn-block"> Main Draw Single </button>
+				</div>					
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<button type="button" onclick="selectPdf('mdd')" class="btn btn-primary btn-block"> Main Draw Doubles </button>
+				</div>					
+			</div>
+		</div> -->
+	</div>
+	<div class="row">
+		<div class="col-12">
+			<iframe height="950" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMsLW4uogNRGiiuzBvURHCPg9p8kQnnN-1KFbQZHEJ8fN7KPYMt4zVzMMcTMzibVeWH-G9OZTA-TiG/pubhtml?widget=true&amp;headers=false">
+			</iframe>
+		</div>
+	</div>
+</div>
+
+<hr />
+
+<hr />
+
+<!-- <iframe src="/docs/MDD.pdf" height="1500" width="100%"></iframe> -->
+
+</body>
+
+
+</html> 
