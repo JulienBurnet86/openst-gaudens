@@ -108,18 +108,22 @@
 		[
 			{
 				"player1": {
-					"name": ""
+					"name": "Silva/Zimmermann",
+					"score": "7/5 6/3"
 				},
 				"player2": {
-					"name": ""
+					"name": "Aiava/Moratelli",
+					"score": "w.o."
 				}
 			},
 			{
 				"player1": {
-					"name": ""
+					"name": "Liang/Strakhova",
+					"score": "6/1 6/1"
 				},
 				"player2": {
-					"name": ""
+					"name": "Cascino/Ponchet",
+					"score": "6/0 4/6 10/7"
 				}
 			}
 		],
