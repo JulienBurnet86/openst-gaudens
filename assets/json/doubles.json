@@ -127,7 +127,18 @@
 				}
 			}
 		],
-		[],
+		[
+			{
+				"player1": {
+					"name": "Silva/Zimmermann",
+					"score": "6/3 7/6"
+				},
+				"player2": {
+					"name": "Cascino/Ponchet",
+					"score": "6/0 6/1"
+				}
+			}
+		],
 		[]
 	]
 }
