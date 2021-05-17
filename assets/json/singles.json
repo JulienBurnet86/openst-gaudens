@@ -276,8 +276,22 @@
 				}
 			}
 		],
-		[],
-		[]
+		[ {
+			"player1": {
+				"name": "A. Dulgheru",
+				"score": "7/5 6/0"
+			},
+			"player2": {
+				"name": "Clara Burel",
+				"score": "6/3 6/7 6/3"
+			}
+		}],
+		[ {
+			"player1": {
+				"name": "Clara Burel",
+				"score": "6/2 1/6 6/2"
+			}
+		}]
 	],
 	"titles": ["1st Round", "2nd round", "3rd round", "Quarter", "Semi", "Finale"]
 }

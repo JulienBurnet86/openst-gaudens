@@ -139,6 +139,11 @@
 				}
 			}
 		],
-		[]
+		[ {
+			"player1" : {
+				"name": "Cascino/Ponchet",
+				"score": "0/6 7/5 10/7"
+			}
+		}]
 	]
 }
