@@ -14,7 +14,7 @@
 	},
 	"header": {
 		"date": "10 - 16 May 2021",
-		"name": "Engie Open Saint-Gaudens <br/>31 Occitanie <br/>ITF 60.000$"
+		"name": "Edge Open Saint-Gaudens <br/>31 Occitanie <br/>ITF 60.000$"
 	},
 	"nav": {
 		"index": "Home",
@@ -40,7 +40,7 @@
 		},
 		"president" : {
 			"title": "President's word",
-			"subtitle": "L’Open Engie St-Gaudens 31 Midi-Pyrénées est un évènement majeur dans la vie sportive de notre Région.",
+			"subtitle": "L’Open Edge St-Gaudens 31 Midi-Pyrénées est un évènement majeur dans la vie sportive de notre Région.",
 			"content1": "Tournoi international de Tennis féminin de simple et de double, doté de 60.000 dollars de prix, il attribue 150 points pour le classement mondial des joueuses.",
 			"content2": "Cette manifestation est soutenue par les assemblées locales et territoriales, la fédération nationale de tennis et la Jeunesse et sports, ",
 			"content3": "sponsorisée par des acteurs économiques locaux et nationaux.",
@@ -53,7 +53,12 @@
 	"infos": {
 		"poster_title": "Poster",
 		"poster_subtitle": "Tournament 2021, 24th edition.",
-		"poster_content": "Regarding current situation and restrictions, tournament will be in camera.",
+		"poster_content": "Regarding current situation and restrictions, tournament will adapt to the current government recommandations.",
+		"covid": "Tournament will strictly respect sanitary recommandations ",
+		"covid1": "A negative covid-test will be required to enter the tournament site",
+		"covid2": "A question sheet will have to be filled for every person",
+		"covid3": "Temperature will be taken at the entrance",
+		"covid4": "Players can have only one guest",
 		"program_title" : "Program",
  		"program_1" : "Friday 7th to Sunday 9th of may",
 		"program_2" : "Welcoming players",
