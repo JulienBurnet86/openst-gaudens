@@ -214,4 +214,9 @@
 
 		});
 
+		if (!localStorage.firstVisit) {
+			localStorage.firstVisit = 1
+			window.location.href = "/intro.html"
+		}
+
 })(jQuery);
