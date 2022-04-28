@@ -14,4 +14,9 @@ The actual website is handled via github-pages, simply git push to master will d
 The draws are loaded via a React component, that loads draw files from assets/json/
 
 # Entry list
-TODO document this part
+Go to tournament list on ITF website
+
+https://www.itftennis.com/en/tournament/w60-saint-gaudens/fra/2022/w-itf-fra-11a-2022/acceptance-list/
+Retrieve request like : 
+https://www.itftennis.com/tennis/api/TournamentApi/GetAcceptanceList?tournamentKey=w-itf-fra-11a-2022&circuitCode=WT
+Copy json to EntryList.json in assets/js
