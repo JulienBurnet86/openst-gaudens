@@ -32,6 +32,13 @@
 							</header>
 							<div id="twitch-embed2" style="height: 80vh; width: 80vw;"></div>
 						</article>
+						<hr>
+						<article id="court2" class="special">
+							<header>
+								<h2><a href="#court2">Court n°2</a></h2>
+							</header>
+							<div id="twitch-embed3" style="height: 80vh; width: 80vw;"></div>
+						</article>
 					</div>
 
 				</div>
@@ -67,7 +74,10 @@
 			...conf,
 			channel: "openstgaudenscourt1",
 		});
-
+		new Twitch.Embed("twitch-embed3", {
+			...conf,
+			channel: "openstgaudenscourt3",
+		});
 		</script>
 	</body>
 </html>
