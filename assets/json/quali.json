@@ -4,259 +4,135 @@
 		[
 			{
 				"player1": {
-					"name": "K. Gerlach [1]"
+					"name": "]"
 				},
 				"player2": {
-					"name": "Estelle Cascino"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Lucie Wargnier"
+					"name": ""
 				},
 				"player2": {
-					"name": "Vlada Koval [12]"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Q. Zheng [2]"
+					"name": ""
 				},
 				"player2": {
-					"name": "E. Makarova"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "T. Morderger"
+					"name": ""
 				},
 				"player2": {
-					"name": "C. Monnet [10]"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "T.Andrianjafitrimo"
+					"name": ""
 				},
 				"player2": {
-					"name": "J. Mikulskyte"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Leolia Jeanjean"
+					"name": ""
 				},
 				"player2": {
-					"name": "V. Strakhova [9]"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "A. Hesse [4]"
+					"name": ""
 				},
 				"player2": {
-					"name": "Lois Boisson"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Jade Suvrijn"
+					"name": ""
 				},
 				"player2": {
-					"name": "Audrey Albie [11]"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Anna Bondar [5]"
+					"name": ""
 				},
 				"player2": {
-					"name": "Yana Morderger"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Darya Astakhova"
+					"name": ""
 				},
 				"player2": {
-					"name": "S. Herrmann [16]"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Diane Parry [6]"
+					"name": ""
 				},
 				"player2": {
-					"name": "G. Desperrier"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Salma Djoubri"
+					"name": ""
 				},
 				"player2": {
-					"name": "O. G. Simion [14]"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "M. Yerolymos [7]"
+					"name": ""
 				},
 				"player2": {
-					"name": "L. Nguyen Tan "
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "K. Zimmermann"
+					"name": ""
 				},
 				"player2": {
-					"name": "S. Cakarevic [13]"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Alice Rame [8]"
+					"name": ""
 				},
 				"player2": {
-					"name": "Alina Charaeva"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "M. Spigarelli"
+					"name": ""
 				},
 				"player2": {
-					"name": "A. Moratelli [15]"
+					"name": ""
 				}
 			}
 		],
-		[
-			{
-				"player1": {
-					"name": "K. Gerlach",
-					"score": "6/3 6/4"
-				},
-				"player2": {
-					"name": "Vlada Koval",
-					"score": "6/4 6/4"
-				}
-			},
-			{
-				"player1": {
-					"name": "Q. Zheng",
-					"score": "6/0 6/0"
-				},
-				"player2": {
-					"name": "T. Morderger",
-					"score": "7/5 6/3"
-				}
-			},
-			{
-				"player1": {
-					"name": " T.Andrianjafitrimo ",
-					"score": "6/4 6/2"
-				},
-				"player2": {
-					"name": "L. Jeanjean",
-					"score": "6/1 6/1"
-				}
-			},
-			{
-				"player1": {
-					"name": "Lois Boisson",
-					"score": "4/6 6/4 10/7"
-				},
-				"player2": {
-					"name": "Audrey Albie",
-					"score": "4/6 7/6 10/2"
-				}
-			},
-			{
-				"player1": {
-					"name": "Anna Bondar",
-					"score": "6/4 7/5"
-				},
-				"player2": {
-					"name": "Darya Astakhova",
-					"score": "0/6 6/4 10/6"
-				}
-			},
-			{
-				"player1": {
-					"name": "Diane Parry",
-					"score": "6/4 6/4"
-				},
-				"player2": {
-					"name": "O. G. Simion",
-					"score": "3/6 7/5 10/8"
-				}
-			},
-			{
-				"player1": {
-					"name": "M. Yerolimos",
-					"score": "6/4 6/2"
-				},
-				"player2": {
-					"name": "K. Zimmermann",
-					"score": "6/1 2/6 10/7"
-				}
-			},
-			{
-				"player1": {
-					"name": "A. Rame",
-					"score": "6/3 6/4"
-				},
-				"player2": {
-					"name": "A. Moratelli",
-					"score": "6/2 6/4"
-				}
-			}
-		],
-		[ 
-			{
-				"player1": {
-					"name" : "K. Gerlach",
-					"score": "6/1 6/4"
-				},
-				"player2": {
-					"name" : "T. Morderger",
-					"score": "3/6 6/2 10/5"
-				}
-
-			},
-			{
-				"player1": {
-					"name": "T.Andrianjafitrimo",
-					"score": "6/3 4/6 10/8"
-					
-				},
-				"player2" : {
-					"name": "Lois Boisson",
-					"score": "6/3 1/6 10/3"
-				}
-			},
-			{
-				"player1": {
-					"name": "Anna Bonda",
-					"score": "6/0 6/2"
-				},
-				"player2" : {
-					"name": "Diane Parry",
-					"score": "7/5 6/1"
-				}
-			},
-			{
-				"player1": {
-					"name": "M. Yerolimos",
-					"score": "6/1 6/1"
-				},
-				"player2" : {
-					"name": "Alice Rame",
-					"score": "6/4 5/7 10/8"
-				}
-			}
-		],
+		[],
+		[],
 		[],
 		[],
 		[]

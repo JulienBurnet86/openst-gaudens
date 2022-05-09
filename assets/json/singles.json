@@ -3,295 +3,138 @@
 		[
 			{
 				"player1": {
-					"name": "V. Golubic [1]"
+					"name": ""
 				},
 				"player2": {
-					"name": "T. Morderger"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "I. Shinikova"
+					"name": ""
 				},
 				"player2": {
-					"name": "L. Boisson"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "A. Rame"
+					"name": ""
 				},
 				"player2": {
-					"name": "D. Parry"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "B. Haddad Maia"
+					"name": ""
 				},
 				"player2": {
-					"name": "C. Bucsa [8]"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "K. Kucova [3]"
+					"name": ""
 				},
 				"player2": {
-					"name": "T. Andrianjafitrimo"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Elsa Jacquemot"
+					"name": ""
 				},
 				"player2": {
-					"name": "K. Zimmermann"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "A. Dulgheru"
+					"name": ""
 				},
 				"player2": {
-					"name": "Laura-Ioana Paar"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Aubane Droguet"
+					"name": ""
 				},
 				"player2": {
-					"name": "E-G. Ruse [9]"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Clara Burel [7]"
+					"name": ""
 				},
 				"player2": {
-					"name": "M. Bolkvadze"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "M.Yerolimos"
+					"name": ""
 				},
 				"player2": {
-					"name": "M. Di Giuseppe"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Destanee Aiava"
+					"name": ""
 				},
 				"player2": {
-					"name": "M-G Carrasco"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "En Shuo Liang"
+					"name": ""
 				},
 				"player2": {
-					"name": "Kurumi Nara [4]"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Barbara Haas [5]"
+					"name": ""
 				},
 				"player2": {
-					"name": "S. Janicijevic"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Oceane Babel"
+					"name": ""
 				},
 				"player2": {
-					"name": "Julia Grabher"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Anna Bondar"
+					"name": ""
 				},
 				"player2": {
-					"name": "K. Gerlach"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Chloe Paquet"
+					"name": ""
 				},
 				"player2": {
-					"name": "Oceane Dodin [2]"
+					"name": ""
 				}
 			}
 		],
-		[
-			{
-				"player1": {
-					"name": "V. Golubic",
-					"score": "6/4 6/4"
-				},
-				"player2": {
-					"name": "L .Boisson",
-					"score": "6/3 7/5"
-				}
-			},
-			{
-				"player1": {
-					"name": "D. Parry",
-					"score": "6/3 6/1"
-				},
-				"player2": {
-					"name": "B Haddad Maia",
-					"score": "6/0 6/2"
-				}
-			},
-			{
-				"player1": {
-					"name": "K. Kucova",
-					"score": "6/3 6/2"
-				},
-				"player2": {
-					"name": "K. Zimmermmann",
-					"score": "7/5 6/3"
-				}
-			},
-			{
-				"player1": {
-					"name": "A. Dulgheru",
-					"score": "6/0 ret."
-				},
-				"player2": {
-					"name": "E.G. Ruse",
-					"score": "6/0 6/7 6/3"
-				}
-			},
-			{
-				"player1": {
-					"name": "Clara Burel",
-					"score": "7/5 3/6 6/4"
-				},
-				"player2": {
-					"name": "M. Yerolimos",
-					"score": "6/2 2/6 6/3"
-				}
-			},
-			{
-				"player1": {
-					"name": "Destanee Aiava",
-					"score": "6/3 6/2"
-				},
-				"player2": {
-					"name": "K. Nara",
-					"score": "6/7 6/2 7/6"
-				}
-			},
-			{
-				"player1": {
-					"name": "B. Haas",
-					"score": "7/6 6/1"
-				},
-				"player2": {
-					"name": "J. Grabher",
-					"score": "6/3 6/3"
-				}
-			},
-			{
-				"player1": {
-					"name": "Anna Bondar",
-					"score": "6/3 6/3"
-				},
-				"player2": {
-					"name": "Chloe Paquet",
-					"score": "7/5 7/5"
-				}
-			}
-		],
-		[
-			{
-				"player1": {
-					"name": "V. Golubic",
-					"score": "6/2 6/4"
-				},
-				"player2": {
-					"name": "B. Haddad Maia",
-					"score": "w.o."
-				}
-			}, 
-			{
-				"player1": {
-					"name": "K. Kucova",
-					"score": "6/2 6/4"
-				}, 
-				"player2": {
-					"name": "A. Dulgheru",
-					"score": "6/3 6/4"
-				}
-			},
-			{
-				"player1": {
-					"name": "Clara Burel",
-					"score": "6/7 7/6 6/4"
-				},
-				"player2": {
-					"name": "Kurumi Nara", 
-					"score": "4/6 6/3 7/6"
-				}
-			},
-			{
-				"player1": {
-					"name": "Barbara Haas",
-					"score": "6/4 6/2"
-				},
-				"player2": {
-					"name": "Anna Bondar",
-					"score": "6/2 3/6 7/5"
-				}
-			}
-		],
-		[
-			{
-				"player1": {
-					"name": "V. Golubic",
-					"score": "6/7 6/4 6/2"
-				},
-				"player2": {
-					"name": "A. Dulgheru",
-					"score": "7/5 6/4"
-				}
-			},
-			{
-				"player1": {
-					"name": "Clara Burel",
-					"score": "6/7 7/6 6/4"
-				},
-				"player2": {
-					"name": "Anna Bondar",
-					"score": "6/2 3/6 7/5"
-				}
-			}
-		],
-		[ {
-			"player1": {
-				"name": "A. Dulgheru",
-				"score": "7/5 6/0"
-			},
-			"player2": {
-				"name": "Clara Burel",
-				"score": "6/3 6/7 6/3"
-			}
-		}],
-		[ {
-			"player1": {
-				"name": "Clara Burel",
-				"score": "6/2 1/6 6/2"
-			}
-		}]
+		[],
+		[],
+		[],
+		[],
+		[]
 	],
 	"titles": ["1st Round", "2nd round", "3rd round", "Quarter", "Semi", "Finale"]
 }

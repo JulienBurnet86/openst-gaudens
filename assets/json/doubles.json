@@ -4,73 +4,7 @@
 		[
 			{
 				"player1": {
-					"name": "Silva/Zimmerm."
-				},
-				"player2": {
-					"name": "BYE"
-				}
-			},
-			{
-				"player1": {
-					"name": "Droguet/Janic."
-				},
-				"player2": {
-					"name": "Astakova/Maka."
-				}
-			},
-			{
-				"player1": {
-					"name": "Alava/Moratel."
-				},
-				"player2": {
-					"name": "Grabher/Zheng"
-				}
-			},
-			{
-				"player1": {
-					"name": "Albie/JeanJean"
-				},
-				"player2": {
-					"name": "Jacquemot/Warg."
-				}
-			},
-			{
-				"player1": {
-					"name": "Liang/Strakhova"
-				},
-				"player2": {
-					"name": "Bolkvadze/Shin."
-				}
-			},
-			{
-				"player1": {
-					"name": "Babel/Nguyen T."
-				},
-				"player2": {
-					"name": "Morderger/Mord."
-				}
-			},
-			{
-				"player1": {
-					"name": "Andrian./Monnet"
-				},
-				"player2": {
-					"name": "Bucsa/Koval"
-				}
-			},
-			{
-				"player1": {
-					"name": "Mikulsky./Simion"
-				},
-				"player2": {
-					"name": "Cascino/Ponchet"
-				}
-			}
-		],
-		[
-			{
-				"player1": {
-					"name": "Silva/Zimmerm."
+					"name": ""
 				},
 				"player2": {
 					"name": ""
@@ -81,8 +15,7 @@
 					"name": ""
 				},
 				"player2": {
-					"name": "Jacquemot/Warg.",
-					"score": "7/6 6/0"
+					"name": ""
 				}
 			},
 			{
@@ -90,60 +23,53 @@
 					"name": ""
 				},
 				"player2": {
-					"name": "Babel/Nguyen T.",
-					"score": "7/6 7/5"
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Andrian./Monnet ",
-					"score": "6/3 3/6 10/7"
+					"name": ""
 				},
 				"player2": {
-					"name": "Cascino/Ponchet",
-					"score": "6/3 5/7 10/5"
-				}
-			}
-		],
-		[
-			{
-				"player1": {
-					"name": "Silva/Zimmermann",
-					"score": "7/5 6/3"
-				},
-				"player2": {
-					"name": "Aiava/Moratelli",
-					"score": "w.o."
+					"name": ""
 				}
 			},
 			{
 				"player1": {
-					"name": "Liang/Strakhova",
-					"score": "6/1 6/1"
+					"name": ""
 				},
 				"player2": {
-					"name": "Cascino/Ponchet",
-					"score": "6/0 4/6 10/7"
+					"name": ""
 				}
-			}
-		],
-		[
+			},
 			{
 				"player1": {
-					"name": "Silva/Zimmermann",
-					"score": "6/3 7/6"
+					"name": ""
 				},
 				"player2": {
-					"name": "Cascino/Ponchet",
-					"score": "6/0 6/1"
+					"name": ""
+				}
+			},
+			{
+				"player1": {
+					"name": ""
+				},
+				"player2": {
+					"name": ""
+				}
+			},
+			{
+				"player1": {
+					"name": ""
+				},
+				"player2": {
+					"name": ""
 				}
 			}
 		],
-		[ {
-			"player1" : {
-				"name": "Cascino/Ponchet",
-				"score": "0/6 7/5 10/7"
-			}
-		}]
+		[ ],
+		[ ],
+		[ ],
+		[ ]
 	]
 }
