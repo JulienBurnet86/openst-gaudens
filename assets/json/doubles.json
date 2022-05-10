@@ -4,70 +4,103 @@
 		[
 			{
 				"player1": {
-					"name": ""
+					"name": "GRAMMATIK./TIKHONOVA"
 				},
 				"player2": {
-					"name": ""
+					"name": "Bye"
 				}
 			},
 			{
 				"player1": {
-					"name": ""
+					"name": "ANANE/GENOVESE"
 				},
 				"player2": {
-					"name": ""
+					"name": "BELGRAVER/MANSOURI"
 				}
 			},
 			{
 				"player1": {
-					"name": ""
+					"name": "HERAZO./PEREZ."
 				},
 				"player2": {
-					"name": ""
+					"name": "Bye"
 				}
 			},
 			{
 				"player1": {
-					"name": ""
+					"name": "HATOUKA/ROSCA"
 				},
 				"player2": {
-					"name": ""
+					"name": "RAKOTOMANGA./STAMATOVA"
 				}
 			},
 			{
 				"player1": {
-					"name": ""
+					"name": "ALBIE/KEMPEN"
 				},
 				"player2": {
-					"name": ""
+					"name": "BURRAGE/SEWING"
 				}
 			},
 			{
 				"player1": {
-					"name": ""
+					"name": "Bye"
 				},
 				"player2": {
-					"name": ""
+					"name": "CONTRERAS./SUN"
 				}
 			},
 			{
 				"player1": {
-					"name": ""
+					"name": "SAIGO/SAIGO"
 				},
 				"player2": {
-					"name": ""
+					"name": "DARTRON/SZOSTAK"
 				}
 			},
 			{
 				"player1": {
-					"name": ""
+					"name": "Bye"
 				},
 				"player2": {
-					"name": ""
+					"name": "NAGY/THOMBARE"
 				}
 			}
 		],
-		[ ],
+		[
+            {
+				"player1": {
+					"name": "GRAMMATIK./TIKHONOVA"
+				},
+				"player2": {
+					"name": ""
+				}
+			},
+            {
+				"player1": {
+					"name": "HERAZO./PEREZ."
+				},
+				"player2": {
+					"name": ""
+				}
+			},
+            {
+				"player1": {
+					"name": ""
+				},
+				"player2": {
+					"name": "CONTRERAS./SUN"
+				}
+			},
+            {
+				"player1": {
+					"name": ""
+				},
+				"player2": {
+					"name": "NAGY/THOMBARE"
+				}
+			}
+        ],
 		[ ],
 		[ ],
 		[ ]
