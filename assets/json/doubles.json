@@ -73,7 +73,8 @@
 					"name": "GRAMMATIK./TIKHONOVA"
 				},
 				"player2": {
-					"name": ""
+					"name": "BELGRAVER/MANSOURI",
+                    "score": "6/2 2/6 10/6"
 				}
 			},
             {
@@ -95,7 +96,8 @@
 			},
             {
 				"player1": {
-					"name": ""
+					"name": "DARTRON/SZOSTAK",
+                    "score": "7/5 4/6 10/6"
 				},
 				"player2": {
 					"name": "NAGY/THOMBARE"
