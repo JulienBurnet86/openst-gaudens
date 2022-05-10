@@ -211,12 +211,14 @@
                     "score": "W.O"
 				},
 				"player2": {
-					"name": ""
+					"name": "SUN L.",
+                    "score": "6/4 6/2"
 				}
 			},
 			{
 				"player1": {
-					"name": ""
+					"name": "NAHIMANA S.",
+                    "score": "6/1 6/2"
 				},
 				"player2": {
 					"name": "BELGRAVER J.",
@@ -225,7 +227,8 @@
 			},
 			{
 				"player1": {
-					"name": ""
+					"name": "ROSCA I.",
+                    "score": "6/2 6/4"
 				},
 				"player2": {
 					"name": "HANATANI N.",
