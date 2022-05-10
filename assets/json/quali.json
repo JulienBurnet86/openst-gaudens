@@ -219,7 +219,8 @@
 					"name": ""
 				},
 				"player2": {
-					"name": ""
+					"name": "BELGRAVER J.",
+                    "score": "6/2 4/6 10/4"
 				}
 			},
 			{
@@ -227,12 +228,14 @@
 					"name": ""
 				},
 				"player2": {
-					"name": ""
+					"name": "HANATANI N.",
+                    "score": "6/4 6/4"
 				}
 			},
 			{
 				"player1": {
-					"name": ""
+					"name": "SEWING S.",
+					"score": "7/5 7/5"
 				},
 				"player2": {
 					"name": "DARTRON E.",
