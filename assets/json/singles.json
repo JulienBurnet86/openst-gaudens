@@ -43,15 +43,15 @@
 			},
             {
 				"player1": {
-					"name": "Qualifier (TBD)"
+					"name": "ROSCA I."
 				},
 				"player2": {
-					"name": "UCHIJIMA M."
+					"name": "STAMATOVA J."
 				}
 			},
 			{
 				"player1": {
-					"name": "Qualifier (TBD)"
+					"name": "BELGRAVER J."
 				},
 				"player2": {
 					"name": "DMITRUK K."
@@ -70,7 +70,7 @@
 					"name": "WALTERT S."
 				},
 				"player2": {
-					"name": "Qualifier (TBD)"
+					"name": "SEWING S."
 				}
 			},
 			{
@@ -78,12 +78,12 @@
 					"name": "SEGUEL D."
 				},
 				"player2": {
-					"name": "Qualifier (TBD)"
+					"name": "HANATANI N."
 				}
 			},
 			{
 				"player1": {
-					"name": "Qualifier (TBD)"
+					"name": "DARTRON E."
 				},
 				"player2": {
 					"name": "YEROLYMOS M."
@@ -157,12 +157,14 @@
                     "score": "6/2 6/2"
 				},
 				"player2": {
-					"name": ""
+					"name": "ROSCA I.",
+					"score": "6/0 6/0"
 				}
 			},
 			{
 				"player1": {
-					"name": ""
+					"name": "DMITRUK K.",
+					"score": "6/1 6/2"
 				},
 				"player2": {
 					"name": ""
@@ -178,7 +180,8 @@
 			},
             {
 				"player1": {
-					"name": ""
+					"name": "YEROLYMOS M.",
+					"score": "6/1 6/1"
 				},
 				"player2": {
 					"name": ""
@@ -189,7 +192,8 @@
 					"name": ""
 				},
 				"player2": {
-					"name": ""
+					"name": "CONTRERAS GOMEZ F.",
+					"score": "7/6 (0) 5/7 6/4"
 				}
 			},
 			{
