@@ -27,7 +27,7 @@
 			},
 			{
 				"player1": {
-					"name": "Qualifier (TBD)"
+					"name": "NAHIMANA S."
 				},
 				"player2": {
 					"name": "GRAMMATIKOPOULOU V."
@@ -115,10 +115,10 @@
 			},
 			{
 				"player1": {
-					"name": "Qualifier (TBD)"
+					"name": "CAKAREVIC S."
 				},
 				"player2": {
-					"name": "Qualifier (TBD)"
+					"name": "SUN L."
 				}
 			},
 			{
@@ -147,7 +147,8 @@
                     
 				},
 				"player2": {
-					"name": ""
+					"name": "NAHIMANA S.",
+                    "score": "6/4 6/4"
 				}
 			},
 			{
@@ -193,7 +194,8 @@
 			},
 			{
 				"player1": {
-					"name": ""
+					"name": "SUN L.",
+                    "score": "6/3 7/5"
 				},
 				"player2": {
 					"name": ""
