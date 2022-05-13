@@ -255,7 +255,27 @@
 				}
 			}
 		],
-		[],
+		[
+			{
+				"player1": {
+					"name": ""
+				},
+				"player2": {
+					"name": "SNIGUR D.",
+					"score": "7/6 (3) 6/2"
+				}
+			},
+			{
+				"player1": {
+					"name": "WALTERT S.",
+                    "score": "W.O"
+				},
+				"player2": {
+					"name": "ALVES C.",
+					"score": "6/4 3/1 abandon"
+				}
+			}
+		],
 		[],
 		[]
 	],
