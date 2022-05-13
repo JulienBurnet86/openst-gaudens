@@ -64,7 +64,10 @@
 							<header>
 								<h2><a href="#central">Court central</a></h2>
 							</header>
-							<div id="twitch-embed" style="height: 80vh; width: 80vw;"></div>
+							<!-- <div id="twitch-embed" style="height: 80vh; width: 80vw;"></div> -->
+							<p class="center"></p>
+								<iframe width="100%" height="700px" src="https://www.youtube.com/embed/BhLBEoiJYJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<p></p>
 						</article>
 						<hr>
 						<article id="court1" class="special">
@@ -146,11 +149,11 @@ insights.trackPages();
 			// Only needed if this page is going to be embedded on other websites
 			parent: ["openst-gaudens.fr"]
 		}
-		new Twitch.Embed("twitch-embed", {
+		/*new Twitch.Embed("twitch-embed", {
 			...conf,
 			channel: "openstgaudens",
 			autoplay: true
-		});
+		});*/
 		new Twitch.Embed("twitch-embed2", {
 			...conf,
 			channel: "openstgaudenscourt1",

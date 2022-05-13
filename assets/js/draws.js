@@ -7,7 +7,7 @@ class Draws extends React.Component {
   }
 
   componentDidMount() {
-    this.reload("quali");
+    this.reload("singles");
   }
 
   handleChange(e) {
