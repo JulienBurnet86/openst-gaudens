@@ -277,7 +277,17 @@
 				}
 			}
 		],
-		[],
+		[
+			{
+				"player1": {
+					"name": ""
+				},
+				"player2": {
+					"name": "ALVES C.",
+					"score": "7/5 6/4"
+				}
+			}
+		],
 		[]
 	],
 	"titles": ["1st Round", "2nd round", "3rd round", "Quarter", "Semi", "Finale"]
