@@ -289,7 +289,14 @@
 				}
 			}
 		],
-		[]
+		[
+			{
+				"player1": {
+					"name": "IN-ALBON Y.",
+					"score": "4/6 6/4 6/3"
+				}
+			}
+		]
 	],
 	"titles": ["1st Round", "2nd round", "3rd round", "Quarter", "Semi", "Finale"]
 }
