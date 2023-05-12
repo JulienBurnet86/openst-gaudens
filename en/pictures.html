@@ -212,7 +212,6 @@ insights.trackPages();
 			$(window).scroll(function() {
 				if($(document).height() / ($(window).scrollTop() + $(window).height()) < 1.5 ) {
 					// ajax call get data from server and append to the div
-					console.log("scroll");
 					var content = picturesStack.pop();
 					if (content) 
 						$(".pics").append(content);

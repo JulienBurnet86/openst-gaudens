@@ -39,8 +39,9 @@ header h1 {
 	text-align: center;
 }
 
-.score {
-	margin-left: 25%;
+p.score {
+	text-align: center;
+	margin-left: 0 !important;
 	margin-top: 10%;
 }
 
@@ -52,4 +53,8 @@ header h1 {
 .intro-menu {
 	text-align: right;
 	padding-right: 5em;
+}
+
+.match .score {
+	background: white;
 }

@@ -5,15 +5,12 @@ class Draws extends React.Component {
       selected: "quali"
     };
   }
-
   componentDidMount() {
     this.reload("singles");
   }
-
   handleChange(e) {
     this.reload(e.target.value);
   }
-
   reload(draw) {
     this.setState({
       selected: draw
@@ -21,12 +18,14 @@ class Draws extends React.Component {
     fetch("/assets/json/" + draw + ".json").then(response => {
       return response.json();
     }).then(json => {
-      $('#singles').brackets(json);
+      $("#singles").brackets(json);
     });
   }
-
   render() {
-    return /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("select", {
+    return /*#__PURE__*/React.createElement("div", {
+      class: "row"
+    }, /*#__PURE__*/React.createElement("select", {
+      class: "col-3 col-12-mobile",
       name: "selected",
       value: this.state.selected,
       onChange: this.handleChange.bind(this)
@@ -40,7 +39,5 @@ class Draws extends React.Component {
       id: "singles"
     }));
   }
-
 }
-
 ReactDOM.render( /*#__PURE__*/React.createElement(Draws, null), document.getElementById("results"));

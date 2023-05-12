@@ -1,302 +1,301 @@
 {
-	"rounds": [
-		[
-			{
-				"player1": {
-					"name": "IN-ALBON Y."
-				},
-				"player2": {
-					"name": "FETT J."
-				}
-			},
-			{
-				"player1": {
-					"name": "FOURLIS J."
-				},
-				"player2": {
-					"name": "VIKHLYANTSEVA N."
-				}
-			},
-			{
-				"player1": {
-					"name": "CHANG H."
-				},
-				"player2": {
-					"name": "MONNET C."
-				}
-			},
-			{
-				"player1": {
-					"name": "NAHIMANA S."
-				},
-				"player2": {
-					"name": "GRAMMATIKOPOULOU V."
-				}
-			},
-			{
-				"player1": {
-					"name": "SNIGUR D."
-				},
-				"player2": {
-					"name": "NOEL M."
-				}
-			},
-            {
-				"player1": {
-					"name": "ROSCA I."
-				},
-				"player2": {
-					"name": "STAMATOVA J."
-				}
-			},
-			{
-				"player1": {
-					"name": "BELGRAVER J."
-				},
-				"player2": {
-					"name": "DMITRUK K."
-				}
-			},
-			{
-				"player1": {
-					"name": "HATOUKA Y."
-				},
-				"player2": {
-					"name": "TIKHONOVA A."
-				}
-			},
-			{
-				"player1": {
-					"name": "WALTERT S."
-				},
-				"player2": {
-					"name": "SEWING S."
-				}
-			},
-			{
-				"player1": {
-					"name": "SEGUEL D."
-				},
-				"player2": {
-					"name": "HANATANI N."
-				}
-			},
-			{
-				"player1": {
-					"name": "DARTRON E."
-				},
-				"player2": {
-					"name": "YEROLYMOS M."
-				}
-			},
-			{
-				"player1": {
-					"name": "RAME A."
-				},
-				"player2": {
-					"name": "SHARMA A."
-				}
-			},
-			{
-				"player1": {
-					"name": "HIBINO N."
-				},
-				"player2": {
-					"name": "ALVES C."
-				}
-			},
-			{
-				"player1": {
-					"name": "BURRAGE J."
-				},
-				"player2": {
-					"name": "CONTRERAS GOMEZ F."
-				}
-			},
-			{
-				"player1": {
-					"name": "CAKAREVIC S."
-				},
-				"player2": {
-					"name": "SUN L."
-				}
-			},
-			{
-				"player1": {
-					"name": "NAITO Y."
-				},
-				"player2": {
-					"name": "YUAN Y."
-				}
-			}
-		],
-		[
-            {
-				"player1": {
-					"name": "IN-ALBON Y.",
-					"score": "7/5 6/3"
-				},
-				"player2": {
-					"name": "FOURLIS J.",
-                    "score": "7/6 (4) 3/6 6/3"
-				}
-			},
-			{
-				"player1": {
-					"name": "MONNET C.",
-                    "score": "6/2 4/6 6/1"
-                    
-				},
-				"player2": {
-					"name": "NAHIMANA S.",
-                    "score": "6/4 6/4"
-				}
-			},
-			{
-				"player1": {
-					"name": "SNIGUR D.",
-                    "score": "6/2 6/2"
-				},
-				"player2": {
-					"name": "ROSCA I.",
-					"score": "6/0 6/0"
-				}
-			},
-			{
-				"player1": {
-					"name": "DMITRUK K.",
-					"score": "6/1 6/2"
-				},
-				"player2": {
-					"name": "HATOUKA Y.",
-					"score": "7/6 (4) 5/7 6/4"
-				}
-			},
-			{
-				"player1": {
-					"name": "WALTERT S.",
-					"score": "6/3 6/2"
-				},
-				"player2": {
-					"name": "SEGUEL D.",
-					"score": "6/1 6/2"
-				}
-			},
-            {
-				"player1": {
-					"name": "YEROLYMOS M.",
-					"score": "6/1 6/1"
-				},
-				"player2": {
-					"name": "SHARMA A.",
-					"score": "6/3 6/4"
-				}
-			},
-			{
-				"player1": {
-					"name": "ALVES C.",
-					"score": "6/2 6/4"
-				},
-				"player2": {
-					"name": "CONTRERAS GOMEZ F.",
-					"score": "7/6 (0) 5/7 6/4"
-				}
-			},
-			{
-				"player1": {
-					"name": "SUN L.",
-                    "score": "6/3 7/5"
-				},
-				"player2": {
-					"name": "NAITO Y.",
-					"score": "6/1 1/0 Abandon"
-				}
-			}
-        ],
-		[
-			{
-				"player1": {
-					"name": "IN-ALBON Y.",
-					"score": "6/4 6/3"
-				},
-				"player2": {
-					"name": "MONNET C.",
-					"score": "6/1 6/2"
-				}
-			},
-            {
-				"player1": {
-					"name": "SNIGUR D.",
-					"score": "6/4 7/6 (4)"
-				},
-				"player2": {
-					"name": "HATOUKA Y.",
-					"score": "7/5 6/1"
-				}
-			},
-			{
-				"player1": {
-					"name": "WALTERT S.",
-					"score": "6/2 6/2"
-				},
-				"player2": {
-					"name": "SHARMA A.",
-					"score": "6/4 6/4"
-				}
-			},
-			{
-				"player1": {
-					"name": "ALVES C.",
-                    "score": "6/4 6/2"
-				},
-				"player2": {
-					"name": "NAITO Y.",
-					"score": "7/5 6/1"
-				}
-			}
-		],
-		[
-			{
-				"player1": {
-					"name": "IN-ALBON Y",
-					"score": "6/4 6/4"
-				},
-				"player2": {
-					"name": "SNIGUR D.",
-					"score": "7/6 (3) 6/2"
-				}
-			},
-			{
-				"player1": {
-					"name": "WALTERT S.",
-                    "score": "W.O"
-				},
-				"player2": {
-					"name": "ALVES C.",
-					"score": "6/4 3/1 abandon"
-				}
-			}
-		],
-		[
-			{
-				"player1": {
-					"name": "IN-ALBON Y.",
-					"score": "7/5 6/1"
-				},
-				"player2": {
-					"name": "ALVES C.",
-					"score": "7/5 6/4"
-				}
-			}
-		],
-		[
-			{
-				"player1": {
-					"name": "IN-ALBON Y.",
-					"score": "4/6 6/4 6/3"
-				}
-			}
-		]
-	],
-	"titles": ["1st Round", "2nd round", "3rd round", "Quarter", "Semi", "Finale"]
+  "rounds": [
+    [
+      {
+        "player1": {
+          "name": "IN-ALBON Y."
+        },
+        "player2": {
+          "name": "FETT J."
+        }
+      },
+      {
+        "player1": {
+          "name": "FOURLIS J."
+        },
+        "player2": {
+          "name": "VIKHLYANTSEVA N."
+        }
+      },
+      {
+        "player1": {
+          "name": "CHANG H."
+        },
+        "player2": {
+          "name": "MONNET C."
+        }
+      },
+      {
+        "player1": {
+          "name": "NAHIMANA S."
+        },
+        "player2": {
+          "name": "GRAMMATIKOPOULOU V."
+        }
+      },
+      {
+        "player1": {
+          "name": "SNIGUR D."
+        },
+        "player2": {
+          "name": "NOEL M."
+        }
+      },
+      {
+        "player1": {
+          "name": "ROSCA I."
+        },
+        "player2": {
+          "name": "STAMATOVA J."
+        }
+      },
+      {
+        "player1": {
+          "name": "BELGRAVER J."
+        },
+        "player2": {
+          "name": "DMITRUK K."
+        }
+      },
+      {
+        "player1": {
+          "name": "HATOUKA Y."
+        },
+        "player2": {
+          "name": "TIKHONOVA A."
+        }
+      },
+      {
+        "player1": {
+          "name": "WALTERT S."
+        },
+        "player2": {
+          "name": "SEWING S."
+        }
+      },
+      {
+        "player1": {
+          "name": "SEGUEL D."
+        },
+        "player2": {
+          "name": "HANATANI N."
+        }
+      },
+      {
+        "player1": {
+          "name": "DARTRON E."
+        },
+        "player2": {
+          "name": "YEROLYMOS M."
+        }
+      },
+      {
+        "player1": {
+          "name": "RAME A."
+        },
+        "player2": {
+          "name": "SHARMA A."
+        }
+      },
+      {
+        "player1": {
+          "name": "HIBINO N."
+        },
+        "player2": {
+          "name": "ALVES C."
+        }
+      },
+      {
+        "player1": {
+          "name": "BURRAGE J."
+        },
+        "player2": {
+          "name": "CONTRERAS GOMEZ F."
+        }
+      },
+      {
+        "player1": {
+          "name": "CAKAREVIC S."
+        },
+        "player2": {
+          "name": "SUN L."
+        }
+      },
+      {
+        "player1": {
+          "name": "NAITO Y."
+        },
+        "player2": {
+          "name": "YUAN Y."
+        }
+      }
+    ],
+    [
+      {
+        "player1": {
+          "name": "IN-ALBON Y.",
+          "score": "7/5 6/3"
+        },
+        "player2": {
+          "name": "FOURLIS J.",
+          "score": "7/6(4) 3/6 6/3"
+        }
+      },
+      {
+        "player1": {
+          "name": "MONNET C.",
+          "score": "6/2 4/6 6/1"
+        },
+        "player2": {
+          "name": "NAHIMANA S.",
+          "score": "6/4 6/4"
+        }
+      },
+      {
+        "player1": {
+          "name": "SNIGUR D.",
+          "score": "6/2 6/2"
+        },
+        "player2": {
+          "name": "ROSCA I.",
+          "score": "6/0 6/0"
+        }
+      },
+      {
+        "player1": {
+          "name": "DMITRUK K.",
+          "score": "6/1 6/2"
+        },
+        "player2": {
+          "name": "HATOUKA Y.",
+          "score": "7/6 (4) 5/7 6/4"
+        }
+      },
+      {
+        "player1": {
+          "name": "WALTERT S.",
+          "score": "6/3 6/2"
+        },
+        "player2": {
+          "name": "SEGUEL D.",
+          "score": "6/1 6/2"
+        }
+      },
+      {
+        "player1": {
+          "name": "YEROLYMOS M.",
+          "score": "6/1 6/1"
+        },
+        "player2": {
+          "name": "SHARMA A.",
+          "score": "6/3 6/4"
+        }
+      },
+      {
+        "player1": {
+          "name": "ALVES C.",
+          "score": "6/2 6/4"
+        },
+        "player2": {
+          "name": "CONTRERAS GOMEZ F.",
+          "score": "7/6 (0) 5/7 6/4"
+        }
+      },
+      {
+        "player1": {
+          "name": "SUN L.",
+          "score": "6/3 7/5"
+        },
+        "player2": {
+          "name": "NAITO Y.",
+          "score": "6/1 1/0 Abandon"
+        }
+      }
+    ],
+    [
+      {
+        "player1": {
+          "name": "IN-ALBON Y.",
+          "score": "6/4 6/3"
+        },
+        "player2": {
+          "name": "MONNET C.",
+          "score": "6/1 6/2"
+        }
+      },
+      {
+        "player1": {
+          "name": "SNIGUR D.",
+          "score": "6/4 7/6 (4)"
+        },
+        "player2": {
+          "name": "HATOUKA Y.",
+          "score": "7/5 6/1"
+        }
+      },
+      {
+        "player1": {
+          "name": "WALTERT S.",
+          "score": "6/2 6/2"
+        },
+        "player2": {
+          "name": "SHARMA A.",
+          "score": "6/4 6/4"
+        }
+      },
+      {
+        "player1": {
+          "name": "ALVES C.",
+          "score": "6/4 6/2"
+        },
+        "player2": {
+          "name": "NAITO Y.",
+          "score": "7/5 6/1"
+        }
+      }
+    ],
+    [
+      {
+        "player1": {
+          "name": "IN-ALBON Y",
+          "score": "6/4 6/4"
+        },
+        "player2": {
+          "name": "SNIGUR D.",
+          "score": "7/6 (3) 6/2"
+        }
+      },
+      {
+        "player1": {
+          "name": "WALTERT S.",
+          "score": "W.O"
+        },
+        "player2": {
+          "name": "ALVES C.",
+          "score": "6/4 3/1 abandon"
+        }
+      }
+    ],
+    [
+      {
+        "player1": {
+          "name": "IN-ALBON Y.",
+          "score": "7/5 6/1"
+        },
+        "player2": {
+          "name": "ALVES C.",
+          "score": "7/5 6/4"
+        }
+      }
+    ],
+    [
+      {
+        "player1": {
+          "name": "IN-ALBON Y.",
+          "score": "4/6 6/4 6/3"
+        }
+      }
+    ]
+  ],
+  "titles": ["1st Round", "2nd round", "3rd round", "Quarter", "Semi", "Finale"]
 }
