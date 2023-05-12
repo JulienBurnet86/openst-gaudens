@@ -25,7 +25,7 @@ class Draws extends React.Component {
     return /*#__PURE__*/React.createElement("div", {
       class: "row"
     }, /*#__PURE__*/React.createElement("select", {
-      class: "col-3 col-12-mobile",
+      class: "col-4 col-12-mobile",
       name: "selected",
       value: this.state.selected,
       onChange: this.handleChange.bind(this)
