@@ -16,7 +16,7 @@ The draws are loaded via a React component, that loads draw files from assets/js
 # Entry list
 Go to tournament list on ITF website
 
-https://www.itftennis.com/en/tournament/w60-saint-gaudens/fra/2022/w-itf-fra-11a-2022/acceptance-list/
+https://www.itftennis.com/en/tournament/w60-saint-gaudens/fra/2023/w-itf-fra-09a-2023/acceptance-list/
 Retrieve request like : 
-https://www.itftennis.com/tennis/api/TournamentApi/GetAcceptanceList?tournamentKey=w-itf-fra-11a-2022&circuitCode=WT
+https://www.itftennis.com/tennis/api/TournamentApi/GetAcceptanceList?tournamentKey=w-itf-fra-09a-2023&circuitCode=WT
 Copy json to EntryList.json in assets/js
