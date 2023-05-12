@@ -8,6 +8,10 @@ const exec = require("gulp-exec");
 const replace = require("gulp-replace");
 const filter = require("gulp-filter");
 const moment = require("moment");
+const webpack = require("webpack-stream");
+const webpack_main = require("webpack");
+const minify = require("gulp-minify");
+const named = require("vinyl-named");
 
 gulp.task("copydata", function () {
   return gulp.src("src/**/*.json").pipe(gulp.dest("compiled"));
@@ -39,6 +43,25 @@ gulp.task("i18n", function () {
       })
     )
     .pipe(gulp.dest("."));
+});
+
+gulp.task("webpack", function () {
+  return gulp
+    .src("src/components/*.jsx")
+    .pipe(named())
+    .pipe(
+      webpack({
+        mode: "production",
+        module: {
+          rules: [
+            {
+              use: "babel-loader",
+            },
+          ],
+        },
+      })
+    )
+    .pipe(gulp.dest("assets/js"));
 });
 
 gulp.task("babel", function () {
@@ -79,7 +102,7 @@ gulp.task("convert", function () {
     .pipe(exec.reporter(reportOptions));
 });
 
-exports.default = gulp.series("copydata", "fileinclude", "i18n", "babel");
+exports.default = gulp.series("copydata", "fileinclude", "i18n", "webpack");
 
 gulp.task("serve", function () {
   browserSync.init({
