@@ -11,7 +11,7 @@ const capitalize = (string) => string[0].toUpperCase() + string.slice(1);
 
 function Player({ player, x, y }) {
   const margin = PLAYER_HEIGHT / 10;
-  const fontSize = 18;
+  const fontSize = 16;
   return (
     <>
       <Rect
@@ -115,7 +115,7 @@ function Draw({ rounds }) {
 function App() {
   const [rounds, setRounds] = useState([]);
   const draws = ["qualifications", "singles", "doubles"];
-  const [selectedDraw, setSelectedDraw] = useState("singles");
+  const [selectedDraw, setSelectedDraw] = useState("qualifications");
 
   useMemo(() => {
     fetch(`/assets/json/${selectedDraw}.json`)

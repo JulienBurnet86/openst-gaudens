@@ -1,4 +1,134 @@
 {
-  "titles": ["1st round", "Quarter", "Semi", "Finale"],
-  "rounds": [[], [], [], [], []]
+  "rounds": [
+    [
+      {
+        "player1": {
+          "name": "Abduraimova N."
+        },
+        "player2": {
+          "name": "Grammatikopoulou V."
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      }
+    ]
+  ]
 }
