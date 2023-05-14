@@ -17,7 +17,7 @@ gulp.task("copydata", function () {
   return gulp.src("src/**/*.json").pipe(gulp.dest("compiled"));
 });
 
-const formattedDate = moment().format("DD/MM/YY hh:mm");
+const formattedDate = moment().format("DD/MM/YY HH:mm");
 
 gulp.task("fileinclude", function () {
   return gulp
