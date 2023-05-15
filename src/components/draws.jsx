@@ -6,12 +6,12 @@ const INITIAL_MATCH_SPACING = 40;
 const PLAYER_WIDTH = 170;
 const PLAYER_HEIGHT = 20;
 const HORIZONTAL_LINE_LENGTH = 30;
+const FONT_SIZE = 16;
 
 const capitalize = (string) => string[0].toUpperCase() + string.slice(1);
 
-function Player({ player, x, y }) {
+function Team({ team, x, y }) {
   const margin = PLAYER_HEIGHT / 10;
-  const fontSize = 16;
   return (
     <>
       <Line
@@ -22,7 +22,47 @@ function Player({ player, x, y }) {
         tension={1}
       />
       <Text
-        fontSize={fontSize}
+        fontSize={FONT_SIZE}
+        x={x + margin}
+        y={y + margin - PLAYER_HEIGHT}
+        text={team.player1}
+        width={PLAYER_WIDTH}
+        height={PLAYER_HEIGHT}
+      />
+      <Text
+        fontSize={FONT_SIZE}
+        x={x + margin}
+        y={y + margin}
+        text={team.player2}
+        width={PLAYER_WIDTH}
+        height={PLAYER_HEIGHT}
+      />
+      {team.score && (
+        <Text
+          fontSize={FONT_SIZE - 2}
+          x={x + margin}
+          y={y + PLAYER_HEIGHT * 2 + margin}
+          fontStyle="italic bold"
+          text={team.score}
+        />
+      )}
+    </>
+  );
+}
+
+function Player({ player, x, y }) {
+  const margin = PLAYER_HEIGHT / 10;
+  return (
+    <>
+      <Line
+        x={x}
+        y={y + PLAYER_HEIGHT}
+        points={[0, 0, PLAYER_WIDTH, 0]}
+        stroke="black"
+        tension={1}
+      />
+      <Text
+        fontSize={FONT_SIZE}
         x={x + margin}
         y={y + margin}
         text={player.name}
@@ -31,10 +71,10 @@ function Player({ player, x, y }) {
       />
       {player.score && (
         <Text
-          fontSize={fontSize - 2}
+          fontSize={FONT_SIZE - 2}
           x={x + margin}
           y={y + PLAYER_HEIGHT + margin}
-          fontStyle="italic"
+          fontStyle="italic bold"
           text={player.score}
         />
       )}
@@ -43,9 +83,28 @@ function Player({ player, x, y }) {
 }
 
 function Match({ startLine, startColumn, match, matchVerticalSpacing }) {
+  const player1 = match.player1 ? (
+    <Player player={match.player1} x={startColumn} y={startLine} />
+  ) : (
+    <Team team={match.team1} x={startColumn} y={startLine} />
+  );
+  const player2 = match.player2 ? (
+    <Player
+      player={match.player2}
+      x={startColumn}
+      y={startLine + matchVerticalSpacing}
+    />
+  ) : (
+    <Team
+      team={match.team2}
+      x={startColumn}
+      y={startLine + matchVerticalSpacing}
+    />
+  );
+
   return (
     <>
-      <Player player={match.player1} x={startColumn} y={startLine} />
+      {player1}
       {/* horizontal line 1 */}
       <Line
         x={startColumn + PLAYER_WIDTH}
@@ -54,11 +113,7 @@ function Match({ startLine, startColumn, match, matchVerticalSpacing }) {
         stroke="black"
         tension={1}
       />
-      <Player
-        player={match.player2}
-        x={startColumn}
-        y={startLine + matchVerticalSpacing}
-      />
+      {player2}
       {/* horizontal line 2 */}
       <Line
         x={startColumn + PLAYER_WIDTH}
@@ -87,9 +142,10 @@ function Match({ startLine, startColumn, match, matchVerticalSpacing }) {
   );
 }
 
-function Round({ matches, roundIndex }) {
+function Round({ matches, roundIndex, doubles }) {
   const startColumn = roundIndex * (PLAYER_WIDTH + HORIZONTAL_LINE_LENGTH * 2);
-  const matchVerticalSpacing = INITIAL_MATCH_SPACING * Math.pow(2, roundIndex);
+  const matchVerticalSpacing =
+    INITIAL_MATCH_SPACING * (doubles ? 2 : 1) * Math.pow(2, roundIndex);
   const lineOffset = matchVerticalSpacing / 2 - PLAYER_HEIGHT;
   return (
     <>
@@ -105,15 +161,15 @@ function Round({ matches, roundIndex }) {
   );
 }
 
-function Draw({ rounds }) {
+function Draw({ rounds, doubles }) {
   if (!rounds) return null;
   return rounds.map((matches, roundIndex) => (
-    <Round matches={matches} roundIndex={roundIndex} />
+    <Round matches={matches} roundIndex={roundIndex} doubles={doubles} />
   ));
 }
 
 function App() {
-  const [rounds, setRounds] = useState([]);
+  const [currentDraw, setCurrentDraw] = useState([]);
   const draws = ["qualifications", "singles", "doubles"];
   const [selectedDraw, setSelectedDraw] = useState("qualifications");
 
@@ -123,7 +179,7 @@ function App() {
         return response.json();
       })
       .then((jsonData) => {
-        setRounds(jsonData.rounds);
+        setCurrentDraw(jsonData);
       });
   }, [selectedDraw]);
 
@@ -149,7 +205,7 @@ function App() {
           height={INITIAL_MATCH_SPACING * 32}
         >
           <Layer>
-            <Draw rounds={rounds} />
+            <Draw rounds={currentDraw.rounds} doubles={currentDraw.doubles} />
           </Layer>
         </Stage>
       </div>
