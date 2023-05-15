@@ -3,10 +3,58 @@
     [
       {
         "player1": {
-          "name": "Abduraimova N."
+          "name": ""
         },
         "player2": {
-          "name": "Grammatikopoulou V."
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
         }
       },
       {
@@ -65,6 +113,24 @@
           "name": ""
         }
       },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      },
+      {
+        "player1": {
+          "name": ""
+        },
+        "player2": {
+          "name": ""
+        }
+      }
+    ],
+    [
       {
         "player1": {
           "name": ""
@@ -133,39 +199,6 @@
     [
       {
         "player1": {
-          "name": "Player 1",
-          "score": "6/1 2/6 6/4"
-        },
-        "player2": {
-          "name": "Player 2"
-        }
-      },
-      {
-        "player1": {
-          "name": ""
-        },
-        "player2": {
-          "name": ""
-        }
-      },
-      {
-        "player1": {
-          "name": ""
-        },
-        "player2": {
-          "name": ""
-        }
-      },
-      {
-        "player1": {
-          "name": ""
-        },
-        "player2": {
-          "name": ""
-        }
-      },
-      {
-        "player1": {
           "name": ""
         },
         "player2": {
@@ -200,22 +233,6 @@
     [
       {
         "player1": {
-          "name": "Player 1"
-        },
-        "player2": {
-          "name": "Player 2"
-        }
-      },
-      {
-        "player1": {
-          "name": ""
-        },
-        "player2": {
-          "name": ""
-        }
-      },
-      {
-        "player1": {
           "name": ""
         },
         "player2": {
@@ -234,32 +251,13 @@
     [
       {
         "player1": {
-          "name": "Player 1"
-        },
-        "player2": {
-          "name": "Player 2"
-        }
-      },
-      {
-        "player1": {
           "name": ""
         },
         "player2": {
           "name": ""
-        }
-      }
-    ],
-    [
-      {
-        "player1": {
-          "name": "Player 1"
-        },
-        "player2": {
-          "name": "Player 2"
         }
       }
     ],
     []
-  ],
-  "titles": ["1st Round", "2nd round", "3rd round", "Quarter", "Semi", "Finale"]
+  ]
 }
