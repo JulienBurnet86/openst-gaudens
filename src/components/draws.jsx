@@ -1,6 +1,6 @@
 import React, { useMemo, useState } from "react";
 import { render } from "react-dom";
-import { Stage, Layer, Rect, Text, Line } from "react-konva";
+import { Stage, Layer, Text, Line } from "react-konva";
 
 const INITIAL_MATCH_SPACING = 40;
 const PLAYER_WIDTH = 170;
