@@ -132,25 +132,28 @@ function App() {
   }
 
   return (
-    <div className="row">
-      <select onChange={handleChange}>
-        {draws.map((value) => (
-          <option value={value} selected={selectedDraw === value}>
-            {capitalize(value)}
-          </option>
-        ))}
-      </select>
-
+    <>
+      <div className="row">
+        <select onChange={handleChange} className="col-3">
+          {draws.map((value) => (
+            <option value={value} selected={selectedDraw === value}>
+              {capitalize(value)}
+            </option>
+          ))}
+        </select>
+      </div>
       <br />
-      <Stage
-        width={(PLAYER_WIDTH + HORIZONTAL_LINE_LENGTH) * 6}
-        height={INITIAL_MATCH_SPACING * 32}
-      >
-        <Layer>
-          <Draw rounds={rounds} />
-        </Layer>
-      </Stage>
-    </div>
+      <div className="row">
+        <Stage
+          width={(PLAYER_WIDTH + HORIZONTAL_LINE_LENGTH) * 6}
+          height={INITIAL_MATCH_SPACING * 32}
+        >
+          <Layer>
+            <Draw rounds={rounds} />
+          </Layer>
+        </Stage>
+      </div>
+    </>
   );
 }
 
