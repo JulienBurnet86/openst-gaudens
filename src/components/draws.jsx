@@ -14,12 +14,12 @@ function Player({ player, x, y }) {
   const fontSize = 16;
   return (
     <>
-      <Rect
-        stroke="black"
+      <Line
         x={x}
-        y={y}
-        width={PLAYER_WIDTH}
-        height={PLAYER_HEIGHT}
+        y={y + PLAYER_HEIGHT}
+        points={[0, 0, PLAYER_WIDTH, 0]}
+        stroke="black"
+        tension={1}
       />
       <Text
         fontSize={fontSize}
@@ -31,7 +31,7 @@ function Player({ player, x, y }) {
       />
       {player.score && (
         <Text
-          fontSize={fontSize - 4}
+          fontSize={fontSize - 2}
           x={x + margin}
           y={y + PLAYER_HEIGHT + margin}
           fontStyle="italic"
@@ -49,7 +49,7 @@ function Match({ startLine, startColumn, match, matchVerticalSpacing }) {
       {/* horizontal line 1 */}
       <Line
         x={startColumn + PLAYER_WIDTH}
-        y={startLine + PLAYER_HEIGHT / 2}
+        y={startLine + PLAYER_HEIGHT}
         points={[0, 0, HORIZONTAL_LINE_LENGTH, 0]}
         stroke="black"
         tension={1}
@@ -62,7 +62,7 @@ function Match({ startLine, startColumn, match, matchVerticalSpacing }) {
       {/* horizontal line 2 */}
       <Line
         x={startColumn + PLAYER_WIDTH}
-        y={startLine + matchVerticalSpacing + PLAYER_HEIGHT / 2}
+        y={startLine + matchVerticalSpacing + PLAYER_HEIGHT}
         points={[0, 0, HORIZONTAL_LINE_LENGTH, 0]}
         stroke="black"
         tension={1}
@@ -70,7 +70,7 @@ function Match({ startLine, startColumn, match, matchVerticalSpacing }) {
       {/* vertical line */}
       <Line
         x={startColumn + PLAYER_WIDTH + HORIZONTAL_LINE_LENGTH}
-        y={startLine + PLAYER_HEIGHT / 2}
+        y={startLine + PLAYER_HEIGHT}
         points={[0, 0, 0, matchVerticalSpacing]}
         stroke="black"
         tension={1}
@@ -78,7 +78,7 @@ function Match({ startLine, startColumn, match, matchVerticalSpacing }) {
       {/* horizontal line winner */}
       <Line
         x={startColumn + PLAYER_WIDTH + HORIZONTAL_LINE_LENGTH}
-        y={startLine + matchVerticalSpacing / 2 + PLAYER_HEIGHT / 2}
+        y={startLine + matchVerticalSpacing / 2 + PLAYER_HEIGHT}
         points={[0, 0, HORIZONTAL_LINE_LENGTH, 0]}
         stroke="black"
         tension={1}
