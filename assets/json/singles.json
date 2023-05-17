@@ -11,7 +11,7 @@
       },
       {
         "player1": {
-          "name": "Qualifier"
+          "name": "LEONARD M."
         },
         "player2": {
           "name": "ALVES Carolina"
@@ -19,7 +19,7 @@
       },
       {
         "player1": {
-          "name": "Qualifier"
+          "name": "MOHAMED H."
         },
         "player2": {
           "name": "ROUVROY M."
@@ -27,7 +27,7 @@
       },
       {
         "player1": {
-          "name": "Qualifier"
+          "name": "REAMI A."
         },
         "player2": {
           "name": "ZAKHAROVA A. [8]"
@@ -75,7 +75,7 @@
       },
       {
         "player1": {
-          "name": "Qualifier"
+          "name": "SMITH T"
         },
         "player2": {
           "name": "NGUYEN TAN L."
@@ -83,7 +83,7 @@
       },
       {
         "player1": {
-          "name": "Qualifier"
+          "name": "KANEV K."
         },
         "player2": {
           "name": "LANSERE S."
@@ -91,7 +91,7 @@
       },
       {
         "player1": {
-          "name": "Qualifier"
+          "name": "MANSOURI Y."
         },
         "player2": {
           "name": "SNIGUR D. [4]"
@@ -102,7 +102,7 @@
           "name": "JIMENEZ K. V. [6]"
         },
         "player2": {
-          "name": "Qualifier"
+          "name": "LEW YAN FOON A."
         }
       },
       {
@@ -110,7 +110,7 @@
           "name": "TAN H."
         },
         "player2": {
-          "name": "Qualifier"
+          "name": "ILIEV S."
         }
       },
       {
@@ -133,66 +133,82 @@
     [
       {
         "player1": {
-          "name": ""
+          "name": "MONTGOMERY R. [9]",
+          "score": "6-3 2-6 6-0"
         },
         "player2": {
-          "name": ""
+          "name": "ALVES Carolina",
+          "score": "3-6 7-6(8) 6-2"
         }
       },
       {
         "player1": {
-          "name": ""
+          "name": "ROUVROY M.",
+          "score": "6-1 6-0"
         },
         "player2": {
-          "name": ""
+          "name": "ZAKHAROVA A. [8]",
+          "score": "6-1 6-2"
         }
       },
       {
         "player1": {
-          "name": ""
+          "name": "PIGOSSI L. [3]",
+          "score": "6-1 6-7(4) 6-2"
         },
         "player2": {
-          "name": ""
+          "name": "SISKOVA A.",
+          "score": "6-1 6-4"
         }
       },
       {
         "player1": {
-          "name": ""
+          "name": "LENE E.",
+          "score": "6-4 6-2"
         },
         "player2": {
-          "name": ""
+          "name": "ABDURAIMOVA N. [7]",
+          "score": "6-4 6-2"
         }
       },
       {
         "player1": {
-          "name": ""
+          "name": "VICKERY S. [5]",
+          "score": "6-1 6-3"
         },
         "player2": {
-          "name": ""
+          "name": "NGUYEN TAN L.",
+          "score": "6-3 6-1"
         }
       },
       {
         "player1": {
-          "name": ""
+          "name": "KANEV K.",
+          "score": "6-4 3-6 6-1"
         },
         "player2": {
-          "name": ""
+          "name": "SNIGUR D. [4]",
+          "score": "6-3 6-1"
         }
       },
       {
         "player1": {
-          "name": ""
+          "name": "JIMENEZ K. V. [6]",
+          "score": "6-1 6-3"
         },
         "player2": {
-          "name": ""
+          "name": "ILIEV S.",
+          "score": "1-6 7-6(11) 2-2 Ret."
         }
       },
       {
         "player1": {
-          "name": ""
+          "name": "ROBBE A.",
+          "score": "6-3 5-7 6-4"
         },
         "player2": {
-          "name": ""
+          "name": "MIYAZAKI Y. L.",
+          "score": "6-3 6-1"
         }
       }
     ],
