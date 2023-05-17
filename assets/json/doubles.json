@@ -49,10 +49,16 @@
           "player1": "LANSERE, Sofya [1]",
           "player2": "SISKOVA, Anna"
         },
-        "team2": {}
+        "team2": {
+          "player1": "DARTRON, Emeline [4]",
+          "player2": "MANSOURI, Yasmine"
+        }
       },
       {
-        "team1": {},
+        "team1": {
+          "player1": "NGUYEN TAN, Lucie [3]",
+          "player2": "WARGNIER, Lucie"
+        },
         "team2": {
           "player1": "HERAZO GONZALEZ, M [2]",
           "player2": "REAMI, Adriana"
