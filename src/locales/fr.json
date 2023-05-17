@@ -3,7 +3,8 @@
     "flag": "english"
   },
   "video": {
-    "central": "Central Court"
+    "central": "Central Court",
+    "link_itf": "Si vous rencontrez un probleme, les vidéos sont disponibles <a href='https://live.itftennis.com/en/live-streams/'> ici </a>"
   },
   "pictures": {
     "title": "Trouvez ici les photos, en liens sur flickr, regroupées par joueuses !"
