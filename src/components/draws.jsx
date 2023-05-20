@@ -41,7 +41,7 @@ function Team({ team, x, y }) {
         <Text
           fontSize={FONT_SIZE - 2}
           x={x + margin}
-          y={y + PLAYER_HEIGHT * 2 + margin}
+          y={y + PLAYER_HEIGHT + margin}
           fontStyle="italic bold"
           text={team.score}
         />
@@ -142,10 +142,23 @@ function Match({ startLine, startColumn, match, matchVerticalSpacing }) {
   );
 }
 
-function Round({ matches, roundIndex, doubles }) {
+function Winner({ winner, isDoubles, numberOfRounds }) {
+  console.log(`Winner`, { winner });
+  const startColumn =
+    numberOfRounds * (PLAYER_WIDTH + HORIZONTAL_LINE_LENGTH * 2);
+  const startLine =
+    INITIAL_MATCH_SPACING * Math.pow(2, numberOfRounds) - PLAYER_HEIGHT;
+  return isDoubles ? (
+    <Team team={winner} x={startColumn} y={startLine} />
+  ) : (
+    <Player player={winner} x={startColumn} y={startLine} />
+  );
+}
+
+function Round({ matches, roundIndex, isDoubles }) {
   const startColumn = roundIndex * (PLAYER_WIDTH + HORIZONTAL_LINE_LENGTH * 2);
   const matchVerticalSpacing =
-    INITIAL_MATCH_SPACING * (doubles ? 2 : 1) * Math.pow(2, roundIndex);
+    INITIAL_MATCH_SPACING * (isDoubles ? 2 : 1) * Math.pow(2, roundIndex);
   const lineOffset = matchVerticalSpacing / 2 - PLAYER_HEIGHT;
   return (
     <>
@@ -161,17 +174,17 @@ function Round({ matches, roundIndex, doubles }) {
   );
 }
 
-function Draw({ rounds, doubles }) {
+function Draw({ rounds, isDoubles }) {
   if (!rounds) return null;
   return rounds.map((matches, roundIndex) => (
-    <Round matches={matches} roundIndex={roundIndex} doubles={doubles} />
+    <Round matches={matches} roundIndex={roundIndex} isDoubles={isDoubles} />
   ));
 }
 
 function App() {
   const [currentDraw, setCurrentDraw] = useState([]);
   const draws = ["qualifications", "singles", "doubles"];
-  const [selectedDraw, setSelectedDraw] = useState("singles");
+  const [selectedDraw, setSelectedDraw] = useState("doubles");
 
   useMemo(() => {
     fetch(`/assets/json/${selectedDraw}.json`)
@@ -205,7 +218,17 @@ function App() {
           height={INITIAL_MATCH_SPACING * 32}
         >
           <Layer>
-            <Draw rounds={currentDraw.rounds} doubles={currentDraw.doubles} />
+            <Draw
+              rounds={currentDraw.rounds}
+              isDoubles={currentDraw.isDoubles}
+            />
+            {currentDraw.winner && (
+              <Winner
+                winner={currentDraw.winner}
+                isDoubles={currentDraw.isDoubles}
+                numberOfRounds={currentDraw.rounds.length}
+              />
+            )}
           </Layer>
         </Stage>
       </div>
