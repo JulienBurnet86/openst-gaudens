@@ -215,52 +215,64 @@
     [
       {
         "player1": {
-          "name": ""
+          "name": "MONTGOMERY R. [9]",
+          "score": "6-2 6-4"
         },
         "player2": {
-          "name": ""
+          "name": "ROUVROY M.",
+          "score": "6-1 6-3"
         }
       },
       {
         "player1": {
-          "name": ""
+          "name": "SISKOVA A.",
+          "score": "6-4 6-4"
         },
         "player2": {
-          "name": ""
+          "name": "ABDURAIMOVA N. [7]",
+          "score": "7-5 6-1"
         }
       },
       {
         "player1": {
-          "name": ""
+          "name": "NGUYEN TAN L.",
+          "score": "7-5 3-0 ret."
         },
         "player2": {
-          "name": ""
+          "name": "SNIGUR D. [4]",
+          "score": "6-3 3-6 6-3"
         }
       },
       {
         "player1": {
-          "name": ""
+          "name": "JIMENEZ K. V. [6]",
+          "score": "6-1 7-5"
         },
         "player2": {
-          "name": ""
+          "name": "ROBBE A.",
+          "score": "2-6 6-3 6-4"
         }
       }
     ],
     [
       {
         "player1": {
-          "name": ""
+          "name": "MONTGOMERY R. [9]",
+          "score": "6-4 6-2"
         },
         "player2": {
-          "name": ""
+          "name": "ABDURAIMOVA N. [7]",
+          "score": "6-2 6-1"
         }
       },
       {
         "player1": {
-          "name": ""
+          "name": "SNIGUR D. [4]",
+          "score": "6-4 6-1"
         },
         "player2": {
-          "name": ""
+          "name": "ROBBE A.",
+          "score": "7-5 6-4"
         }
       }
     ],
