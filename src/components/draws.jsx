@@ -184,7 +184,7 @@ function Draw({ rounds, isDoubles }) {
 function App() {
   const [currentDraw, setCurrentDraw] = useState([]);
   const draws = ["qualifications", "singles", "doubles"];
-  const [selectedDraw, setSelectedDraw] = useState("doubles");
+  const [selectedDraw, setSelectedDraw] = useState("singles");
 
   useMemo(() => {
     fetch(`/assets/json/${selectedDraw}.json`)
