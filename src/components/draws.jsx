@@ -143,7 +143,6 @@ function Match({ startLine, startColumn, match, matchVerticalSpacing }) {
 }
 
 function Winner({ winner, isDoubles, numberOfRounds }) {
-  console.log(`Winner`, { winner });
   const startColumn =
     numberOfRounds * (PLAYER_WIDTH + HORIZONTAL_LINE_LENGTH * 2);
   const startLine =
