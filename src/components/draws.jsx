@@ -5,7 +5,7 @@ import { Stage, Layer, Text, Line } from "react-konva";
 const INITIAL_MATCH_SPACING = 40;
 const PLAYER_WIDTH = 170;
 const PLAYER_HEIGHT = 20;
-const HORIZONTAL_LINE_LENGTH = 30;
+const HORIZONTAL_LINE_LENGTH = 20;
 const FONT_SIZE = 16;
 
 const capitalize = (string) => string[0].toUpperCase() + string.slice(1);
@@ -146,7 +146,9 @@ function Winner({ winner, isDoubles, numberOfRounds }) {
   const startColumn =
     numberOfRounds * (PLAYER_WIDTH + HORIZONTAL_LINE_LENGTH * 2);
   const startLine =
-    INITIAL_MATCH_SPACING * Math.pow(2, numberOfRounds) - PLAYER_HEIGHT;
+    INITIAL_MATCH_SPACING *
+      Math.pow(2, isDoubles ? numberOfRounds : numberOfRounds - 1) -
+    PLAYER_HEIGHT;
   return isDoubles ? (
     <Team team={winner} x={startColumn} y={startLine} />
   ) : (
@@ -212,24 +214,29 @@ function App() {
       </div>
       <br />
       <div className="row">
-        <Stage
-          width={(PLAYER_WIDTH + HORIZONTAL_LINE_LENGTH) * 6}
-          height={INITIAL_MATCH_SPACING * 32}
-        >
-          <Layer>
-            <Draw
-              rounds={currentDraw.rounds}
-              isDoubles={currentDraw.isDoubles}
-            />
-            {currentDraw.winner && (
-              <Winner
-                winner={currentDraw.winner}
+        {currentDraw.rounds && (
+          <Stage
+            width={
+              (PLAYER_WIDTH + HORIZONTAL_LINE_LENGTH) *
+              (currentDraw.rounds.length + 2)
+            }
+            height={INITIAL_MATCH_SPACING * 32}
+          >
+            <Layer>
+              <Draw
+                rounds={currentDraw.rounds}
                 isDoubles={currentDraw.isDoubles}
-                numberOfRounds={currentDraw.rounds.length}
               />
-            )}
-          </Layer>
-        </Stage>
+              {currentDraw.winner && (
+                <Winner
+                  winner={currentDraw.winner}
+                  isDoubles={currentDraw.isDoubles}
+                  numberOfRounds={currentDraw.rounds.length}
+                />
+              )}
+            </Layer>
+          </Stage>
+        )}
       </div>
     </>
   );
