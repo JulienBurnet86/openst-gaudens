@@ -3,58 +3,58 @@
     [
       {
         "player1": {
-          "name": "KANEV K. [1]"
+          "name": "GORGODZE E. [1]"
         },
         "player2": {
-          "name": "Bye"
+          "name": "ROMEO C."
         }
       },
       {
         "player1": {
-          "name": "Bye"
+          "name": "REGUER A."
         },
         "player2": {
-          "name": "CHIESA E. [9]"
+          "name": "GAVRILA O. [10]"
         }
       },
       {
         "player1": {
-          "name": "LEONARD M. [2]"
+          "name": "MAKLAKOVA E. [2]"
         },
         "player2": {
-          "name": "Bye"
+          "name": "REZAI A."
         }
       },
       {
         "player1": {
-          "name": "FURNESS L."
+          "name": "CIROTTE A."
         },
         "player2": {
-          "name": "GIOVANNINI L. [11]"
+          "name": "RAKOTOMANGA RAJAONA T. [14]"
         }
       },
       {
         "player1": {
-          "name": "REAMI A. [3]"
+          "name": "PERRIN C. [3]"
         },
         "player2": {
-          "name": "Bye"
+          "name": "CASCINO E."
         }
       },
       {
         "player1": {
-          "name": "MARTIAL A."
+          "name": "ZOLDAKOVA D."
         },
         "player2": {
-          "name": "BENAISSA A. [15]"
+          "name": "SHAPATAVA S. [15]"
         }
       },
       {
         "player1": {
-          "name": "MANSOURI Y. [4]"
+          "name": "COLMEGNA M. [4]"
         },
         "player2": {
-          "name": "Bye"
+          "name": "GRAM O."
         }
       },
       {
@@ -62,181 +62,75 @@
           "name": "PAWLAK L."
         },
         "player2": {
-          "name": "BORNAY J. [14]"
+          "name": "LIM J. [14]"
         }
       },
       {
         "player1": {
-          "name": "SMITH T. [5]"
+          "name": "KANEV K. [5]"
         },
         "player2": {
-          "name": "Bye"
+          "name": "BOUGOUFFA H."
         }
       },
       {
         "player1": {
+          "name": "WIESENFELD E."
+        },
+        "player2": {
+          "name": "DARTRON E [9]"
+        }
+      },
+      {
+        "player1": {
+          "name": "SILVA E. [6]"
+        },
+        "player2": {
+          "name": "KOLB N."
+        }
+      },
+      {
+        "player1": {
+          "name": "LEW YAN FOON A."
+        },
+        "player2": {
+          "name": "YASHINA E. [16]"
+        }
+      },
+      {
+        "player1": {
+          "name": "LENE E. [7]"
+        },
+        "player2": {
           "name": "MPETSHI PERRICARD D."
-        },
-        "player2": {
-          "name": "CIROTTE A [13]"
         }
       },
       {
         "player1": {
-          "name": "PETRETIC L [6]"
+          "name": "ORMAECHEA P."
         },
         "player2": {
-          "name": "Bye"
+          "name": "RAME A. [11]"
         }
       },
       {
         "player1": {
-          "name": "BATAILLE E."
+          "name": "BAYERLOVA M. [8]"
+        },
+        "player2": {
+          "name": "BARTANUSZ Z."
+        }
+      },
+      {
+        "player1": {
+          "name": "ARIFULLINA A."
         },
         "player2": {
           "name": "MARTYNOV D. [10]"
         }
-      },
-      {
-        "player1": {
-          "name": "ILIEV S. [7]"
-        },
-        "player2": {
-          "name": "Bye"
-        }
-      },
-      {
-        "player1": {
-          "name": "MOHAMED H."
-        },
-        "player2": {
-          "name": "MERCADIER N. [16]"
-        }
-      },
-      {
-        "player1": {
-          "name": "NOEL C. [8]"
-        },
-        "player2": {
-          "name": "Bye"
-        }
-      },
-      {
-        "player1": {
-          "name": "LECLERCQ M."
-        },
-        "player2": {
-          "name": "LEW YAN FOON A. [12]"
-        }
       }
     ],
-    [
-      {
-        "player1": {
-          "name": "KANEV K. [1]"
-        },
-        "player2": {
-          "name": "CHIESA E. [9]"
-        }
-      },
-      {
-        "player1": {
-          "name": "LEONARD M. [2]"
-        },
-        "player2": {
-          "name": "FURNESS L.",
-          "score": "7-6(3) 6-4"
-        }
-      },
-      {
-        "player1": {
-          "name": "REAMI A. [3]"
-        },
-        "player2": {
-          "name": "MARTIAL A.",
-          "score": "6-4 6-4"
-        }
-      },
-      {
-        "player1": {
-          "name": "MANSOURI Y. [4]"
-        },
-        "player2": {
-          "name": "BORNAY J. [14]",
-          "score": "6-3 6-1"
-        }
-      },
-      {
-        "player1": {
-          "name": "SMITH T. [5]"
-        },
-        "player2": {
-          "name": "MPETSHI PERRICARD D.",
-          "score": "6-2 6-4"
-        }
-      },
-      {
-        "player1": {
-          "name": "PETRETIC L [6]"
-        },
-        "player2": {
-          "name": "MARTYNOV D. [10]",
-          "score": "6-1 6-3"
-        }
-      },
-      {
-        "player1": {
-          "name": "ILIEV S. [7]"
-        },
-        "player2": {
-          "name": "MOHAMED H.",
-          "score": "7-6(5) 6-1"
-        }
-      },
-      {
-        "player1": {
-          "name": "NOEL C. [8]"
-        },
-        "player2": {
-          "name": "LEW YAN FOON A. [12]",
-          "score": "6-3 6-3"
-        }
-      }
-    ],
-    [
-      {
-        "player1": {
-          "name": "KANEV K. [1]"
-        },
-        "player2": {
-          "name": "LEONARD M. [2]"
-        }
-      },
-      {
-        "player1": {
-          "name": "REAMI A. [3]"
-        },
-        "player2": {
-          "name": "MANSOURI Y. [4]"
-        }
-      },
-      {
-        "player1": {
-          "name": "SMITH T. [5]"
-        },
-        "player2": {
-          "name": "PETRETIC L [6]"
-        }
-      },
-      {
-        "player1": {
-          "name": "ILIEV S. [7]"
-        },
-        "player2": {
-          "name": "LEW YAN FOON A. [12]",
-          "score": "6-3 6-3"
-        }
-      }
-    ]
+    [],
+    []
   ]
 }
