@@ -1,4 +1,73 @@
 {
   "isDoubles": true,
-  "rounds": [[], [], []]
+  "rounds": [
+    [
+      {
+        "player1": {
+          "name": "BARNETT/GADECKI"
+        },
+        "player2": {
+          "name": "KOLB/KOLB"
+        }
+      },
+      {
+        "player1": {
+          "name": "MAKLAKOVA/ROBBE"
+        },
+        "player2": {
+          "name": "BAYERLOVA/DRAZIC"
+        }
+      },
+      {
+        "player1": {
+          "name": "HAVERLAG/NAEF"
+        },
+        "player2": {
+          "name": "DARTRON/RAKOTOMANGA"
+        }
+      },
+      {
+        "player1": {
+          "name": "PEREZ/YASHINA"
+        },
+        "player2": {
+          "name": "GAVRILA/KANEV"
+        }
+      },
+      {
+        "player1": {
+          "name": "LEW YAN FOON/LIM"
+        },
+        "player2": {
+          "name": "RAME/ZAVATSKA"
+        }
+      },
+      {
+        "player1": {
+          "name": "WIESENFELD/ZOLDAKOVA"
+        },
+        "player2": {
+          "name": "CASCINO/MONNET"
+        }
+      },
+      {
+        "player1": {
+          "name": "MAKAROVA/WAGNER"
+        },
+        "player2": {
+          "name": "LENE/LEONARD"
+        }
+      },
+      {
+        "player1": {
+          "name": "COLMEGNA/SHAPATAVA"
+        },
+        "player2": {
+          "name": "PERRIN/SILVA"
+        }
+      }
+    ],
+    [],
+    []
+  ]
 }
