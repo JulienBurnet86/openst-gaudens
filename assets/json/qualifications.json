@@ -130,7 +130,88 @@
         }
       }
     ],
-    [],
+    [
+      {
+        "player1": {
+          "name": "ROMEO C.",
+          "score": "6/2 7/6"
+        },
+        "player2": {
+          "name": "GAVRILA O. [10]",
+          "score": "7/5 6/4"
+        }
+      },
+      {
+        "player1": {
+          "name": "REZAI A.",
+          "score": "3/6 6/3 6/3"
+        },
+        "player2": {
+          "name": "RAKOTOMANGA RAJAONA T. [14]",
+          "score": "6/0 6/4"
+        }
+      },
+      {
+        "player1": {
+          "name": "PERRIN C. [3]",
+          "score": "6/3 6/1"
+        },
+        "player2": {
+          "name": "SHAPATAVA S. [15]",
+          "score": "6/1 7/6"
+        }
+      },
+      {
+        "player1": {
+          "name": "COLMEGNA M. [4]",
+          "score": "7/5 6/4"
+        },
+        "player2": {
+          "name": "LIM J. [14]",
+          "score": "6/0 6/2"
+        }
+      },
+      {
+        "player1": {
+          "name": "KANEV K. [5]",
+          "score": "7/5 6/3"
+        },
+        "player2": {
+          "name": "DARTRON E [9]",
+          "score": "6/0 6/0"
+        }
+      },
+      {
+        "player1": {
+          "name": "KOLB N.",
+          "score": "6/2 4/6 7/6"
+        },
+        "player2": {
+          "name": "LEW YAN FOON A.",
+          "score": "6/4 6/2"
+        }
+      },
+      {
+        "player1": {
+          "name": "MPETSHI PERRICARD D.",
+          "score": "7/6 7/5"
+        },
+        "player2": {
+          "name": "RAME A. [11]",
+          "score": "3/6 6/4 7/6"
+        }
+      },
+      {
+        "player1": {
+          "name": "BAYERLOVA M. [8]",
+          "score": "6/3 6/1"
+        },
+        "player2": {
+          "name": "MARTYNOV D. [10]",
+          "score": "6/4 5/7 6/1"
+        }
+      }
+    ],
     []
   ]
 }
