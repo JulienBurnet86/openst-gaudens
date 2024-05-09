@@ -58,3 +58,22 @@ p.score {
 .match .score {
 	background: white;
 }
+
+#news-ticker div.news-section {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background-color: white;
+	height: 1.5em;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+  	font-size: 1.3em;
+	z-index: 1000;
+}
+
+#news-ticker * {
+	padding: 0;
+	list-style: none;
+}

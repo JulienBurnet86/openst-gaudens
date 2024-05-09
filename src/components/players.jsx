@@ -1,8 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-const e = React.createElement;
-
 function EntryList(title, entries) {
   return (
     <div>

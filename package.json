@@ -48,6 +48,7 @@
     "gulp-filter": "^7.0.0",
     "gulp-run-command": "^0.0.10",
     "konva": "^9.0.1",
+    "react-advanced-news-ticker": "^1.0.1",
     "react-konva": "^18.2.7"
   }
 }
