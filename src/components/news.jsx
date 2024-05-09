@@ -11,12 +11,9 @@ function TennisNews() {
         return response.json();
       })
       .then((jsonData) => {
-        console.log(jsonData);
         setNews(jsonData[language]);
       });
   }, [language]);
-
-  console.log("news", news);
 
   if (news.length === 0) return <></>;
 
