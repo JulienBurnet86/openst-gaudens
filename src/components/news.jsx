@@ -1,15 +1,13 @@
 import React, { useMemo, useState } from "react";
-import ReactDOM from "react-dom";
-import NewsTicker, { Directions } from "react-advanced-news-ticker";
+import { createRoot } from "react-dom/client";
+import NewsTicker from "react-advanced-news-ticker";
 function TennisNews() {
   const language = window.location.href.includes("/en") ? "en" : "fr";
   const [news, setNews] = useState([]);
 
   useMemo(() => {
     fetch("/assets/json/news.json")
-      .then((response) => {
-        return response.json();
-      })
+      .then((response) => response.json())
       .then((jsonData) => {
         setNews(jsonData[language]);
       });
@@ -28,4 +26,5 @@ function TennisNews() {
   );
 }
 
-ReactDOM.render(<TennisNews />, document.getElementById("news-ticker"));
+const root = createRoot(document.getElementById("news-ticker"));
+root.render(<TennisNews />);
