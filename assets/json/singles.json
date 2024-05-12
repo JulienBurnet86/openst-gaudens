@@ -276,6 +276,17 @@
         }
       }
     ],
-    []
+    [
+      {
+        "player1": {
+          "name": "LIU C. [1]",
+          "score": "6/1 7/6"
+        },
+        "player2": {
+          "name": "JANICIJEVIC S.",
+          "score": "6/4 6/4"
+        }
+      }
+    ]
   ]
 }
