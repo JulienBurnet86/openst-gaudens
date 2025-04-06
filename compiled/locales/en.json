@@ -1,80 +1,82 @@
 {
-	"links" : {
-		"flag": "french"
-	},
-	"video" : {
-		"central" : "Court central"
-	},
-	"pictures" : {
-		"title" : "Here find pictures, hosted by @flickr, grouped by players"
-	},
-	"results": {
-		"title": "Draws",
-		"update": "Last update on"
-	},
-	"header": {
-		"date": "09 - 15 May 2022",
-		"name": "Edge Open Saint-Gaudens <br/>31 Occitanie <br/>ITF 60.000$"
-	},
-	"nav": {
-		"index": "Home",
-		"pictures": "Pictures",
-		"results": "Results",
-		"draw": "Draws & OOP",
-		"stream": "Live Video",
-		"infos": "Informations",
-		"players": "Players"
-	},
-	"index": {
-		"next": "Next",
-		"partners" : {
-			"title": "Our Sponsors"
-		},
-		"draw" : {
-			"title" : "Draws and OOP",
-			"subtitle" : "Draws and OOP are updated every night ! <br/> Last update : ",
-			"oop": "OOP",
-			"single": "Singles",
-			"quali": "Qualification",
-			"doubles": "Doubles"
-		},
-		"president" : {
-			"title": "President's word",
-			"subtitle": "L’Open Edge St-Gaudens 31 Midi-Pyrénées est un évènement majeur dans la vie sportive de notre Région.",
-			"content1": "Tournoi international de Tennis féminin de simple et de double, doté de 60.000 dollars de prix, il attribue 150 points pour le classement mondial des joueuses.",
-			"content2": "Cette manifestation est soutenue par les assemblées locales et territoriales, la fédération nationale de tennis et la Jeunesse et sports, ",
-			"content3": "sponsorisée par des acteurs économiques locaux et nationaux.",
-			"content4": "Elle donne des rencontres de grand intérêt dû à la qualité de jeu exceptionnelle dont font preuve les meilleures classées mondiales à la WTA.",
-			"content5": "Ainsi, les Françaises Caroline Garcia, Pauline Parmentier qui se sont toutes deux illustrées lors de la Fed Cup 2014 , ",
-			"content6": "Feuerstein, Razzano, Aravane Rezai un temps dans le top 20 du classement mondial, ont montré leur talent sur les courts du stade Jules Ribet tout au long des 19 éditions précédentes .Par ailleurs ,peu de sites peuvent se prévaloir d’avoir accueilli des joueuses telles que Samantha Stosur (vainqueur de l’US Open en 2011, et finaliste de Roland Garros en 2010), Caroline Wozniaki (quelque temps n°1 mondiale avec 18 titres sur le circuit) ou encore Francesca Schiavone (vainqueur de Roland Garros en 2010).",
-			"content7": "En outre, l’accueil familial et les installations jugées plus que convenables confèrent à cette manifestation une réputation maintenant bien établie qui a attiré et attire toujours des joueuses du monde entier que l’on retrouve ensuite sur les tournois du grand schlem. Bien situé dans le calendrier des rencontres, il est, du 09 au 15 Mai 2022 un des tournois sur terre battue pouvant servir de préparation pour Roland Garros ; ceci devrait favoriser un tableau encore plus élevé. "
-		},
-		"intro": "See introduction video"
-	},
-	"infos": {
-		"poster_title": "Poster",
-		"poster_subtitle": "Tournament 2022, 24th edition.",
-		"poster_content": "Regarding current situation and restrictions, tournament will adapt to the current government recommandations.",
-		"covid": "Tournament will strictly respect sanitary recommandations ",
-		"program_title" : "Program",
- 		"program_1" : "Friday 6th to Sunday 8th of may",
-		"program_2" : "Welcoming players",
-		"program_3" : "Sunday 8th of May",
-		"program_4" : "Random draw",
-		"program_5" : "Monday 9th of May", 
-		"program_6" : "Qualifications", 
-		"program_7" : "Tuesday 10th to Friday 13th of May",
-		"program_8" : "Singles and Doubles main draw",
-		"program_9" : "Saturday 14th of may",
-		"program_10" : "Singles semi-finale & Doubles Finale", 
-		"program_11" : "Sunday 15th of may", 
-		"program_12" : "Singles Finale"
-	},
-	"footer": {
-		"title": "Any question ?",
-		"content_1": "For any question, please contact the organisation <a class='underlined' href=\"mailto:openst-gaudens@gmail.com\">here</a> "
-	},
-	"intro": {
-		"skip": "Skip Introduction"
-	}
+  "links": {
+    "flag": "french"
+  },
+  "video": {
+    "central": "Court central",
+    "link_itf": "Live streams are available <a href='https://live.itftennis.com/en/live-streams/'> HERE </a>"
+  },
+  "pictures": {
+    "title": "Here find pictures, hosted by @flickr, grouped by players"
+  },
+  "results": {
+    "title": "Draws",
+    "update": "Last update on"
+  },
+  "header": {
+    "date": "05 - 11 May 2025",
+    "name": "Edge Open Saint-Gaudens <br/>31 Occitanie <br/>W75 + H"
+  },
+  "nav": {
+    "index": "Home",
+    "pictures": "Pictures",
+    "results": "Results",
+    "draw": "Draws & OOP",
+    "stream": "Live Video",
+    "infos": "Informations",
+    "players": "Players"
+  },
+  "index": {
+    "next": "Next",
+    "partners": {
+      "title": "Our Sponsors"
+    },
+    "draw": {
+      "title": "Draws and OOP",
+      "subtitle": "Draws and OOP are updated every night ! <br/> Last update : ",
+      "oop": "OOP",
+      "single": "Singles",
+      "quali": "Qualification",
+      "doubles": "Doubles"
+    },
+    "president": {
+      "title": "President's word",
+      "subtitle": "L’Open Edge St-Gaudens 31 Midi-Pyrénées est un évènement majeur dans la vie sportive de notre Région.",
+      "content1": "Tournoi international de Tennis féminin de simple et de double, doté de 60.000 dollars de prix, il attribue 150 points pour le classement mondial des joueuses.",
+      "content2": "Cette manifestation est soutenue par les assemblées locales et territoriales, la fédération nationale de tennis et la Jeunesse et sports, ",
+      "content3": "sponsorisée par des acteurs économiques locaux et nationaux.",
+      "content4": "Elle donne des rencontres de grand intérêt dû à la qualité de jeu exceptionnelle dont font preuve les meilleures classées mondiales à la WTA.",
+      "content5": "Ainsi, les Françaises Caroline Garcia, Pauline Parmentier qui se sont toutes deux illustrées lors de la Fed Cup 2014 , ",
+      "content6": "Feuerstein, Razzano, Aravane Rezai un temps dans le top 20 du classement mondial, ont montré leur talent sur les courts du stade Jules Ribet tout au long des 19 éditions précédentes .Par ailleurs ,peu de sites peuvent se prévaloir d’avoir accueilli des joueuses telles que Samantha Stosur (vainqueur de l’US Open en 2011, et finaliste de Roland Garros en 2010), Caroline Wozniaki (quelque temps n°1 mondiale avec 18 titres sur le circuit) ou encore Francesca Schiavone (vainqueur de Roland Garros en 2010).",
+      "content7": "En outre, l’accueil familial et les installations jugées plus que convenables confèrent à cette manifestation une réputation maintenant bien établie qui a attiré et attire toujours des joueuses du monde entier que l’on retrouve ensuite sur les tournois du grand schlem. Bien situé dans le calendrier des rencontres, il est, au mois de mai un des tournois sur terre battue pouvant servir de préparation pour Roland Garros ; ceci devrait favoriser un tableau encore plus élevé. "
+    },
+    "intro": "See introduction video"
+  },
+  "infos": {
+    "poster_title": "Poster",
+    "poster_subtitle": "Tournament 2024, 27th edition",
+    "poster_content": "Free entrance, food offers on site.",
+    "program_title": "Program",
+    "program_1": "Friday 03th to Sunday 05th of may",
+    "program_2": "Welcoming players",
+    "program_3": "Sunday 05th of May",
+    "program_4": "Random draw",
+    "program_5": "Monday 06th of May",
+    "program_6": "Qualifications",
+    "program_7": "Tuesday 07th to Friday 10th of May",
+    "program_8": "Singles and Doubles main draw",
+    "program_9": "Thursday 10th of may",
+    "program_10": "Doubles Finale",
+    "program_11": "Saturday 11th of may",
+    "program_12": "Singles semi-finale",
+    "program_13": "Sunday 12th of may",
+    "program_14": "Singles Finale"
+  },
+  "footer": {
+    "title": "Any question ?",
+    "content_1": "For any question, please contact the organisation <a class='underlined' href=\"mailto:openst-gaudens@gmail.com\">here</a> "
+  },
+  "intro": {
+    "skip": "Skip Introduction"
+  }
 }

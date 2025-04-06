@@ -90,6 +90,8 @@
 						<p data-t>footer.content_1</p>
 						<ul class="icons">
 							<li><a target="blank" href="https://twitter.com/OpenStgo" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a target="blank" href="https://www.instagram.com/opensaintgaudens/" class="icon brands fa-instagram"><span class="label">Twitter</span></a></li>
+							<li><a target="blank" href="https://www.facebook.com/profile.php?id=100092530135450" class="icon brands fa-facebook"><span class="label">Twitter</span></a></li>
 							<li><a target="blank" href="mailto:itfstgo@gmail.com" class="far fa-envelope"><span class="label"></span></a></li>
 						</ul>
 					</section>
@@ -129,8 +131,6 @@ insights.trackPages();
 
 			var picturesStack = [
 					`<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299069164" title="Simona WALTERT"><img src="https://live.staticflickr.com/65535/52083067058_2a4c89bffe_c.jpg" width="320" height="240" alt="Simona WALTERT"></a>
-						<p>Simona WALTERT</p>
 					</article>
 					<article class="col-3 col-12-mobile"> 
 						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299072843" title="Anastasia TIKHONOVA"><img src="https://live.staticflickr.com/65535/52083038231_e960aaca88_k.jpg" width="320" height="240" alt="Anastasia TIKHONOVA"></a>
@@ -206,19 +206,29 @@ insights.trackPages();
 						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299061281" title="Finales"><img src="https://live.staticflickr.com/65535/52083237349_5849908340_k.jpg" width="320" height="240" alt="Finales"></a>
 						<p>Finales</p>
 					</article>
-					`
+					`,
+					`<article class="col-3 col-12-mobile"> 
+						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720308479312" title="Finale 2023"><img src="https://live.staticflickr.com/65535/52918045354_f5ede13fbe_z.jpg" width="320" height="240" alt="Finale 2023"/></a>
+						<p>Finale 2023</p>
+					</article>
+					<article class="col-3 col-12-mobile"> 
+					</article>
+					<article class="col-3 col-12-mobile"> 
+					</article>
+					<article class="col-3 col-12-mobile"> 
+					</article>`,
 			]
 
 			$(window).scroll(function() {
 				if($(document).height() / ($(window).scrollTop() + $(window).height()) < 1.5 ) {
 					// ajax call get data from server and append to the div
-					console.log("scroll");
 					var content = picturesStack.pop();
 					if (content) 
 						$(".pics").append(content);
 				}
 			});
 		</script>
+		<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 	</body>
 </html>
