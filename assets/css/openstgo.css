@@ -77,3 +77,8 @@ p.score {
 	padding: 0;
 	list-style: none;
 }
+
+.row.logo > * {
+	padding-left: 0;
+	padding-bottom: 10px;
+}
