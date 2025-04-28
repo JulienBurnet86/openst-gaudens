@@ -41,68 +41,6 @@
             "positionDisplay": "2",
             "players": [
               {
-                "nationalityCode": "USA",
-                "points": null,
-                "birthYear": 1986,
-                "atpWtaRank": "120",
-                "protectedFlag": "N",
-                "itfWorldTennisRanking": "",
-                "nationalRanking": "",
-                "regionalRanking": "",
-                "juniorRanking": "",
-                "itfBTRank": null,
-                "worldRating": "8.46",
-                "shouldDisplayWtn": false,
-                "playerId": 800215835,
-                "nationality": "USA",
-                "givenName": "Varvara",
-                "familyName": "Lepchenko",
-                "profileLink": "/en/players/varvara-lepchenko/800215835/usa/wt/",
-                "hiddenPlayer": false
-              }
-            ],
-            "priority": "1",
-            "information": "",
-            "isExemption": false,
-            "isAvailableSlot": false,
-            "combinedPoints": null,
-            "combinedRankings": null
-          },
-          {
-            "positionDisplay": "3",
-            "players": [
-              {
-                "nationalityCode": "POL",
-                "points": null,
-                "birthYear": 2001,
-                "atpWtaRank": "122",
-                "protectedFlag": "N",
-                "itfWorldTennisRanking": "",
-                "nationalRanking": "4",
-                "regionalRanking": "",
-                "juniorRanking": "",
-                "itfBTRank": null,
-                "worldRating": "8.33",
-                "shouldDisplayWtn": false,
-                "playerId": 800414512,
-                "nationality": "Poland",
-                "givenName": "Maja",
-                "familyName": "Chwalinska",
-                "profileLink": "/en/players/maja-chwalinska/800414512/pol/wt/",
-                "hiddenPlayer": false
-              }
-            ],
-            "priority": "1",
-            "information": "",
-            "isExemption": false,
-            "isAvailableSlot": false,
-            "combinedPoints": null,
-            "combinedRankings": null
-          },
-          {
-            "positionDisplay": "4",
-            "players": [
-              {
                 "nationalityCode": "FRA",
                 "points": null,
                 "birthYear": 1994,
@@ -131,7 +69,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "5",
+            "positionDisplay": "3",
             "players": [
               {
                 "nationalityCode": "CAN",
@@ -162,7 +100,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "6",
+            "positionDisplay": "4",
             "players": [
               {
                 "nationalityCode": "AND",
@@ -193,7 +131,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "7",
+            "positionDisplay": "5",
             "players": [
               {
                 "nationalityCode": "CHN",
@@ -224,7 +162,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "8",
+            "positionDisplay": "6",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -255,7 +193,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "9",
+            "positionDisplay": "7",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -286,7 +224,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "10",
+            "positionDisplay": "8",
             "players": [
               {
                 "nationalityCode": "SUI",
@@ -317,7 +255,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "11",
+            "positionDisplay": "9",
             "players": [
               {
                 "nationalityCode": "THA",
@@ -348,7 +286,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "12",
+            "positionDisplay": "10",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -379,7 +317,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "13",
+            "positionDisplay": "11",
             "players": [
               {
                 "nationalityCode": "JPN",
@@ -410,7 +348,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "14",
+            "positionDisplay": "12",
             "players": [
               {
                 "nationalityCode": "SRB",
@@ -441,7 +379,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "15",
+            "positionDisplay": "13",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -472,7 +410,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "16",
+            "positionDisplay": "14",
             "players": [
               {
                 "nationalityCode": "CRO",
@@ -503,7 +441,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "17",
+            "positionDisplay": "15",
             "players": [
               {
                 "nationalityCode": "CZE",
@@ -534,7 +472,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "18",
+            "positionDisplay": "16",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -554,6 +492,68 @@
                 "givenName": "Selena",
                 "familyName": "Janicijevic",
                 "profileLink": "/en/players/selena-janicijevic/800399968/fra/wt/",
+                "hiddenPlayer": false
+              }
+            ],
+            "priority": "1",
+            "information": "",
+            "isExemption": false,
+            "isAvailableSlot": false,
+            "combinedPoints": null,
+            "combinedRankings": null
+          },
+          {
+            "positionDisplay": "17",
+            "players": [
+              {
+                "nationalityCode": "ESP",
+                "points": null,
+                "birthYear": 1994,
+                "atpWtaRank": "209",
+                "protectedFlag": "N",
+                "itfWorldTennisRanking": "",
+                "nationalRanking": "13",
+                "regionalRanking": "",
+                "juniorRanking": "",
+                "itfBTRank": null,
+                "worldRating": "9.05",
+                "shouldDisplayWtn": false,
+                "playerId": 800158457,
+                "nationality": "Spain",
+                "givenName": "Andrea",
+                "familyName": "Lazaro Garcia",
+                "profileLink": "/en/players/andrea-lazaro-garcia/800158457/esp/wt/",
+                "hiddenPlayer": false
+              }
+            ],
+            "priority": "1",
+            "information": "",
+            "isExemption": false,
+            "isAvailableSlot": false,
+            "combinedPoints": null,
+            "combinedRankings": null
+          },
+          {
+            "positionDisplay": "18",
+            "players": [
+              {
+                "nationalityCode": "LTU",
+                "points": null,
+                "birthYear": 1996,
+                "atpWtaRank": "224",
+                "protectedFlag": "N",
+                "itfWorldTennisRanking": "",
+                "nationalRanking": "1",
+                "regionalRanking": "",
+                "juniorRanking": "",
+                "itfBTRank": null,
+                "worldRating": "10.12",
+                "shouldDisplayWtn": false,
+                "playerId": 800313910,
+                "nationality": "Lithuania",
+                "givenName": "Justina",
+                "familyName": "Mikulskyte",
+                "profileLink": "/en/players/justina-mikulskyte/800313910/ltu/wt/",
                 "hiddenPlayer": false
               }
             ],
@@ -593,68 +593,6 @@
             "positionDisplay": "1",
             "players": [
               {
-                "nationalityCode": "ESP",
-                "points": null,
-                "birthYear": 1994,
-                "atpWtaRank": "209",
-                "protectedFlag": "N",
-                "itfWorldTennisRanking": "",
-                "nationalRanking": "13",
-                "regionalRanking": "",
-                "juniorRanking": "",
-                "itfBTRank": null,
-                "worldRating": "9.05",
-                "shouldDisplayWtn": false,
-                "playerId": 800158457,
-                "nationality": "Spain",
-                "givenName": "Andrea",
-                "familyName": "Lazaro Garcia",
-                "profileLink": "/en/players/andrea-lazaro-garcia/800158457/esp/wt/",
-                "hiddenPlayer": false
-              }
-            ],
-            "priority": "1",
-            "information": "",
-            "isExemption": false,
-            "isAvailableSlot": false,
-            "combinedPoints": null,
-            "combinedRankings": null
-          },
-          {
-            "positionDisplay": "2",
-            "players": [
-              {
-                "nationalityCode": "LTU",
-                "points": null,
-                "birthYear": 1996,
-                "atpWtaRank": "224",
-                "protectedFlag": "N",
-                "itfWorldTennisRanking": "",
-                "nationalRanking": "1",
-                "regionalRanking": "",
-                "juniorRanking": "",
-                "itfBTRank": null,
-                "worldRating": "10.12",
-                "shouldDisplayWtn": false,
-                "playerId": 800313910,
-                "nationality": "Lithuania",
-                "givenName": "Justina",
-                "familyName": "Mikulskyte",
-                "profileLink": "/en/players/justina-mikulskyte/800313910/ltu/wt/",
-                "hiddenPlayer": false
-              }
-            ],
-            "priority": "1",
-            "information": "",
-            "isExemption": false,
-            "isAvailableSlot": false,
-            "combinedPoints": null,
-            "combinedRankings": null
-          },
-          {
-            "positionDisplay": "3",
-            "players": [
-              {
                 "nationalityCode": "ISR",
                 "points": null,
                 "birthYear": 2000,
@@ -683,7 +621,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "4",
+            "positionDisplay": "2",
             "players": [
               {
                 "nationalityCode": "UKR",
@@ -714,7 +652,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "5",
+            "positionDisplay": "3",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -745,7 +683,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "6",
+            "positionDisplay": "4",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -776,7 +714,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "7",
+            "positionDisplay": "5",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -807,7 +745,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "8",
+            "positionDisplay": "6",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -838,7 +776,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "9",
+            "positionDisplay": "7",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -869,7 +807,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "10",
+            "positionDisplay": "8",
             "players": [
               {
                 "nationalityCode": "SRB",
@@ -900,7 +838,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "11",
+            "positionDisplay": "9",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -931,7 +869,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "12",
+            "positionDisplay": "10",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -962,7 +900,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "13",
+            "positionDisplay": "11",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -993,7 +931,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "14",
+            "positionDisplay": "12",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -1024,7 +962,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "15",
+            "positionDisplay": "13",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -1055,7 +993,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "16",
+            "positionDisplay": "14",
             "players": [
               {
                 "nationalityCode": "CRO",
@@ -1086,7 +1024,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "17",
+            "positionDisplay": "15",
             "players": [
               {
                 "nationalityCode": "KAZ",
@@ -1117,7 +1055,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "18",
+            "positionDisplay": "16",
             "players": [
               {
                 "nationalityCode": "POL",
@@ -1148,7 +1086,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "19",
+            "positionDisplay": "17",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -1179,7 +1117,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "20",
+            "positionDisplay": "18",
             "players": [
               {
                 "nationalityCode": "AUS",
@@ -1210,7 +1148,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "21",
+            "positionDisplay": "19",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -1241,7 +1179,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "22",
+            "positionDisplay": "20",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -1272,7 +1210,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "23",
+            "positionDisplay": "21",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -1303,7 +1241,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "24",
+            "positionDisplay": "22",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -1334,7 +1272,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "25",
+            "positionDisplay": "23",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -1365,7 +1303,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "26",
+            "positionDisplay": "24",
             "players": [
               {
                 "nationalityCode": "NED",
@@ -1396,7 +1334,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "27",
+            "positionDisplay": "25",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -1416,6 +1354,68 @@
                 "givenName": "Diana",
                 "familyName": "Martynov",
                 "profileLink": "/en/players/diana-martynov/800395668/fra/wt/",
+                "hiddenPlayer": false
+              }
+            ],
+            "priority": "1",
+            "information": "",
+            "isExemption": false,
+            "isAvailableSlot": false,
+            "combinedPoints": null,
+            "combinedRankings": null
+          },
+          {
+            "positionDisplay": "26",
+            "players": [
+              {
+                "nationalityCode": "UKR",
+                "points": null,
+                "birthYear": 2007,
+                "atpWtaRank": "435",
+                "protectedFlag": "N",
+                "itfWorldTennisRanking": "1096",
+                "nationalRanking": "",
+                "regionalRanking": "",
+                "juniorRanking": "",
+                "itfBTRank": 1096,
+                "worldRating": "11.03",
+                "shouldDisplayWtn": false,
+                "playerId": 800586827,
+                "nationality": "Ukraine",
+                "givenName": "Veronika",
+                "familyName": "Podrez",
+                "profileLink": "/en/players/veronika-podrez/800586827/ukr/wt/",
+                "hiddenPlayer": false
+              }
+            ],
+            "priority": "1",
+            "information": "",
+            "isExemption": false,
+            "isAvailableSlot": false,
+            "combinedPoints": null,
+            "combinedRankings": null
+          },
+          {
+            "positionDisplay": "27",
+            "players": [
+              {
+                "nationalityCode": "BRA",
+                "points": null,
+                "birthYear": 1993,
+                "atpWtaRank": "470",
+                "protectedFlag": "N",
+                "itfWorldTennisRanking": "1096",
+                "nationalRanking": "4",
+                "regionalRanking": "",
+                "juniorRanking": "",
+                "itfBTRank": 1096,
+                "worldRating": "11.81",
+                "shouldDisplayWtn": false,
+                "playerId": 800156750,
+                "nationality": "Brazil",
+                "givenName": "Gabriela",
+                "familyName": "Ce",
+                "profileLink": "/en/players/gabriela-ce/800156750/bra/wt/",
                 "hiddenPlayer": false
               }
             ],
@@ -1466,68 +1466,6 @@
             "positionDisplay": "1",
             "players": [
               {
-                "nationalityCode": "UKR",
-                "points": null,
-                "birthYear": 2007,
-                "atpWtaRank": "435",
-                "protectedFlag": "N",
-                "itfWorldTennisRanking": "1096",
-                "nationalRanking": "",
-                "regionalRanking": "",
-                "juniorRanking": "",
-                "itfBTRank": 1096,
-                "worldRating": "11.03",
-                "shouldDisplayWtn": false,
-                "playerId": 800586827,
-                "nationality": "Ukraine",
-                "givenName": "Veronika",
-                "familyName": "Podrez",
-                "profileLink": "/en/players/veronika-podrez/800586827/ukr/wt/",
-                "hiddenPlayer": false
-              }
-            ],
-            "priority": "1",
-            "information": "",
-            "isExemption": false,
-            "isAvailableSlot": false,
-            "combinedPoints": null,
-            "combinedRankings": null
-          },
-          {
-            "positionDisplay": "2",
-            "players": [
-              {
-                "nationalityCode": "BRA",
-                "points": null,
-                "birthYear": 1993,
-                "atpWtaRank": "470",
-                "protectedFlag": "N",
-                "itfWorldTennisRanking": "1096",
-                "nationalRanking": "4",
-                "regionalRanking": "",
-                "juniorRanking": "",
-                "itfBTRank": 1096,
-                "worldRating": "11.81",
-                "shouldDisplayWtn": false,
-                "playerId": 800156750,
-                "nationality": "Brazil",
-                "givenName": "Gabriela",
-                "familyName": "Ce",
-                "profileLink": "/en/players/gabriela-ce/800156750/bra/wt/",
-                "hiddenPlayer": false
-              }
-            ],
-            "priority": "1",
-            "information": "",
-            "isExemption": false,
-            "isAvailableSlot": false,
-            "combinedPoints": null,
-            "combinedRankings": null
-          },
-          {
-            "positionDisplay": "3",
-            "players": [
-              {
                 "nationalityCode": "CZE",
                 "points": null,
                 "birthYear": 2001,
@@ -1556,7 +1494,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "4",
+            "positionDisplay": "2",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -1587,7 +1525,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "5",
+            "positionDisplay": "3",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -1618,7 +1556,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "6",
+            "positionDisplay": "4",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -1649,7 +1587,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "7",
+            "positionDisplay": "5",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -1680,7 +1618,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "8",
+            "positionDisplay": "6",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -1711,7 +1649,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "9",
+            "positionDisplay": "7",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -1742,7 +1680,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "10",
+            "positionDisplay": "8",
             "players": [
               {
                 "nationalityCode": "CRO",
@@ -1773,7 +1711,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "11",
+            "positionDisplay": "9",
             "players": [
               {
                 "nationalityCode": "HUN",
@@ -1804,7 +1742,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "12",
+            "positionDisplay": "10",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -1835,7 +1773,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "13",
+            "positionDisplay": "11",
             "players": [
               {
                 "nationalityCode": "ROU",
@@ -1866,7 +1804,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "14",
+            "positionDisplay": "12",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -1897,7 +1835,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "15",
+            "positionDisplay": "13",
             "players": [
               {
                 "nationalityCode": "CZE",
@@ -1928,7 +1866,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "16",
+            "positionDisplay": "14",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -1959,38 +1897,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "17",
-            "players": [
-              {
-                "nationalityCode": "CZE",
-                "points": null,
-                "birthYear": 2000,
-                "atpWtaRank": "662",
-                "protectedFlag": "N",
-                "itfWorldTennisRanking": "",
-                "nationalRanking": "29",
-                "regionalRanking": "",
-                "juniorRanking": "",
-                "itfBTRank": null,
-                "worldRating": "12.24",
-                "shouldDisplayWtn": false,
-                "playerId": 800372529,
-                "nationality": "Czechia",
-                "givenName": "Aneta",
-                "familyName": "Laboutkova",
-                "profileLink": "/en/players/aneta-laboutkova/800372529/cze/wt/",
-                "hiddenPlayer": false
-              }
-            ],
-            "priority": "2",
-            "information": "",
-            "isExemption": false,
-            "isAvailableSlot": false,
-            "combinedPoints": null,
-            "combinedRankings": null
-          },
-          {
-            "positionDisplay": "18",
+            "positionDisplay": "15",
             "players": [
               {
                 "nationalityCode": "THA",
@@ -2021,7 +1928,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "19",
+            "positionDisplay": "16",
             "players": [
               {
                 "nationalityCode": "UKR",
@@ -2052,7 +1959,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "20",
+            "positionDisplay": "17",
             "players": [
               {
                 "nationalityCode": "COL",
@@ -2083,7 +1990,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "21",
+            "positionDisplay": "18",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -2114,7 +2021,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "22",
+            "positionDisplay": "19",
             "players": [
               {
                 "nationalityCode": "CHN",
@@ -2145,7 +2052,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "23",
+            "positionDisplay": "20",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -2176,7 +2083,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "24",
+            "positionDisplay": "21",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -2207,7 +2114,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "25",
+            "positionDisplay": "22",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -2238,7 +2145,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "26",
+            "positionDisplay": "23",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -2269,38 +2176,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "27",
-            "players": [
-              {
-                "nationalityCode": "ALG",
-                "points": null,
-                "birthYear": 1999,
-                "atpWtaRank": "796",
-                "protectedFlag": "N",
-                "itfWorldTennisRanking": "277",
-                "nationalRanking": "",
-                "regionalRanking": "",
-                "juniorRanking": "",
-                "itfBTRank": 277,
-                "worldRating": "11.72",
-                "shouldDisplayWtn": false,
-                "playerId": 800337284,
-                "nationality": "Algeria",
-                "givenName": "Ines",
-                "familyName": "Ibbou",
-                "profileLink": "/en/players/ines-ibbou/800337284/alg/wt/",
-                "hiddenPlayer": false
-              }
-            ],
-            "priority": "1",
-            "information": "",
-            "isExemption": false,
-            "isAvailableSlot": false,
-            "combinedPoints": null,
-            "combinedRankings": null
-          },
-          {
-            "positionDisplay": "28",
+            "positionDisplay": "24",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -2314,7 +2190,7 @@
                 "juniorRanking": "",
                 "itfBTRank": 74,
                 "worldRating": "13.58",
-                "shouldDisplayWtn": true,
+                "shouldDisplayWtn": false,
                 "playerId": 800540380,
                 "nationality": "France",
                 "givenName": "Sarah",
@@ -2331,7 +2207,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "29",
+            "positionDisplay": "25",
             "players": [
               {
                 "nationalityCode": "SLO",
@@ -2362,7 +2238,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "30",
+            "positionDisplay": "26",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -2393,38 +2269,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "31",
-            "players": [
-              {
-                "nationalityCode": "GBR",
-                "points": null,
-                "birthYear": 1996,
-                "atpWtaRank": "936",
-                "protectedFlag": "N",
-                "itfWorldTennisRanking": "",
-                "nationalRanking": "",
-                "regionalRanking": "",
-                "juniorRanking": "",
-                "itfBTRank": null,
-                "worldRating": "11.45",
-                "shouldDisplayWtn": false,
-                "playerId": 800313643,
-                "nationality": "Great Britain",
-                "givenName": "Eden",
-                "familyName": "Silva",
-                "profileLink": "/en/players/eden-silva/800313643/gbr/wt/",
-                "hiddenPlayer": false
-              }
-            ],
-            "priority": "2",
-            "information": "",
-            "isExemption": false,
-            "isAvailableSlot": false,
-            "combinedPoints": null,
-            "combinedRankings": null
-          },
-          {
-            "positionDisplay": "32",
+            "positionDisplay": "27",
             "players": [
               {
                 "nationalityCode": "SUI",
@@ -2455,7 +2300,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "33",
+            "positionDisplay": "28",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -2486,7 +2331,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "34",
+            "positionDisplay": "29",
             "players": [
               {
                 "nationalityCode": "JPN",
@@ -2517,7 +2362,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "35",
+            "positionDisplay": "30",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -2548,7 +2393,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "36",
+            "positionDisplay": "31",
             "players": [
               {
                 "nationalityCode": "COL",
@@ -2579,7 +2424,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "37",
+            "positionDisplay": "32",
             "players": [
               {
                 "nationalityCode": "UKR",
@@ -2610,38 +2455,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "38",
-            "players": [
-              {
-                "nationalityCode": "FRA",
-                "points": null,
-                "birthYear": 1994,
-                "atpWtaRank": "1123",
-                "protectedFlag": "N",
-                "itfWorldTennisRanking": "1191",
-                "nationalRanking": "63",
-                "regionalRanking": "",
-                "juniorRanking": "",
-                "itfBTRank": 1191,
-                "worldRating": "14.44",
-                "shouldDisplayWtn": true,
-                "playerId": 800297465,
-                "nationality": "France",
-                "givenName": "Caroline",
-                "familyName": "Romeo",
-                "profileLink": "/en/players/caroline-romeo/800297465/fra/wt/",
-                "hiddenPlayer": false
-              }
-            ],
-            "priority": "1",
-            "information": "",
-            "isExemption": false,
-            "isAvailableSlot": false,
-            "combinedPoints": null,
-            "combinedRankings": null
-          },
-          {
-            "positionDisplay": "39",
+            "positionDisplay": "33",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -2672,7 +2486,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "40",
+            "positionDisplay": "34",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -2703,7 +2517,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "41",
+            "positionDisplay": "35",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -2734,7 +2548,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "42",
+            "positionDisplay": "36",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -2765,7 +2579,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "43",
+            "positionDisplay": "37",
             "players": [
               {
                 "nationalityCode": "DEN",
@@ -2796,7 +2610,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "45",
+            "positionDisplay": "39",
             "players": [
               {
                 "nationalityCode": "NOR",
@@ -2827,7 +2641,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "46",
+            "positionDisplay": "40",
             "players": [
               {
                 "nationalityCode": "SRB",
@@ -2858,7 +2672,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "47",
+            "positionDisplay": "41",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -2889,7 +2703,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "48",
+            "positionDisplay": "42",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -2920,7 +2734,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "49",
+            "positionDisplay": "43",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -2951,7 +2765,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "50",
+            "positionDisplay": "44",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -2982,7 +2796,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "51",
+            "positionDisplay": "45",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -3013,7 +2827,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "52",
+            "positionDisplay": "46",
             "players": [
               {
                 "nationalityCode": "GBR",
@@ -3044,7 +2858,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "53",
+            "positionDisplay": "47",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -3075,7 +2889,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "54",
+            "positionDisplay": "48",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -3106,7 +2920,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "55",
+            "positionDisplay": "49",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -3137,38 +2951,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "56",
-            "players": [
-              {
-                "nationalityCode": "GBR",
-                "points": null,
-                "birthYear": 2000,
-                "atpWtaRank": "",
-                "protectedFlag": "N",
-                "itfWorldTennisRanking": "883",
-                "nationalRanking": "486",
-                "regionalRanking": "",
-                "juniorRanking": "",
-                "itfBTRank": 883,
-                "worldRating": "20.56",
-                "shouldDisplayWtn": true,
-                "playerId": 800397663,
-                "nationality": "Great Britain",
-                "givenName": "Summer",
-                "familyName": "Yardley",
-                "profileLink": "/en/players/summer-yardley/800397663/gbr/wt/",
-                "hiddenPlayer": false
-              }
-            ],
-            "priority": "3",
-            "information": "",
-            "isExemption": false,
-            "isAvailableSlot": false,
-            "combinedPoints": null,
-            "combinedRankings": null
-          },
-          {
-            "positionDisplay": "57",
+            "positionDisplay": "50",
             "players": [
               {
                 "nationalityCode": "HUN",
@@ -3199,7 +2982,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "58",
+            "positionDisplay": "51",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -3230,38 +3013,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "59",
-            "players": [
-              {
-                "nationalityCode": "CHN",
-                "points": null,
-                "birthYear": 2007,
-                "atpWtaRank": "",
-                "protectedFlag": "N",
-                "itfWorldTennisRanking": "1191",
-                "nationalRanking": "",
-                "regionalRanking": "",
-                "juniorRanking": "",
-                "itfBTRank": 1191,
-                "worldRating": "17.60",
-                "shouldDisplayWtn": true,
-                "playerId": 800739226,
-                "nationality": "China, P.R.",
-                "givenName": "Yuyao",
-                "familyName": "Li",
-                "profileLink": "/en/players/yuyao-li/800739226/chn/wt/",
-                "hiddenPlayer": false
-              }
-            ],
-            "priority": "1",
-            "information": "",
-            "isExemption": false,
-            "isAvailableSlot": false,
-            "combinedPoints": null,
-            "combinedRankings": null
-          },
-          {
-            "positionDisplay": "60",
+            "positionDisplay": "52",
             "players": [
               {
                 "nationalityCode": "BUL",
@@ -3292,7 +3044,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "61",
+            "positionDisplay": "53",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -3323,7 +3075,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "62",
+            "positionDisplay": "54",
             "players": [
               {
                 "nationalityCode": "UKR",
@@ -3354,7 +3106,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "63",
+            "positionDisplay": "55",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -3385,7 +3137,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "64",
+            "positionDisplay": "56",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -3416,7 +3168,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "65",
+            "positionDisplay": "57",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -3447,7 +3199,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "66",
+            "positionDisplay": "58",
             "players": [
               {
                 "nationalityCode": "BEL",
@@ -3478,7 +3230,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "67",
+            "positionDisplay": "59",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -3509,7 +3261,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "68",
+            "positionDisplay": "60",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -3540,7 +3292,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "69",
+            "positionDisplay": "61",
             "players": [
               {
                 "nationalityCode": "ARG",
@@ -3571,7 +3323,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "70",
+            "positionDisplay": "62",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -3602,7 +3354,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "71",
+            "positionDisplay": "63",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -3633,7 +3385,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "72",
+            "positionDisplay": "64",
             "players": [
               {
                 "nationalityCode": "BRA",
@@ -3664,7 +3416,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "73",
+            "positionDisplay": "65",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -3695,7 +3447,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "74",
+            "positionDisplay": "66",
             "players": [
               {
                 "nationalityCode": "GBR",
@@ -3726,7 +3478,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "75",
+            "positionDisplay": "67",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -3757,7 +3509,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "76",
+            "positionDisplay": "68",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -3788,7 +3540,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "77",
+            "positionDisplay": "69",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -3819,7 +3571,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "78",
+            "positionDisplay": "70",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -3850,7 +3602,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "79",
+            "positionDisplay": "71",
             "players": [
               {
                 "nationalityCode": "GBR",
@@ -3881,7 +3633,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "80",
+            "positionDisplay": "72",
             "players": [
               {
                 "nationalityCode": "POR",
@@ -3912,7 +3664,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "81",
+            "positionDisplay": "73",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -3943,7 +3695,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "82",
+            "positionDisplay": "74",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -3974,7 +3726,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "83",
+            "positionDisplay": "75",
             "players": [
               {
                 "nationalityCode": "CRO",
@@ -4005,7 +3757,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "84",
+            "positionDisplay": "76",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -4036,7 +3788,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "85",
+            "positionDisplay": "77",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -4067,7 +3819,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "86",
+            "positionDisplay": "78",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -4098,7 +3850,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "87",
+            "positionDisplay": "79",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -4129,7 +3881,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "88",
+            "positionDisplay": "80",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -4160,7 +3912,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "89",
+            "positionDisplay": "81",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -4191,7 +3943,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "90",
+            "positionDisplay": "82",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -4222,7 +3974,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "91",
+            "positionDisplay": "83",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -4253,7 +4005,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "92",
+            "positionDisplay": "84",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -4284,7 +4036,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "93",
+            "positionDisplay": "85",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -4315,7 +4067,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "94",
+            "positionDisplay": "86",
             "players": [
               {
                 "nationalityCode": "BIH",
@@ -4346,7 +4098,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "95",
+            "positionDisplay": "87",
             "players": [
               {
                 "nationalityCode": "UZB",
@@ -4377,7 +4129,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "96",
+            "positionDisplay": "88",
             "players": [
               {
                 "nationalityCode": "IRL",
@@ -4408,7 +4160,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "97",
+            "positionDisplay": "89",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -4431,7 +4183,7 @@
                 "hiddenPlayer": false
               }
             ],
-            "priority": "1",
+            "priority": "2",
             "information": "",
             "isExemption": false,
             "isAvailableSlot": false,
@@ -4439,7 +4191,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "98",
+            "positionDisplay": "90",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -4470,7 +4222,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "99",
+            "positionDisplay": "91",
             "players": [
               {
                 "nationalityCode": "RSA",
@@ -4501,7 +4253,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "100",
+            "positionDisplay": "92",
             "players": [
               {
                 "nationalityCode": "CAN",
@@ -4532,7 +4284,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "101",
+            "positionDisplay": "93",
             "players": [
               {
                 "nationalityCode": "GAB",
@@ -4563,7 +4315,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "102",
+            "positionDisplay": "94",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -5202,7 +4954,7 @@
                 "juniorRanking": "",
                 "itfBTRank": 947,
                 "worldRating": "10.28",
-                "shouldDisplayWtn": false,
+                "shouldDisplayWtn": true,
                 "playerId": 800398142,
                 "nationality": "Latvia",
                 "givenName": "Kamilla",
@@ -6101,7 +5853,7 @@
                 "juniorRanking": "",
                 "itfBTRank": null,
                 "worldRating": "11.68",
-                "shouldDisplayWtn": false,
+                "shouldDisplayWtn": true,
                 "playerId": 800312201,
                 "nationality": "Italy",
                 "givenName": "Deborah",
@@ -6307,6 +6059,37 @@
             "positionDisplay": "56",
             "players": [
               {
+                "nationalityCode": "POL",
+                "points": null,
+                "birthYear": 2001,
+                "atpWtaRank": "122",
+                "protectedFlag": "N",
+                "itfWorldTennisRanking": "",
+                "nationalRanking": "4",
+                "regionalRanking": "",
+                "juniorRanking": "",
+                "itfBTRank": null,
+                "worldRating": "8.33",
+                "shouldDisplayWtn": false,
+                "playerId": 800414512,
+                "nationality": "Poland",
+                "givenName": "Maja",
+                "familyName": "Chwalinska",
+                "profileLink": "/en/players/maja-chwalinska/800414512/pol/wt/",
+                "hiddenPlayer": false
+              }
+            ],
+            "priority": "1",
+            "information": "LWM 24 Apr 2025",
+            "isExemption": false,
+            "isAvailableSlot": false,
+            "combinedPoints": null,
+            "combinedRankings": null
+          },
+          {
+            "positionDisplay": "57",
+            "players": [
+              {
                 "nationalityCode": "SVK",
                 "points": null,
                 "birthYear": 2005,
@@ -6335,7 +6118,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "57",
+            "positionDisplay": "58",
             "players": [
               {
                 "nationalityCode": "BEL",
@@ -6366,7 +6149,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "58",
+            "positionDisplay": "59",
             "players": [
               {
                 "nationalityCode": "BEL",
@@ -6397,7 +6180,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "59",
+            "positionDisplay": "60",
             "players": [
               {
                 "nationalityCode": "CAN",
@@ -6428,7 +6211,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "60",
+            "positionDisplay": "61",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -6459,7 +6242,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "61",
+            "positionDisplay": "62",
             "players": [
               {
                 "nationalityCode": "JAM",
@@ -6490,7 +6273,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "62",
+            "positionDisplay": "63",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -6521,7 +6304,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "63",
+            "positionDisplay": "64",
             "players": [
               {
                 "nationalityCode": "CAL",
@@ -6552,7 +6335,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "64",
+            "positionDisplay": "65",
             "players": [
               {
                 "nationalityCode": "BUL",
@@ -6583,7 +6366,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "65",
+            "positionDisplay": "66",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -6614,7 +6397,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "66",
+            "positionDisplay": "67",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -6645,7 +6428,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "67",
+            "positionDisplay": "68",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -6676,7 +6459,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "68",
+            "positionDisplay": "69",
             "players": [
               {
                 "nationalityCode": "BLR",
@@ -6707,7 +6490,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "69",
+            "positionDisplay": "70",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -6738,7 +6521,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "70",
+            "positionDisplay": "71",
             "players": [
               {
                 "nationalityCode": "PHI",
@@ -6769,7 +6552,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "71",
+            "positionDisplay": "72",
             "players": [
               {
                 "nationalityCode": "IND",
@@ -6800,7 +6583,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "72",
+            "positionDisplay": "73",
             "players": [
               {
                 "nationalityCode": "MAR",
@@ -6831,7 +6614,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "73",
+            "positionDisplay": "74",
             "players": [
               {
                 "nationalityCode": "BUL",
@@ -6862,7 +6645,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "74",
+            "positionDisplay": "75",
             "players": [
               {
                 "nationalityCode": "SLO",
@@ -6893,7 +6676,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "75",
+            "positionDisplay": "76",
             "players": [
               {
                 "nationalityCode": "BLR",
@@ -6924,7 +6707,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "76",
+            "positionDisplay": "77",
             "players": [
               {
                 "nationalityCode": "SLO",
@@ -6955,7 +6738,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "77",
+            "positionDisplay": "78",
             "players": [
               {
                 "nationalityCode": "POL",
@@ -6986,7 +6769,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "78",
+            "positionDisplay": "79",
             "players": [
               {
                 "nationalityCode": "CHN",
@@ -7017,7 +6800,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "79",
+            "positionDisplay": "80",
             "players": [
               {
                 "nationalityCode": "ROU",
@@ -7048,7 +6831,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "80",
+            "positionDisplay": "81",
             "players": [
               {
                 "nationalityCode": "CRO",
@@ -7079,7 +6862,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "81",
+            "positionDisplay": "82",
             "players": [
               {
                 "nationalityCode": "UKR",
@@ -7110,7 +6893,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "82",
+            "positionDisplay": "83",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -7141,7 +6924,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "83",
+            "positionDisplay": "84",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -7172,7 +6955,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "84",
+            "positionDisplay": "85",
             "players": [
               {
                 "nationalityCode": "SUI",
@@ -7203,7 +6986,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "85",
+            "positionDisplay": "86",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -7234,7 +7017,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "86",
+            "positionDisplay": "87",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -7265,7 +7048,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "87",
+            "positionDisplay": "88",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -7296,7 +7079,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "88",
+            "positionDisplay": "89",
             "players": [
               {
                 "nationalityCode": "SUI",
@@ -7327,7 +7110,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "89",
+            "positionDisplay": "90",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -7358,7 +7141,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "90",
+            "positionDisplay": "91",
             "players": [
               {
                 "nationalityCode": "SUI",
@@ -7389,7 +7172,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "91",
+            "positionDisplay": "92",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -7420,7 +7203,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "92",
+            "positionDisplay": "93",
             "players": [
               {
                 "nationalityCode": "TPE",
@@ -7451,7 +7234,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "93",
+            "positionDisplay": "94",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -7482,7 +7265,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "94",
+            "positionDisplay": "95",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -7513,7 +7296,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "95",
+            "positionDisplay": "96",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -7544,7 +7327,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "96",
+            "positionDisplay": "97",
             "players": [
               {
                 "nationalityCode": "NED",
@@ -7575,7 +7358,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "97",
+            "positionDisplay": "98",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -7606,7 +7389,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "98",
+            "positionDisplay": "99",
             "players": [
               {
                 "nationalityCode": "MKD",
@@ -7637,7 +7420,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "99",
+            "positionDisplay": "100",
             "players": [
               {
                 "nationalityCode": "ROU",
@@ -7668,7 +7451,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "100",
+            "positionDisplay": "101",
             "players": [
               {
                 "nationalityCode": "GEO",
@@ -7699,7 +7482,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "101",
+            "positionDisplay": "102",
             "players": [
               {
                 "nationalityCode": "IND",
@@ -7730,7 +7513,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "102",
+            "positionDisplay": "103",
             "players": [
               {
                 "nationalityCode": "AUT",
@@ -7761,7 +7544,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "103",
+            "positionDisplay": "104",
             "players": [
               {
                 "nationalityCode": "GRE",
@@ -7792,7 +7575,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "104",
+            "positionDisplay": "105",
             "players": [
               {
                 "nationalityCode": "SUI",
@@ -7823,7 +7606,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "105",
+            "positionDisplay": "106",
             "players": [
               {
                 "nationalityCode": "GBR",
@@ -7854,7 +7637,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "106",
+            "positionDisplay": "107",
             "players": [
               {
                 "nationalityCode": "CAN",
@@ -7885,7 +7668,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "107",
+            "positionDisplay": "108",
             "players": [
               {
                 "nationalityCode": "CHN",
@@ -7916,7 +7699,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "108",
+            "positionDisplay": "109",
             "players": [
               {
                 "nationalityCode": "JPN",
@@ -7947,7 +7730,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "109",
+            "positionDisplay": "110",
             "players": [
               {
                 "nationalityCode": "CZE",
@@ -7978,7 +7761,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "110",
+            "positionDisplay": "111",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -8009,7 +7792,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "111",
+            "positionDisplay": "112",
             "players": [
               {
                 "nationalityCode": "NED",
@@ -8040,7 +7823,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "112",
+            "positionDisplay": "113",
             "players": [
               {
                 "nationalityCode": "BLR",
@@ -8071,7 +7854,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "113",
+            "positionDisplay": "114",
             "players": [
               {
                 "nationalityCode": "CZE",
@@ -8102,7 +7885,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "114",
+            "positionDisplay": "115",
             "players": [
               {
                 "nationalityCode": "NOR",
@@ -8133,7 +7916,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "115",
+            "positionDisplay": "116",
             "players": [
               {
                 "nationalityCode": "DEN",
@@ -8164,7 +7947,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "116",
+            "positionDisplay": "117",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -8195,7 +7978,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "117",
+            "positionDisplay": "118",
             "players": [
               {
                 "nationalityCode": "POL",
@@ -8226,7 +8009,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "118",
+            "positionDisplay": "119",
             "players": [
               {
                 "nationalityCode": "JPN",
@@ -8257,7 +8040,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "119",
+            "positionDisplay": "120",
             "players": [
               {
                 "nationalityCode": "FIN",
@@ -8288,7 +8071,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "120",
+            "positionDisplay": "121",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -8319,7 +8102,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "121",
+            "positionDisplay": "122",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -8350,7 +8133,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "122",
+            "positionDisplay": "123",
             "players": [
               {
                 "nationalityCode": "PER",
@@ -8381,7 +8164,38 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "123",
+            "positionDisplay": "124",
+            "players": [
+              {
+                "nationalityCode": "ALG",
+                "points": null,
+                "birthYear": 1999,
+                "atpWtaRank": "796",
+                "protectedFlag": "N",
+                "itfWorldTennisRanking": "277",
+                "nationalRanking": "",
+                "regionalRanking": "",
+                "juniorRanking": "",
+                "itfBTRank": 277,
+                "worldRating": "11.72",
+                "shouldDisplayWtn": false,
+                "playerId": 800337284,
+                "nationality": "Algeria",
+                "givenName": "Ines",
+                "familyName": "Ibbou",
+                "profileLink": "/en/players/ines-ibbou/800337284/alg/wt/",
+                "hiddenPlayer": false
+              }
+            ],
+            "priority": "1",
+            "information": "W 25 Apr 2025",
+            "isExemption": false,
+            "isAvailableSlot": false,
+            "combinedPoints": null,
+            "combinedRankings": null
+          },
+          {
+            "positionDisplay": "125",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -8412,7 +8226,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "124",
+            "positionDisplay": "126",
             "players": [
               {
                 "nationalityCode": "SUI",
@@ -8443,7 +8257,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "125",
+            "positionDisplay": "127",
             "players": [
               {
                 "nationalityCode": "JPN",
@@ -8474,7 +8288,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "126",
+            "positionDisplay": "128",
             "players": [
               {
                 "nationalityCode": "SVK",
@@ -8505,7 +8319,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "127",
+            "positionDisplay": "129",
             "players": [
               {
                 "nationalityCode": "DEN",
@@ -8536,7 +8350,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "128",
+            "positionDisplay": "130",
             "players": [
               {
                 "nationalityCode": "NED",
@@ -8567,7 +8381,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "129",
+            "positionDisplay": "131",
             "players": [
               {
                 "nationalityCode": "SVK",
@@ -8598,7 +8412,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "130",
+            "positionDisplay": "132",
             "players": [
               {
                 "nationalityCode": "CHN",
@@ -8629,7 +8443,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "131",
+            "positionDisplay": "133",
             "players": [
               {
                 "nationalityCode": "GBR",
@@ -8660,7 +8474,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "132",
+            "positionDisplay": "134",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -8691,7 +8505,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "133",
+            "positionDisplay": "135",
             "players": [
               {
                 "nationalityCode": "JPN",
@@ -8722,7 +8536,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "134",
+            "positionDisplay": "136",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -8753,7 +8567,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "135",
+            "positionDisplay": "137",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -8784,7 +8598,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "136",
+            "positionDisplay": "138",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -8815,7 +8629,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "137",
+            "positionDisplay": "139",
             "players": [
               {
                 "nationalityCode": "BUL",
@@ -8846,7 +8660,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "138",
+            "positionDisplay": "140",
             "players": [
               {
                 "nationalityCode": "POL",
@@ -8877,7 +8691,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "139",
+            "positionDisplay": "141",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -8908,7 +8722,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "140",
+            "positionDisplay": "142",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -8939,7 +8753,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "141",
+            "positionDisplay": "143",
             "players": [
               {
                 "nationalityCode": "NED",
@@ -8970,7 +8784,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "142",
+            "positionDisplay": "144",
             "players": [
               {
                 "nationalityCode": "CZE",
@@ -9001,7 +8815,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "143",
+            "positionDisplay": "145",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -9032,7 +8846,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "144",
+            "positionDisplay": "146",
             "players": [
               {
                 "nationalityCode": "SRB",
@@ -9063,7 +8877,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "145",
+            "positionDisplay": "147",
             "players": [
               {
                 "nationalityCode": "UKR",
@@ -9094,7 +8908,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "146",
+            "positionDisplay": "148",
             "players": [
               {
                 "nationalityCode": "SVK",
@@ -9125,7 +8939,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "147",
+            "positionDisplay": "149",
             "players": [
               {
                 "nationalityCode": "AUT",
@@ -9156,7 +8970,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "148",
+            "positionDisplay": "150",
             "players": [
               {
                 "nationalityCode": "CRO",
@@ -9187,7 +9001,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "149",
+            "positionDisplay": "151",
             "players": [
               {
                 "nationalityCode": "POL",
@@ -9218,7 +9032,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "150",
+            "positionDisplay": "152",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -9249,7 +9063,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "151",
+            "positionDisplay": "153",
             "players": [
               {
                 "nationalityCode": "SUI",
@@ -9280,7 +9094,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "152",
+            "positionDisplay": "154",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -9311,7 +9125,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "153",
+            "positionDisplay": "155",
             "players": [
               {
                 "nationalityCode": "SVK",
@@ -9342,7 +9156,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "154",
+            "positionDisplay": "156",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -9373,7 +9187,38 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "155",
+            "positionDisplay": "157",
+            "players": [
+              {
+                "nationalityCode": "CZE",
+                "points": null,
+                "birthYear": 2000,
+                "atpWtaRank": "662",
+                "protectedFlag": "N",
+                "itfWorldTennisRanking": "",
+                "nationalRanking": "29",
+                "regionalRanking": "",
+                "juniorRanking": "",
+                "itfBTRank": null,
+                "worldRating": "12.24",
+                "shouldDisplayWtn": false,
+                "playerId": 800372529,
+                "nationality": "Czechia",
+                "givenName": "Aneta",
+                "familyName": "Laboutkova",
+                "profileLink": "/en/players/aneta-laboutkova/800372529/cze/wt/",
+                "hiddenPlayer": false
+              }
+            ],
+            "priority": "2",
+            "information": "W 25 Apr 2025",
+            "isExemption": false,
+            "isAvailableSlot": false,
+            "combinedPoints": null,
+            "combinedRankings": null
+          },
+          {
+            "positionDisplay": "158",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -9404,7 +9249,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "156",
+            "positionDisplay": "159",
             "players": [
               {
                 "nationalityCode": "TTO",
@@ -9435,7 +9280,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "157",
+            "positionDisplay": "160",
             "players": [
               {
                 "nationalityCode": "ROU",
@@ -9466,7 +9311,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "158",
+            "positionDisplay": "161",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -9497,7 +9342,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "159",
+            "positionDisplay": "162",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -9528,7 +9373,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "160",
+            "positionDisplay": "163",
             "players": [
               {
                 "nationalityCode": "MEX",
@@ -9559,7 +9404,38 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "161",
+            "positionDisplay": "164",
+            "players": [
+              {
+                "nationalityCode": "USA",
+                "points": null,
+                "birthYear": 1986,
+                "atpWtaRank": "120",
+                "protectedFlag": "N",
+                "itfWorldTennisRanking": "",
+                "nationalRanking": "",
+                "regionalRanking": "",
+                "juniorRanking": "",
+                "itfBTRank": null,
+                "worldRating": "8.46",
+                "shouldDisplayWtn": false,
+                "playerId": 800215835,
+                "nationality": "USA",
+                "givenName": "Varvara",
+                "familyName": "Lepchenko",
+                "profileLink": "/en/players/varvara-lepchenko/800215835/usa/wt/",
+                "hiddenPlayer": false
+              }
+            ],
+            "priority": "1",
+            "information": "LWM 26 Apr 2025",
+            "isExemption": false,
+            "isAvailableSlot": false,
+            "combinedPoints": null,
+            "combinedRankings": null
+          },
+          {
+            "positionDisplay": "165",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -9590,7 +9466,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "162",
+            "positionDisplay": "166",
             "players": [
               {
                 "nationalityCode": "TPE",
@@ -9621,7 +9497,38 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "163",
+            "positionDisplay": "167",
+            "players": [
+              {
+                "nationalityCode": "CHN",
+                "points": null,
+                "birthYear": 2007,
+                "atpWtaRank": "",
+                "protectedFlag": "N",
+                "itfWorldTennisRanking": "1191",
+                "nationalRanking": "",
+                "regionalRanking": "",
+                "juniorRanking": "",
+                "itfBTRank": 1191,
+                "worldRating": "17.60",
+                "shouldDisplayWtn": true,
+                "playerId": 800739226,
+                "nationality": "China, P.R.",
+                "givenName": "Yuyao",
+                "familyName": "Li",
+                "profileLink": "/en/players/yuyao-li/800739226/chn/wt/",
+                "hiddenPlayer": false
+              }
+            ],
+            "priority": "1",
+            "information": "W 28 Apr 2025",
+            "isExemption": false,
+            "isAvailableSlot": false,
+            "combinedPoints": null,
+            "combinedRankings": null
+          },
+          {
+            "positionDisplay": "168",
             "players": [
               {
                 "nationalityCode": "CHN",
@@ -9652,7 +9559,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "164",
+            "positionDisplay": "169",
             "players": [
               {
                 "nationalityCode": "NED",
@@ -9683,7 +9590,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "165",
+            "positionDisplay": "170",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -9714,7 +9621,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "166",
+            "positionDisplay": "171",
             "players": [
               {
                 "nationalityCode": "CAN",
@@ -9745,7 +9652,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "167",
+            "positionDisplay": "172",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -9776,7 +9683,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "168",
+            "positionDisplay": "173",
             "players": [
               {
                 "nationalityCode": "CHN",
@@ -9807,7 +9714,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "169",
+            "positionDisplay": "174",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -9838,7 +9745,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "170",
+            "positionDisplay": "175",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -9869,7 +9776,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "171",
+            "positionDisplay": "176",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -9900,7 +9807,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "172",
+            "positionDisplay": "177",
             "players": [
               {
                 "nationalityCode": "BEL",
@@ -9931,7 +9838,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "173",
+            "positionDisplay": "178",
             "players": [
               {
                 "nationalityCode": "CHN",
@@ -9962,7 +9869,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "174",
+            "positionDisplay": "179",
             "players": [
               {
                 "nationalityCode": "CRO",
@@ -9993,7 +9900,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "175",
+            "positionDisplay": "180",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -10024,7 +9931,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "176",
+            "positionDisplay": "181",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -10055,7 +9962,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "177",
+            "positionDisplay": "182",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -10086,7 +9993,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "178",
+            "positionDisplay": "183",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -10117,7 +10024,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "179",
+            "positionDisplay": "184",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -10148,7 +10055,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "180",
+            "positionDisplay": "185",
             "players": [
               {
                 "nationalityCode": "LAT",
@@ -10179,7 +10086,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "181",
+            "positionDisplay": "186",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -10210,7 +10117,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "182",
+            "positionDisplay": "187",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -10241,7 +10148,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "183",
+            "positionDisplay": "188",
             "players": [
               {
                 "nationalityCode": "SRB",
@@ -10272,7 +10179,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "184",
+            "positionDisplay": "189",
             "players": [
               {
                 "nationalityCode": "UZB",
@@ -10303,7 +10210,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "185",
+            "positionDisplay": "190",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -10334,7 +10241,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "186",
+            "positionDisplay": "191",
             "players": [
               {
                 "nationalityCode": "GRE",
@@ -10365,7 +10272,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "187",
+            "positionDisplay": "192",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -10396,7 +10303,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "188",
+            "positionDisplay": "193",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -10427,7 +10334,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "189",
+            "positionDisplay": "194",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -10458,7 +10365,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "190",
+            "positionDisplay": "195",
             "players": [
               {
                 "nationalityCode": "CAN",
@@ -10489,7 +10396,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "191",
+            "positionDisplay": "196",
             "players": [
               {
                 "nationalityCode": "RSA",
@@ -10520,7 +10427,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "192",
+            "positionDisplay": "197",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -10551,7 +10458,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "193",
+            "positionDisplay": "198",
             "players": [
               {
                 "nationalityCode": "SUI",
@@ -10582,7 +10489,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "194",
+            "positionDisplay": "199",
             "players": [
               {
                 "nationalityCode": "CHN",
@@ -10613,7 +10520,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "195",
+            "positionDisplay": "200",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -10644,7 +10551,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "196",
+            "positionDisplay": "201",
             "players": [
               {
                 "nationalityCode": "SVK",
@@ -10675,7 +10582,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "197",
+            "positionDisplay": "202",
             "players": [
               {
                 "nationalityCode": "SLO",
@@ -10706,7 +10613,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "198",
+            "positionDisplay": "203",
             "players": [
               {
                 "nationalityCode": "SRB",
@@ -10737,7 +10644,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "199",
+            "positionDisplay": "204",
             "players": [
               {
                 "nationalityCode": "BEL",
@@ -10768,7 +10675,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "200",
+            "positionDisplay": "205",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -10799,7 +10706,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "201",
+            "positionDisplay": "206",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -10830,7 +10737,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "202",
+            "positionDisplay": "207",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -10861,7 +10768,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "203",
+            "positionDisplay": "208",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -10892,7 +10799,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "204",
+            "positionDisplay": "209",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -10923,7 +10830,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "205",
+            "positionDisplay": "210",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -10954,7 +10861,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "206",
+            "positionDisplay": "211",
             "players": [
               {
                 "nationalityCode": "HUN",
@@ -10985,7 +10892,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "207",
+            "positionDisplay": "212",
             "players": [
               {
                 "nationalityCode": "BDI",
@@ -11016,7 +10923,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "208",
+            "positionDisplay": "213",
             "players": [
               {
                 "nationalityCode": "MEX",
@@ -11047,7 +10954,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "209",
+            "positionDisplay": "214",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -11078,7 +10985,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "210",
+            "positionDisplay": "215",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -11109,7 +11016,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "211",
+            "positionDisplay": "216",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -11140,7 +11047,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "212",
+            "positionDisplay": "217",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -11171,7 +11078,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "213",
+            "positionDisplay": "218",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -11202,7 +11109,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "214",
+            "positionDisplay": "219",
             "players": [
               {
                 "nationalityCode": "SWE",
@@ -11233,7 +11140,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "215",
+            "positionDisplay": "220",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -11264,7 +11171,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "216",
+            "positionDisplay": "221",
             "players": [
               {
                 "nationalityCode": "SVK",
@@ -11295,7 +11202,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "217",
+            "positionDisplay": "222",
             "players": [
               {
                 "nationalityCode": "JPN",
@@ -11326,7 +11233,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "218",
+            "positionDisplay": "223",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -11357,7 +11264,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "219",
+            "positionDisplay": "224",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -11388,7 +11295,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "220",
+            "positionDisplay": "225",
             "players": [
               {
                 "nationalityCode": "UKR",
@@ -11419,7 +11326,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "221",
+            "positionDisplay": "226",
             "players": [
               {
                 "nationalityCode": "ARG",
@@ -11450,7 +11357,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "222",
+            "positionDisplay": "227",
             "players": [
               {
                 "nationalityCode": "AUS",
@@ -11481,7 +11388,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "223",
+            "positionDisplay": "228",
             "players": [
               {
                 "nationalityCode": "BEL",
@@ -11512,7 +11419,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "224",
+            "positionDisplay": "229",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -11543,7 +11450,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "225",
+            "positionDisplay": "230",
             "players": [
               {
                 "nationalityCode": "TUR",
@@ -11574,7 +11481,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "226",
+            "positionDisplay": "231",
             "players": [
               {
                 "nationalityCode": "JPN",
@@ -11605,7 +11512,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "227",
+            "positionDisplay": "232",
             "players": [
               {
                 "nationalityCode": "IND",
@@ -11636,7 +11543,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "228",
+            "positionDisplay": "233",
             "players": [
               {
                 "nationalityCode": "CZE",
@@ -11667,7 +11574,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "229",
+            "positionDisplay": "234",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -11698,7 +11605,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "230",
+            "positionDisplay": "235",
             "players": [
               {
                 "nationalityCode": "GRE",
@@ -11729,7 +11636,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "231",
+            "positionDisplay": "236",
             "players": [
               {
                 "nationalityCode": "CZE",
@@ -11760,7 +11667,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "232",
+            "positionDisplay": "237",
             "players": [
               {
                 "nationalityCode": "AUT",
@@ -11791,7 +11698,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "233",
+            "positionDisplay": "238",
             "players": [
               {
                 "nationalityCode": "GRE",
@@ -11822,7 +11729,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "234",
+            "positionDisplay": "239",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -11853,7 +11760,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "235",
+            "positionDisplay": "240",
             "players": [
               {
                 "nationalityCode": "BRA",
@@ -11884,7 +11791,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "236",
+            "positionDisplay": "241",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -11915,7 +11822,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "237",
+            "positionDisplay": "242",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -11946,7 +11853,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "238",
+            "positionDisplay": "243",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -11977,7 +11884,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "239",
+            "positionDisplay": "244",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -12008,7 +11915,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "240",
+            "positionDisplay": "245",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -12039,7 +11946,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "241",
+            "positionDisplay": "246",
             "players": [
               {
                 "nationalityCode": "BRA",
@@ -12070,7 +11977,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "242",
+            "positionDisplay": "247",
             "players": [
               {
                 "nationalityCode": "CAN",
@@ -12101,7 +12008,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "243",
+            "positionDisplay": "248",
             "players": [
               {
                 "nationalityCode": "POL",
@@ -12132,7 +12039,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "244",
+            "positionDisplay": "249",
             "players": [
               {
                 "nationalityCode": "ROU",
@@ -12163,7 +12070,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "245",
+            "positionDisplay": "250",
             "players": [
               {
                 "nationalityCode": "AUS",
@@ -12194,7 +12101,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "246",
+            "positionDisplay": "251",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -12225,7 +12132,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "247",
+            "positionDisplay": "252",
             "players": [
               {
                 "nationalityCode": "CRO",
@@ -12256,7 +12163,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "248",
+            "positionDisplay": "253",
             "players": [
               {
                 "nationalityCode": "CZE",
@@ -12287,7 +12194,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "249",
+            "positionDisplay": "254",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -12318,7 +12225,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "250",
+            "positionDisplay": "255",
             "players": [
               {
                 "nationalityCode": "ARG",
@@ -12349,7 +12256,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "251",
+            "positionDisplay": "256",
             "players": [
               {
                 "nationalityCode": "SLO",
@@ -12380,7 +12287,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "252",
+            "positionDisplay": "257",
             "players": [
               {
                 "nationalityCode": "SRB",
@@ -12411,7 +12318,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "253",
+            "positionDisplay": "258",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -12442,7 +12349,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "254",
+            "positionDisplay": "259",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -12473,7 +12380,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "255",
+            "positionDisplay": "260",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -12504,7 +12411,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "256",
+            "positionDisplay": "261",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -12535,7 +12442,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "257",
+            "positionDisplay": "262",
             "players": [
               {
                 "nationalityCode": "ARG",
@@ -12566,7 +12473,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "258",
+            "positionDisplay": "263",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -12597,7 +12504,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "259",
+            "positionDisplay": "264",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -12628,7 +12535,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "260",
+            "positionDisplay": "265",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -12659,7 +12566,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "261",
+            "positionDisplay": "266",
             "players": [
               {
                 "nationalityCode": "IND",
@@ -12690,7 +12597,38 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "262",
+            "positionDisplay": "267",
+            "players": [
+              {
+                "nationalityCode": "FRA",
+                "points": null,
+                "birthYear": 1994,
+                "atpWtaRank": "1123",
+                "protectedFlag": "N",
+                "itfWorldTennisRanking": "1191",
+                "nationalRanking": "63",
+                "regionalRanking": "",
+                "juniorRanking": "",
+                "itfBTRank": 1191,
+                "worldRating": "14.44",
+                "shouldDisplayWtn": true,
+                "playerId": 800297465,
+                "nationality": "France",
+                "givenName": "Caroline",
+                "familyName": "Romeo",
+                "profileLink": "/en/players/caroline-romeo/800297465/fra/wt/",
+                "hiddenPlayer": false
+              }
+            ],
+            "priority": "1",
+            "information": "W 23 Apr 2025",
+            "isExemption": false,
+            "isAvailableSlot": false,
+            "combinedPoints": null,
+            "combinedRankings": null
+          },
+          {
+            "positionDisplay": "268",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -12721,7 +12659,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "263",
+            "positionDisplay": "269",
             "players": [
               {
                 "nationalityCode": "NED",
@@ -12752,7 +12690,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "264",
+            "positionDisplay": "270",
             "players": [
               {
                 "nationalityCode": "SUI",
@@ -12783,7 +12721,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "265",
+            "positionDisplay": "271",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -12814,7 +12752,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "266",
+            "positionDisplay": "272",
             "players": [
               {
                 "nationalityCode": "JPN",
@@ -12845,7 +12783,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "267",
+            "positionDisplay": "273",
             "players": [
               {
                 "nationalityCode": "GRE",
@@ -12876,7 +12814,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "268",
+            "positionDisplay": "274",
             "players": [
               {
                 "nationalityCode": "CZE",
@@ -12907,7 +12845,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "269",
+            "positionDisplay": "275",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -12938,7 +12876,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "270",
+            "positionDisplay": "276",
             "players": [
               {
                 "nationalityCode": "CZE",
@@ -12969,7 +12907,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "271",
+            "positionDisplay": "277",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -13000,7 +12938,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "272",
+            "positionDisplay": "278",
             "players": [
               {
                 "nationalityCode": "POR",
@@ -13031,7 +12969,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "273",
+            "positionDisplay": "279",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -13062,7 +13000,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "274",
+            "positionDisplay": "280",
             "players": [
               {
                 "nationalityCode": "ROU",
@@ -13093,7 +13031,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "275",
+            "positionDisplay": "281",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -13124,7 +13062,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "276",
+            "positionDisplay": "282",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -13155,7 +13093,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "277",
+            "positionDisplay": "283",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -13186,7 +13124,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "278",
+            "positionDisplay": "284",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -13217,7 +13155,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "279",
+            "positionDisplay": "285",
             "players": [
               {
                 "nationalityCode": "CZE",
@@ -13248,7 +13186,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "280",
+            "positionDisplay": "286",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -13279,7 +13217,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "281",
+            "positionDisplay": "287",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -13310,7 +13248,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "282",
+            "positionDisplay": "288",
             "players": [
               {
                 "nationalityCode": "JPN",
@@ -13341,7 +13279,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "283",
+            "positionDisplay": "289",
             "players": [
               {
                 "nationalityCode": "LAT",
@@ -13372,7 +13310,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "284",
+            "positionDisplay": "290",
             "players": [
               {
                 "nationalityCode": "CYP",
@@ -13403,7 +13341,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "285",
+            "positionDisplay": "291",
             "players": [
               {
                 "nationalityCode": "CZE",
@@ -13417,7 +13355,7 @@
                 "juniorRanking": "",
                 "itfBTRank": null,
                 "worldRating": "14.31",
-                "shouldDisplayWtn": false,
+                "shouldDisplayWtn": true,
                 "playerId": 800397759,
                 "nationality": "Czechia",
                 "givenName": "Linda",
@@ -13434,7 +13372,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "286",
+            "positionDisplay": "292",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -13465,7 +13403,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "287",
+            "positionDisplay": "293",
             "players": [
               {
                 "nationalityCode": "IND",
@@ -13496,7 +13434,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "288",
+            "positionDisplay": "294",
             "players": [
               {
                 "nationalityCode": "GEO",
@@ -13527,7 +13465,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "289",
+            "positionDisplay": "295",
             "players": [
               {
                 "nationalityCode": "AUS",
@@ -13558,7 +13496,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "290",
+            "positionDisplay": "296",
             "players": [
               {
                 "nationalityCode": "CHN",
@@ -13589,7 +13527,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "291",
+            "positionDisplay": "297",
             "players": [
               {
                 "nationalityCode": "JPN",
@@ -13620,7 +13558,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "292",
+            "positionDisplay": "298",
             "players": [
               {
                 "nationalityCode": "BUL",
@@ -13651,7 +13589,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "293",
+            "positionDisplay": "299",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -13682,7 +13620,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "294",
+            "positionDisplay": "300",
             "players": [
               {
                 "nationalityCode": "ARG",
@@ -13713,7 +13651,38 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "295",
+            "positionDisplay": "301",
+            "players": [
+              {
+                "nationalityCode": "GBR",
+                "points": null,
+                "birthYear": 1996,
+                "atpWtaRank": "936",
+                "protectedFlag": "N",
+                "itfWorldTennisRanking": "",
+                "nationalRanking": "",
+                "regionalRanking": "",
+                "juniorRanking": "",
+                "itfBTRank": null,
+                "worldRating": "11.45",
+                "shouldDisplayWtn": false,
+                "playerId": 800313643,
+                "nationality": "Great Britain",
+                "givenName": "Eden",
+                "familyName": "Silva",
+                "profileLink": "/en/players/eden-silva/800313643/gbr/wt/",
+                "hiddenPlayer": false
+              }
+            ],
+            "priority": "1",
+            "information": "W 24 Apr 2025",
+            "isExemption": false,
+            "isAvailableSlot": false,
+            "combinedPoints": null,
+            "combinedRankings": null
+          },
+          {
+            "positionDisplay": "302",
             "players": [
               {
                 "nationalityCode": "IRL",
@@ -13744,7 +13713,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "296",
+            "positionDisplay": "303",
             "players": [
               {
                 "nationalityCode": "UKR",
@@ -13775,7 +13744,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "297",
+            "positionDisplay": "304",
             "players": [
               {
                 "nationalityCode": "BUL",
@@ -13806,7 +13775,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "298",
+            "positionDisplay": "305",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -13820,7 +13789,7 @@
                 "juniorRanking": "",
                 "itfBTRank": null,
                 "worldRating": "11.93",
-                "shouldDisplayWtn": true,
+                "shouldDisplayWtn": false,
                 "playerId": 800342320,
                 "nationality": "Italy",
                 "givenName": "Dalila",
@@ -13837,7 +13806,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "299",
+            "positionDisplay": "306",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -13868,7 +13837,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "300",
+            "positionDisplay": "307",
             "players": [
               {
                 "nationalityCode": "BUL",
@@ -13899,7 +13868,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "301",
+            "positionDisplay": "308",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -13930,7 +13899,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "302",
+            "positionDisplay": "309",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -13961,7 +13930,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "303",
+            "positionDisplay": "310",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -13992,7 +13961,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "304",
+            "positionDisplay": "311",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -14023,7 +13992,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "305",
+            "positionDisplay": "312",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -14054,7 +14023,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "306",
+            "positionDisplay": "313",
             "players": [
               {
                 "nationalityCode": "AUT",
@@ -14085,7 +14054,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "307",
+            "positionDisplay": "314",
             "players": [
               {
                 "nationalityCode": "ESP",
@@ -14116,7 +14085,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "308",
+            "positionDisplay": "315",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -14147,7 +14116,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "309",
+            "positionDisplay": "316",
             "players": [
               {
                 "nationalityCode": "CHN",
@@ -14178,7 +14147,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "310",
+            "positionDisplay": "317",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -14209,7 +14178,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "311",
+            "positionDisplay": "318",
             "players": [
               {
                 "nationalityCode": "ROU",
@@ -14240,7 +14209,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "312",
+            "positionDisplay": "319",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -14271,7 +14240,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "313",
+            "positionDisplay": "320",
             "players": [
               {
                 "nationalityCode": "BUL",
@@ -14302,7 +14271,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "314",
+            "positionDisplay": "321",
             "players": [
               {
                 "nationalityCode": "NED",
@@ -14333,7 +14302,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "315",
+            "positionDisplay": "322",
             "players": [
               {
                 "nationalityCode": "LAT",
@@ -14364,7 +14333,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "316",
+            "positionDisplay": "323",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -14395,7 +14364,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "317",
+            "positionDisplay": "324",
             "players": [
               {
                 "nationalityCode": "SUI",
@@ -14426,7 +14395,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "318",
+            "positionDisplay": "325",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -14457,7 +14426,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "319",
+            "positionDisplay": "326",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -14488,7 +14457,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "320",
+            "positionDisplay": "327",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -14519,7 +14488,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "321",
+            "positionDisplay": "328",
             "players": [
               {
                 "nationalityCode": "FRA",
@@ -14550,7 +14519,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "322",
+            "positionDisplay": "329",
             "players": [
               {
                 "nationalityCode": "BEL",
@@ -14581,7 +14550,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "323",
+            "positionDisplay": "330",
             "players": [
               {
                 "nationalityCode": "BEL",
@@ -14612,7 +14581,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "324",
+            "positionDisplay": "331",
             "players": [
               {
                 "nationalityCode": "NED",
@@ -14643,7 +14612,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "325",
+            "positionDisplay": "332",
             "players": [
               {
                 "nationalityCode": "BEL",
@@ -14674,7 +14643,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "326",
+            "positionDisplay": "333",
             "players": [
               {
                 "nationalityCode": "BEL",
@@ -14705,7 +14674,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "327",
+            "positionDisplay": "334",
             "players": [
               {
                 "nationalityCode": "SVK",
@@ -14736,7 +14705,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "328",
+            "positionDisplay": "335",
             "players": [
               {
                 "nationalityCode": "ROU",
@@ -14767,7 +14736,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "329",
+            "positionDisplay": "336",
             "players": [
               {
                 "nationalityCode": "NED",
@@ -14798,7 +14767,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "330",
+            "positionDisplay": "337",
             "players": [
               {
                 "nationalityCode": "BUL",
@@ -14829,7 +14798,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "331",
+            "positionDisplay": "338",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -14860,7 +14829,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "332",
+            "positionDisplay": "339",
             "players": [
               {
                 "nationalityCode": "BEL",
@@ -14891,7 +14860,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "333",
+            "positionDisplay": "340",
             "players": [
               {
                 "nationalityCode": "CZE",
@@ -14922,7 +14891,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "334",
+            "positionDisplay": "341",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -14936,7 +14905,7 @@
                 "juniorRanking": "",
                 "itfBTRank": 33,
                 "worldRating": "13.04",
-                "shouldDisplayWtn": false,
+                "shouldDisplayWtn": true,
                 "playerId": 800522513,
                 "nationality": "Germany",
                 "givenName": "Marie",
@@ -14953,7 +14922,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "335",
+            "positionDisplay": "342",
             "players": [
               {
                 "nationalityCode": "LIE",
@@ -14984,7 +14953,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "336",
+            "positionDisplay": "343",
             "players": [
               {
                 "nationalityCode": "NED",
@@ -15015,7 +14984,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "337",
+            "positionDisplay": "344",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -15046,7 +15015,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "338",
+            "positionDisplay": "345",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -15077,7 +15046,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "339",
+            "positionDisplay": "346",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -15108,7 +15077,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "340",
+            "positionDisplay": "347",
             "players": [
               {
                 "nationalityCode": "GER",
@@ -15139,7 +15108,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "341",
+            "positionDisplay": "348",
             "players": [
               {
                 "nationalityCode": "USA",
@@ -15170,7 +15139,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "342",
+            "positionDisplay": "349",
             "players": [
               {
                 "nationalityCode": "CRO",
@@ -15201,7 +15170,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "343",
+            "positionDisplay": "350",
             "players": [
               {
                 "nationalityCode": "JPN",
@@ -15232,7 +15201,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "344",
+            "positionDisplay": "351",
             "players": [
               {
                 "nationalityCode": "CHN",
@@ -15263,7 +15232,38 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "345",
+            "positionDisplay": "352",
+            "players": [
+              {
+                "nationalityCode": "GBR",
+                "points": null,
+                "birthYear": 2000,
+                "atpWtaRank": "",
+                "protectedFlag": "N",
+                "itfWorldTennisRanking": "883",
+                "nationalRanking": "486",
+                "regionalRanking": "",
+                "juniorRanking": "",
+                "itfBTRank": 883,
+                "worldRating": "20.56",
+                "shouldDisplayWtn": true,
+                "playerId": 800397663,
+                "nationality": "Great Britain",
+                "givenName": "Summer",
+                "familyName": "Yardley",
+                "profileLink": "/en/players/summer-yardley/800397663/gbr/wt/",
+                "hiddenPlayer": false
+              }
+            ],
+            "priority": "1",
+            "information": "W 25 Apr 2025",
+            "isExemption": false,
+            "isAvailableSlot": false,
+            "combinedPoints": null,
+            "combinedRankings": null
+          },
+          {
+            "positionDisplay": "353",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -15294,7 +15294,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "346",
+            "positionDisplay": "354",
             "players": [
               {
                 "nationalityCode": "SWE",
@@ -15325,7 +15325,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "347",
+            "positionDisplay": "355",
             "players": [
               {
                 "nationalityCode": "SVK",
@@ -15356,7 +15356,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "348",
+            "positionDisplay": "356",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -15387,7 +15387,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "349",
+            "positionDisplay": "357",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -15418,7 +15418,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "350",
+            "positionDisplay": "358",
             "players": [
               {
                 "nationalityCode": "UKR",
@@ -15449,7 +15449,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "351",
+            "positionDisplay": "359",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -15480,7 +15480,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "352",
+            "positionDisplay": "360",
             "players": [
               {
                 "nationalityCode": "SVK",
@@ -15511,7 +15511,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "353",
+            "positionDisplay": "361",
             "players": [
               {
                 "nationalityCode": "RUS",
@@ -15542,7 +15542,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "354",
+            "positionDisplay": "362",
             "players": [
               {
                 "nationalityCode": "CHN",
@@ -15573,7 +15573,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "355",
+            "positionDisplay": "363",
             "players": [
               {
                 "nationalityCode": "CAN",
@@ -15604,7 +15604,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "356",
+            "positionDisplay": "364",
             "players": [
               {
                 "nationalityCode": "ITA",
@@ -15635,7 +15635,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "357",
+            "positionDisplay": "365",
             "players": [
               {
                 "nationalityCode": "POL",
@@ -15666,7 +15666,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "358",
+            "positionDisplay": "366",
             "players": [
               {
                 "nationalityCode": "LIE",
@@ -15697,7 +15697,7 @@
             "combinedRankings": null
           },
           {
-            "positionDisplay": "359",
+            "positionDisplay": "367",
             "players": [
               {
                 "nationalityCode": "ROU",
