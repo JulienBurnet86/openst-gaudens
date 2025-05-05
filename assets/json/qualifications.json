@@ -1,3 +1,134 @@
 {
-  "rounds": []
+  "rounds": [
+    [
+      {
+        "player1": {
+          "name": "UDVARDY L."
+        },
+        "player2": {
+          "name": "MORDERGER T."
+        }
+      },
+      {
+        "player1": {
+          "name": "PAWLAK L."
+        },
+        "player2": {
+          "name": "ZANOLINI C."
+        }
+      },
+      {
+        "player1": {
+          "name": "CIRIC BAGARIC L."
+        },
+        "player2": {
+          "name": "ILIEV S."
+        }
+      },
+      {
+        "player1": {
+          "name": "MORDERGER Y."
+        },
+        "player2": {
+          "name": "SISKOVA A."
+        }
+      },
+      {
+        "player1": {
+          "name": "KULAMBAYEVA Z."
+        },
+        "player2": {
+          "name": "TANG O."
+        }
+      },
+      {
+        "player1": {
+          "name": "INISAN E."
+        },
+        "player2": {
+          "name": "MARTYNOV D."
+        }
+      },
+      {
+        "player1": {
+          "name": "DARTRON E."
+        },
+        "player2": {
+          "name": "SANON N."
+        }
+      },
+      {
+        "player1": {
+          "name": "LOLLIA M."
+        },
+        "player2": {
+          "name": "LIM J."
+        }
+      },
+      {
+        "player1": {
+          "name": "BELGRAVER J."
+        },
+        "player2": {
+          "name": "BARTANUSZ Z."
+        }
+      },
+      {
+        "player1": {
+          "name": "LIZARAZO Y."
+        },
+        "player2": {
+          "name": "PODREZ V."
+        }
+      },
+      {
+        "player1": {
+          "name": "CORTEZ LLORCA L."
+        },
+        "player2": {
+          "name": "BERTOLDO J."
+        }
+      },
+      {
+        "player1": {
+          "name": "KARAMOKO N."
+        },
+        "player2": {
+          "name": "MCADOO R."
+        }
+      },
+      {
+        "player1": {
+          "name": "CAKAREVIC S."
+        },
+        "player2": {
+          "name": "SIMION O."
+        }
+      },
+      {
+        "player1": {
+          "name": "REGUER A."
+        },
+        "player2": {
+          "name": "CE G."
+        }
+      },
+      {
+        "player1": {
+          "name": "RAME A."
+        },
+        "player2": {
+          "name": "PEREZ-GARCIA M."
+        }
+      },
+      {
+        "player1": {
+          "name": "CIROTTE A."
+        },
+        "player2": {
+          "name": "MARTYNOV E."
+        }
+      }
+    ]
+  ]
 }
