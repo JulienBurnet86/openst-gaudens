@@ -142,7 +142,10 @@
         }
       },
       {
-        "player1": {},
+        "player1": {
+          "name": "CIRIC BAGARIC L.",
+          "score": "6/1 6/1"
+        },
         "player2": {
           "name": "SISKOVA A.",
           "score": "6/1 6/1"
@@ -176,7 +179,10 @@
         }
       },
       {
-        "player1": {},
+        "player1": {
+          "name": "BERTOLDO J.",
+          "score": "6/4 3/6 7/6"
+        },
         "player2": {
           "name": "MCADOO R.",
           "score": "4/6 6/3 6/3"
