@@ -1,4 +1,71 @@
 {
   "isDoubles": true,
-  "rounds": []
+  "rounds": [
+    [
+      {
+        "player1": {
+          "name": "MARTINS/STRAKHOVA"
+        },
+        "player2": {
+          "name": "LIZARAZO/PEREZ-GARCIA"
+        }
+      },
+      {
+        "player1": {
+          "name": "CASCINO/LEONARD"
+        },
+        "player2": {
+          "name": "JACQUEMOT/ROUVROY"
+        }
+      },
+      {
+        "player1": {
+          "name": "KARAMOKO/MIKULSKYTE"
+        },
+        "player2": {
+          "name": "DARTRON/RAKOTOMANGA"
+        }
+      },
+      {
+        "player1": {
+          "name": "BASSOLS/LAZARO"
+        },
+        "player2": {
+          "name": "BELGRAVER/BOISSON"
+        }
+      },
+      {
+        "player1": {
+          "name": "DIATCHENKO/KALASHNIKOVA"
+        },
+        "player2": {
+          "name": "BARTANUSZ/SANON"
+        }
+      },
+      {
+        "player1": {
+          "name": "ILIEV/LENE"
+        },
+        "player2": {
+          "name": "PONCHET/TANG"
+        }
+      },
+      {
+        "player1": {
+          "name": "MORDERGER/MORDERGER"
+        },
+        "player2": {
+          "name": "CHARAEVA/KULAMBAYEVA"
+        }
+      },
+      {
+        "player1": {
+          "name": "KNUTSON/SISKOVA"
+        },
+        "player2": {
+          "name": "MCADOO/MONNET"
+        }
+      }
+    ]
+  ]
 }
