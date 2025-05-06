@@ -162,7 +162,10 @@
         }
       },
       {
-        "player1": {},
+        "player1": {
+          "name": "DARTRON E.",
+          "score": "6/3 6/2"
+        },
         "player2": {
           "name": "LIM J.",
           "score": "4/6 6/1 6/3"
@@ -206,6 +209,48 @@
         "player2": {
           "name": "LENE E.",
           "score": "6/3 3/6 7/5"
+        }
+      }
+    ],
+    [
+      {
+        "player1":{
+          "name": "UDVARDY L.",
+          "score": "6/3 6/1"
+        },
+        "player2":{
+          "name": "SISKOVA A.",
+          "score": "6/4 6/1"
+        }
+      },
+      {
+        "player1":{
+          "name": "MARTYNOV D.",
+          "score": "7/5 6/2"
+        },
+        "player2":{
+          "name": "LIM J.",
+          "score": "7/6 7/6"
+        }
+      },
+      {
+        "player1":{
+          "name": "BELGRAVER J.",
+          "score": "7/6 7/6"
+        },
+        "player2":{
+          "name": "BERTOLDO J.",
+          "score": "6/1 6/4"
+        }
+      },
+      {
+        "player1":{
+          "name": "SIMION O.",
+          "score": "7/6 4/6 7/5"
+        },
+        "player2":{
+          "name": "RAME A.",
+          "score": "6/4 4/6 6/3"
         }
       }
     ]
