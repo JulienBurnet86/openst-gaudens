@@ -6,12 +6,12 @@
           "name": "WEI S."
         }, 
         "player2" : {
-          "name": "Q."
+          "name": "MARTYNOV D."
         }
       },
       {
         "player1": {
-          "name": "Q."
+          "name": "BERTOLDO J."
         }, 
         "player2" : {
           "name": "STRAKHOVA V."
@@ -19,10 +19,10 @@
       },
       {
         "player1": {
-          "name": "Q."
+          "name": "SIMION O."
         }, 
         "player2" : {
-          "name": "Q."
+          "name": "LIM J."
         }
       },
       {
@@ -38,7 +38,7 @@
           "name": "PROZOROVA T."
         }, 
         "player2" : {
-          "name": "Q."
+          "name": "UDVARDY L."
         }
       },
       {
@@ -51,7 +51,7 @@
       },
       {
         "player1": {
-          "name": "Q."
+          "name": "SISKOVA A."
         }, 
         "player2" : {
           "name": "ROSATELLO C."
@@ -78,7 +78,7 @@
           "name": "TAN H."
         }, 
         "player2" : {
-          "name": "Q."
+          "name": "RAME A."
         }
       },
       {
@@ -86,7 +86,7 @@
           "name": "BARTASHEVICH Y."
         }, 
         "player2" : {
-          "name": "Q."
+          "name": "BELGRAVER J."
         }
       },
       {
@@ -127,6 +127,130 @@
         }, 
         "player2" : {
           "name": "PONCHET J."
+        }
+      }
+    ],
+    [
+      {
+        "player1": {
+          "name": "MARTYNOV D.",
+          "score": "6/7 7/6 6/4"
+        }, 
+        "player2" : {
+          "name": "BERTOLDO J.",
+          "score": "3/6 6/4 6/1"
+        }
+      },
+      {
+        "player1": {
+          "name": "SIMION O.",
+          "score": "6/3 1/6 7/6"
+        }, 
+        "player2" : {
+          "name": "MONNET C.",
+          "score": "7/6 7/6"
+        }
+      },
+      {
+        "player1": {
+          "name": "PROZOROVA T.",
+          "score": "6/7 6/3 6/3"
+        }, 
+        "player2" : {
+          "name": "HESSE A.",
+          "score": "3/6 6/1 6/2"
+        }
+      },
+      {
+        "player1": {
+          "name": "ROSATELLO C.",
+          "score": "6/3 7/6"
+        }, 
+        "player2" : {
+          "name": "LANGLAIS C.",
+          "score": "6/4 7/6"
+        }
+      },
+      {
+        "player1": {
+          "name": "BOISSON L.",
+          "score": "4/6 6/1 6/1"
+        }, 
+        "player2" : {
+          "name": "RAME A.",
+          "score": "6/2 4/2 ret."
+        }
+      },
+      {
+        "player1": {
+          "name": "BELGRAVER J.",
+          "score": "2/6 6/0 6/3"
+        }, 
+        "player2" : {
+          "name": "JACQUEMOT E.",
+          "score": "7/5 6/1"
+        }
+      },
+      {
+        "player1": {
+          "name": "CHARAEVA A.",
+          "score": "6/2 6/4"
+        }, 
+        "player2" : {
+          "name": "BASSOLS RIBERA M.",
+          "score": "2/6 6/1 6/1"
+        }
+      },
+      {
+        "player1": {
+          "name": "QUEVEDO K.",
+          "score": "6/1 3/0 ret."
+        }, 
+        "player2" : {
+          "name": "PONCHET J.",
+          "score": "6/1 7/6"
+        }
+      }
+    ],
+    [
+      {
+        "player1": {
+          "name": "BERTOLDO J.",
+          "score": "6/3 2/6 7/5"
+        }, 
+        "player2" : {
+          "name": "MONNET C.",
+          "score": "6/2 7/5"
+        }
+      },
+      {
+        "player1": {
+          "name": "PROZOROVA T.",
+          "score": "6/2 6/0"
+        }, 
+        "player2" : {
+          "name": "ROSATELLO C.",
+          "score": "6/1 6/4"
+        }
+      },
+      {
+        "player1": {
+          "name": "BOISSON L.",
+          "score": "6/3 6/2"
+        }, 
+        "player2" : {
+          "name": "BELGRAVER J.",
+          "score": "6/3 6/2"
+        }
+      },
+      {
+        "player1": {
+          "name": "CHARAEVA A.",
+          "score": "6/1 3/6 6/2"
+        }, 
+        "player2" : {
+          "name": "PONCHET J.",
+          "score": "6/3 5/7 6/4"
         }
       }
     ]
