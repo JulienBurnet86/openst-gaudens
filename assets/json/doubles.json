@@ -66,6 +66,70 @@
           "name": "MCADOO/MONNET"
         }
       }
+    ],
+    [
+      {
+        "player1": {
+          "name": "MARTINS/STRAKHOVA",
+          "score": "6/4 6/1"
+        },
+        "player2": {
+          "name": "CASCINO/LEONARD",
+          "score": "3/6 6/2 10/7"
+        }
+      },
+      {
+        "player1": {
+          "name": "DARTRON/RAKOTOMANGA",
+          "score": "w.o."
+        },
+        "player2": {
+          "name": "BASSOLS/LAZARO",
+          "score": "6/4 6/2"
+        }
+      },
+      {
+        "player1": {
+          "name": "DIATCHENKO/KALASHNIKOVA",
+          "score": "6/3 5/7 10/8"
+        },
+        "player2": {
+          "name": "PONCHET/TANG",
+          "score": "6/4 6/4"
+        }
+      },
+      {
+        "player1": {
+          "name": "CHARAEVA/KULAMBAYEVA",
+          "score": "6/2 6/0"
+        },
+        "player2": {
+          "name": "KNUTSON/SISKOVA",
+          "score": "6/0 6/4"
+        }
+      }
+    ], 
+    [
+      {
+        "player1": {
+          "name": "CASCINO/LEONARD",
+          "score": "4/6 7/5 10/7"
+        },
+        "player2": {
+          "name": "DARTRON/RAKOTOMANGA",
+          "score": "6/0 6/3"
+        }
+      },
+      {
+        "player1": {
+          "name": "DIATCHENKO/KALASHNIKOVA",
+          "score": "5/7 7/6 10/7"
+        },
+        "player2": {
+          "name": "KNUTSON/SISKOVA",
+          "score": "7/6 2/6 10/5"
+        }
+      }
     ]
   ]
 }
