@@ -60,7 +60,7 @@
 						<article id="main" class="special">
 							<header>
 								<h2><a href="#">Pictures</a></h2>
-								<p>Here find pictures, hosted by @flickr, grouped by players</p>
+								<p></p>
 							</header>
 						</article>
 						
@@ -68,7 +68,7 @@
 
 					<section>
 						<div class="container">
-							<div class="row pics center">
+							<div id="mygallery" style="max-width:80%" class="center">
 								
 							</div>
 						</div>
@@ -76,6 +76,20 @@
 
 				</div>
 
+				<script src="https://product-gallery.cloudinary.com/latest/all.js" type="text/javascript">  
+				</script>
+			
+				<script defer> 
+		
+					const myGallery = cloudinary.galleryWidget({ 
+						container: "#mygallery", 
+						cloudName: "dqm3mk2tn", 
+						mediaAssets: [{ tag: "tennis" }]    // by default mediaType: "image"
+					});
+					myGallery.render();
+			
+				</script>
+				
 			<!-- Footer -->
 			<div id="footer">
 	<div class="container">
@@ -125,110 +139,8 @@
 insights.init('zNxYVGwBJg32ZfPn');
 insights.trackPages();
 </script>
-		<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-		<script>
-
-			var picturesStack = [
-					`<article class="col-3 col-12-mobile"> 
-					</article>
-					<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299072843" title="Anastasia TIKHONOVA"><img src="https://live.staticflickr.com/65535/52083038231_e960aaca88_k.jpg" width="320" height="240" alt="Anastasia TIKHONOVA"></a>
-						<p>Anastasia TIKHONOVA</p>
-					</article>
-					<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299072693" title="Lulu SUN"><img src="https://live.staticflickr.com/65535/52083032651_3dcd66e616_k.jpg" width="320" height="240" alt="Lulu SUN"></a>
-						<p>Lulu SUN</p>
-					</article>
-					<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299068849" title="Daria SNIGUR"><img src="https://live.staticflickr.com/65535/52083026876_d0eb65424b_k.jpg" width="320" height="240" alt="Daria SNIGUR"></a>
-						<p>Daria SNIGUR</p>
-					</article>`,
-					`<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299068614" title="Sada NAHIMANA"><img src="https://live.staticflickr.com/65535/52083008696_6b3f6801fe_k.jpg" width="320" height="240" alt="Sada NAHIMANA"></a>
-						<p>Sada NAHIMANA</p>
-					</article>
-					<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299068409" title="Margot YEROLYMOS"><img src="https://live.staticflickr.com/65535/52081958537_670c0de47c_k.jpg" width="320" height="240" alt="Margot YEROLYMOS"></a>
-						<p>Margot YEROLYMOS</p>
-					</article>
-					<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299061036" title="Kristina DMITRUK"><img src="https://live.staticflickr.com/65535/52083480295_458f7d1765_k.jpg" width="320" height="240" alt="Kristina DMITRUK"></a>
-						<p>Kristina DMITRUK</p>
-					</article>
-					<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299071918" title="Julie BELGRAVER"><img src="https://live.staticflickr.com/65535/52081940932_0fcd528f45_k.jpg" width="320" height="240" alt="Julie BELGRAVER"></a>
-						<p>Julie BELGRAVER</p>
-					</article>`,
-					`
-					<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299064130" title="Ylena IN-ALBON"><img src="https://live.staticflickr.com/65535/52082981238_e8519a56c7_k.jpg" width="320" height="240" alt="Ylena IN-ALBON"></a>
-						<p>Ylena IN-ALBON</p>
-					</article>
-					<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299071728" title="Valentini GRAMMATIKOPOULOU"><img src="https://live.staticflickr.com/65535/52082974273_feaf29c684_k.jpg" width="320" height="240" alt="Valentini GRAMMATIKOPOULOU"></a>
-						<p>Valentini GRAMMATIKOPOULOU</p>
-					</article>
-					<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299064112" title="Jaimee FOURLIS"><img src="https://live.staticflickr.com/65535/52083192254_b0a4edfe0e_k.jpg" width="320" height="240" alt="Jaimee FOURLIS"></a>
-						<p>Jaimee FOURLIS</p>
-					</article>
-					<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299064042" title="Jana FETT"><img src="https://live.staticflickr.com/65535/52082947226_92a7cd3af6_k.jpg" width="320" height="240" alt="Jana FETT"></a>
-						<p>Jana FETT</p>
-					</article>`,
-					`<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299060351" title="Emeline DARTRON"><img src="https://live.staticflickr.com/65535/52081901327_4dc980398f_k.jpg" width="320" height="240" alt="Emeline DARTRON"></a>
-						<p>Emeline DARTRON</p>
-					</article>
-					<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299060236" title="Fernanda CONTRERAS GOMEZ"><img src="https://live.staticflickr.com/65535/52083416725_73b29cfdf5_k.jpg" width="320" height="240" alt="Fernanda CONTRERAS GOMEZ"></a>
-						<p>Fernanda CONTRERAS GOMEZ</p>
-					</article>
-					<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299063662" title="Carole MONNET"><img src="https://live.staticflickr.com/65535/52083409285_64d3b419f5_k.jpg" width="320" height="240" alt="Carole MONNET"></a>
-						<p>Carole MONNET</p>
-					</article>
-					<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299071133" title="Carolina ALVES"><img src="https://live.staticflickr.com/65535/52083397215_7858610df7_k.jpg" width="320" height="240" alt="Carolina ALVES"></a>
-						<p>Carolina ALVES</p>
-					</article>`,
-					`
-					<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299063312" title="Astra SHARMA"><img src="https://live.staticflickr.com/65535/52081848037_5f2bdce2f4_k.jpg" width="320" height="240" alt="Astra SHARMA"></a>
-						<p>Astra SHARMA</p>
-					</article>
-					<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299070298" title="Alice RAME"><img src="https://live.staticflickr.com/65535/52081820557_a5adc9ee18_k.jpg" width="320" height="240" alt="Alice RAME"></a>
-						<p>Alice RAME</p>
-					</article>
-					<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720299061281" title="Finales"><img src="https://live.staticflickr.com/65535/52083237349_5849908340_k.jpg" width="320" height="240" alt="Finales"></a>
-						<p>Finales</p>
-					</article>
-					`,
-					`<article class="col-3 col-12-mobile"> 
-						<a data-flickr-embed="true" href="https://www.flickr.com/photos/155050037@N06/albums/72177720308479312" title="Finale 2023"><img src="https://live.staticflickr.com/65535/52918045354_f5ede13fbe_z.jpg" width="320" height="240" alt="Finale 2023"/></a>
-						<p>Finale 2023</p>
-					</article>
-					<article class="col-3 col-12-mobile"> 
-					</article>
-					<article class="col-3 col-12-mobile"> 
-					</article>
-					<article class="col-3 col-12-mobile"> 
-					</article>`,
-			]
-
-			$(window).scroll(function() {
-				if($(document).height() / ($(window).scrollTop() + $(window).height()) < 1.5 ) {
-					// ajax call get data from server and append to the div
-					var content = picturesStack.pop();
-					if (content) 
-						$(".pics").append(content);
-				}
-			});
-		</script>
-		<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 	</body>
+
+
 </html>
