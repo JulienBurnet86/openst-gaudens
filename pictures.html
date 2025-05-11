@@ -89,6 +89,12 @@
 							mode: 'expanded',
 							columns: 6
 						},
+						zoomProps: {
+							type: "popup",
+							steps: 3,
+							stepLimit: true, 
+							level: 1.3 // each step zooms in another 130%
+						},
 						sortProps: {direction: 'desc'},
 						mediaAssets: [{ tag: "tennis" }]    // by default mediaType: "image"
 					});
